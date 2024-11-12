@@ -3839,6 +3839,21 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
+## LLM
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Anchor Attention, Small Cache: Code Generation with Large Language Models**|Xiangyu Zhang et.al.|[2411.06680](http://arxiv.org/abs/2411.06680)|null|
+|**2024-11-10**|**Accelerating Large Language Model Training with 4D Parallelism and Memory Consumption Estimator**|Kazuki Fujii et.al.|[2411.06465](http://arxiv.org/abs/2411.06465)|null|
+|**2024-11-08**|**Balancing Pipeline Parallelism with Vocabulary Parallelism**|Man Tsung Yeung et.al.|[2411.05288](http://arxiv.org/abs/2411.05288)|null|
+|**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965](http://arxiv.org/abs/2411.04965)|null|
+|**2024-11-06**|**Stepping Forward on the Last Mile**|Chen Feng et.al.|[2411.04036](http://arxiv.org/abs/2411.04036)|null|
+|**2024-11-05**|**TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection**|Wei Wu et.al.|[2411.02886](http://arxiv.org/abs/2411.02886)|null|
+|**2024-11-05**|**DroidSpeak: Enhancing Cross-LLM Communication**|Yuhan Liu et.al.|[2411.02820](http://arxiv.org/abs/2411.02820)|null|
+|**2024-11-04**|**"Give Me BF16 or Give Me Death"? Accuracy-Performance Trade-Offs in LLM Quantization**|Eldar Kurtic et.al.|[2411.02355](http://arxiv.org/abs/2411.02355)|null|
+|**2024-11-04**|**Real-time and Downtime-tolerant Fault Diagnosis for Railway Turnout Machines (RTMs) Empowered with Cloud-Edge Pipeline Parallelism**|Fan Wu et.al.|[2411.02086](http://arxiv.org/abs/2411.02086)|null|
+|**2024-11-04**|**xDiT: an Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism**|Jiarui Fang et.al.|[2411.01738](http://arxiv.org/abs/2411.01738)|**[link](https://github.com/xdit-project/xdit)**|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
