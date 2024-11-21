@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**Faster Multi-GPU Training with PPLL: A Pipeline Parallelism Framework Leveraging Local Learning**|Xiuyuan Guo et.al.|[2411.12780](http://arxiv.org/abs/2411.12780)|null|
 |**2024-11-18**|**Parsing Millions of DNS Records per Second**|Jeroen Koekkoek et.al.|[2411.12035](http://arxiv.org/abs/2411.12035)|null|
 |**2024-11-17**|**SageAttention2 Technical Report: Accurate 4 Bit Attention for Plug-and-play Inference Acceleration**|Jintao Zhang et.al.|[2411.10958](http://arxiv.org/abs/2411.10958)|**[link](https://github.com/thu-ml/SageAttention)**|
 |**2024-11-16**|**Multi-Stage Vision Token Dropping: Towards Efficient Multimodal Large Language Model**|Ting Liu et.al.|[2411.10803](http://arxiv.org/abs/2411.10803)|null|
