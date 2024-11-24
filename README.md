@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.23
+## Updated on 2024.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 |**2024-11-21**|**Quantization without Tears**|Minghao Fu et.al.|[2411.13918](http://arxiv.org/abs/2411.13918)|null|
 |**2024-11-19**|**Faster Multi-GPU Training with PPLL: A Pipeline Parallelism Framework Leveraging Local Learning**|Xiuyuan Guo et.al.|[2411.12780](http://arxiv.org/abs/2411.12780)|null|
-|**2024-11-18**|**Parsing Millions of DNS Records per Second**|Jeroen Koekkoek et.al.|[2411.12035](http://arxiv.org/abs/2411.12035)|null|
+|**2024-11-18**|**Parsing Millions of DNS Records per Second**|Jeroen Koekkoek et.al.|[2411.12035](http://arxiv.org/abs/2411.12035)|**[link](https://github.com/nlnetlabs/simdzone)**|
 |**2024-11-17**|**SageAttention2 Technical Report: Accurate 4 Bit Attention for Plug-and-play Inference Acceleration**|Jintao Zhang et.al.|[2411.10958](http://arxiv.org/abs/2411.10958)|**[link](https://github.com/thu-ml/SageAttention)**|
 |**2024-11-16**|**Multi-Stage Vision Token Dropping: Towards Efficient Multimodal Large Language Model**|Ting Liu et.al.|[2411.10803](http://arxiv.org/abs/2411.10803)|null|
 |**2024-11-15**|**SmoothCache: A Universal Inference Acceleration Technique for Diffusion Transformers**|Joseph Liu et.al.|[2411.10510](http://arxiv.org/abs/2411.10510)|**[link](https://github.com/roblox/smoothcache)**|
@@ -40,7 +40,7 @@
 |**2024-11-01**|**MoNTA: Accelerating Mixture-of-Experts Training with Network-Traffc-Aware Parallel Optimization**|Jingming Guo et.al.|[2411.00662](http://arxiv.org/abs/2411.00662)|**[link](https://github.com/enflametechnology/deepspeed)**|
 |**2024-11-01**|**Constrained Diffusion Implicit Models**|Vivek Jayaram et.al.|[2411.00359](http://arxiv.org/abs/2411.00359)|null|
 
-<p align=right>(<a href=#updated-on-20241123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241124>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
