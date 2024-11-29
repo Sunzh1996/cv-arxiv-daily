@@ -18,7 +18,7 @@ layout: default
 |**2024-11-27**|**Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077](http://arxiv.org/abs/2411.18077)|null|
 |**2024-11-27**|**Addressing Architectural Obstacles for Overlay with Stream Network Abstraction**|Chengyue Wang et.al.|[2411.17966](http://arxiv.org/abs/2411.17966)|null|
 |**2024-11-20**|**MAS-Attention: Memory-Aware Stream Processing for Attention Acceleration on Resource-Constrained Edge Devices**|Mohammadali Shakerdargah et.al.|[2411.17720](http://arxiv.org/abs/2411.17720)|null|
-|**2024-11-26**|**Attamba: Attending To Multi-Token States**|Yash Akhauri et.al.|[2411.17685](http://arxiv.org/abs/2411.17685)|null|
+|**2024-11-26**|**Attamba: Attending To Multi-Token States**|Yash Akhauri et.al.|[2411.17685](http://arxiv.org/abs/2411.17685)|**[link](https://github.com/abdelfattah-lab/attamba)**|
 |**2024-11-26**|**Toward High-Performance LLM Serving: A Simulation-Based Approach for Identifying Optimal Parallelism**|Yi-Chien Lin et.al.|[2411.17651](http://arxiv.org/abs/2411.17651)|null|
 |**2024-11-26**|**Star Attention: Efficient LLM Inference over Long Sequences**|Shantanu Acharya et.al.|[2411.17116](http://arxiv.org/abs/2411.17116)|**[link](https://github.com/NVIDIA/Star-Attention)**|
 |**2024-11-26**|**Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation**|Chaoyi Jiang et.al.|[2411.17089](http://arxiv.org/abs/2411.17089)|null|
