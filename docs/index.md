@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Compressing KV Cache for Long-Context LLM Inference with Inter-Layer Attention Similarity**|Da Ma et.al.|[2412.02252](http://arxiv.org/abs/2412.02252)|null|
+|**2024-12-02**|**RandAR: Decoder-only Autoregressive Visual Generation in Random Orders**|Ziqi Pang et.al.|[2412.01827](http://arxiv.org/abs/2412.01827)|null|
+|**2024-12-03**|**Yi-Lightning Technical Report**|01. AI et.al.|[2412.01253](http://arxiv.org/abs/2412.01253)|null|
+|**2024-12-02**|**INTELLECT-1 Technical Report**|Sami Jaghouar et.al.|[2412.01152](http://arxiv.org/abs/2412.01152)|null|
+|**2024-12-03**|**Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification**|Wenxuan Huang et.al.|[2412.00876](http://arxiv.org/abs/2412.00876)|**[link](https://github.com/osilly/dynamic_llava)**|
+|**2024-12-01**|**AlignMamba: Enhancing Multimodal Mamba with Local and Global Cross-modal Alignment**|Yan Li et.al.|[2412.00833](http://arxiv.org/abs/2412.00833)|null|
+|**2024-12-01**|**MERLIN: Multi-stagE query performance prediction for dynamic paRallel oLap pIpeliNe**|Kaixin Zhang et.al.|[2412.00749](http://arxiv.org/abs/2412.00749)|null|
+|**2024-12-01**|**2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification**|Jingwei Zhang et.al.|[2412.00678](http://arxiv.org/abs/2412.00678)|**[link](https://github.com/atlasanalyticslab/2dmamba)**|
+|**2024-11-30**|**MaintAGT:Sim2Real-Guided Multimodal Large Model for Intelligent Maintenance with Chain-of-Thought Reasoning**|Hongliang He et.al.|[2412.00481](http://arxiv.org/abs/2412.00481)|null|
+|**2024-11-27**|**Mixture of Cache-Conditional Experts for Efficient Mobile Device Inference**|Andrii Skliar et.al.|[2412.00099](http://arxiv.org/abs/2412.00099)|null|
 |**2024-11-29**|**DeMo: Decoupled Momentum Optimization**|Bowen Peng et.al.|[2411.19870](http://arxiv.org/abs/2411.19870)|**[link](https://github.com/bloc97/demo)**|
 |**2024-11-27**|**FastSwitch: Optimizing Context Switching Efficiency in Fairness-aware Large Language Model Serving**|Ao Shen et.al.|[2411.18424](http://arxiv.org/abs/2411.18424)|null|
 |**2024-11-28**|**MiniKV: Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077](http://arxiv.org/abs/2411.18077)|null|
