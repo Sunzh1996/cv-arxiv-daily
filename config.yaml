@@ -23,4 +23,8 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "LLM": 
-        filters: ["KV Cache", "inference acceleration", "long sequence", "multimodal large model", "heterogeneous inference", "pipeline parallelism", "data parallelism", "tensor parallelism", "operator parallelism", "distributed deep learning"]
+        filters: ["KV Cache", "inference acceleration", "long sequence", "multi-turn dialogue"]
+    "MLLM": 
+        filters: ["multimodal large model", "multimodal understanding", "multimodal generation"]
+    "Train and Infer": 
+        filters: ["heterogeneous inference", "pipeline parallelism", "data parallelism", "tensor parallelism", "operator parallelism", "distributed deep learning"]
