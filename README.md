@@ -10,6 +10,8 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#llm>LLM</a></li>
+    <li><a href=#mllm>MLLM</a></li>
+    <li><a href=#train-and-infer>Train and Infer</a></li>
   </ol>
 </details>
 
@@ -81,6 +83,60 @@
 |**2024-11-02**|**NEO: Saving GPU Memory Crisis with CPU Offloading for Online LLM Inference**|Xuanlin Jiang et.al.|[2411.01142](http://arxiv.org/abs/2411.01142)|null|
 |**2024-11-01**|**MoNTA: Accelerating Mixture-of-Experts Training with Network-Traffc-Aware Parallel Optimization**|Jingming Guo et.al.|[2411.00662](http://arxiv.org/abs/2411.00662)|**[link](https://github.com/enflametechnology/deepspeed)**|
 |**2024-11-01**|**Constrained Diffusion Implicit Models**|Vivek Jayaram et.al.|[2411.00359](http://arxiv.org/abs/2411.00359)|null|
+
+<p align=right>(<a href=#updated-on-20241209>back to top</a>)</p>
+
+## MLLM
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-12-05**|**EgoPlan-Bench2: A Benchmark for Multimodal Large Language Model Planning in Real-World Scenarios**|Lu Qiu et.al.|[2412.04447](http://arxiv.org/abs/2412.04447)|null|
+|**2024-12-05**|**Liquid: Language Models are Scalable Multi-modal Generators**|Junfeng Wu et.al.|[2412.04332](http://arxiv.org/abs/2412.04332)|null|
+|**2024-12-05**|**AIpparel: A Large Multimodal Generative Model for Digital Garments**|Kiyohiro Nakayama et.al.|[2412.03937](http://arxiv.org/abs/2412.03937)|null|
+|**2024-12-04**|**TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation**|Liao Qu et.al.|[2412.03069](http://arxiv.org/abs/2412.03069)|null|
+|**2024-12-02**|**FastRM: An efficient and automatic explainability framework for multimodal generative models**|Gabriela Ben-Melech Stan et.al.|[2412.01487](http://arxiv.org/abs/2412.01487)|null|
+|**2024-11-30**|**MaintAGT:Sim2Real-Guided Multimodal Large Model for Intelligent Maintenance with Chain-of-Thought Reasoning**|Hongliang He et.al.|[2412.00481](http://arxiv.org/abs/2412.00481)|null|
+|**2024-11-29**|**Multimodal Whole Slide Foundation Model for Pathology**|Tong Ding et.al.|[2411.19666](http://arxiv.org/abs/2411.19666)|**[link](https://github.com/mahmoodlab/titan)**|
+|**2024-11-28**|**Beyond Logit Lens: Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs**|Anirudh Phukan et.al.|[2411.19187](http://arxiv.org/abs/2411.19187)|null|
+|**2024-11-28**|**ScratchEval: Are GPT-4o Smarter than My Child? Evaluating Large Multimodal Models with Visual Programming Challenges**|Rao Fu et.al.|[2411.18932](http://arxiv.org/abs/2411.18932)|**[link](https://github.com/hkbunlp/scratcheval)**|
+|**2024-12-01**|**GATE OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation**|Pengfei Zhou et.al.|[2411.18499](http://arxiv.org/abs/2411.18499)|null|
+|**2024-12-02**|**ChatRex: Taming Multimodal LLM for Joint Perception and Understanding**|Qing Jiang et.al.|[2411.18363](http://arxiv.org/abs/2411.18363)|**[link](https://github.com/idea-research/chatrex)**|
+|**2024-12-05**|**MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding**|Rongchang Xie et.al.|[2411.17762](http://arxiv.org/abs/2411.17762)|null|
+|**2024-11-24**|**M3-CVC: Controllable Video Compression with Multimodal Generative Models**|Rui Wan et.al.|[2411.15798](http://arxiv.org/abs/2411.15798)|null|
+|**2024-11-23**|**Enhancing Instruction-Following Capability of Visual-Language Models by Reducing Image Redundancy**|Te Yang et.al.|[2411.15453](http://arxiv.org/abs/2411.15453)|null|
+|**2024-11-23**|**Exploring Large Language Models for Multimodal Sentiment Analysis: Challenges, Benchmarks, and Future Directions**|Shezheng Song et.al.|[2411.15408](http://arxiv.org/abs/2411.15408)|null|
+|**2024-11-22**|**VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection**|Songhao Han et.al.|[2411.14794](http://arxiv.org/abs/2411.14794)|**[link](https://github.com/hshjerry/videoespresso)**|
+|**2024-11-22**|**Benchmarking Multimodal Models for Ukrainian Language Understanding Across Academic and Cultural Domains**|Yurii Paniv et.al.|[2411.14647](http://arxiv.org/abs/2411.14647)|null|
+|**2024-11-21**|**Safety Without Semantic Disruptions: Editing-free Safe Image Generation via Context-preserving Dual Latent Reconstruction**|Jordan Vice et.al.|[2411.13982](http://arxiv.org/abs/2411.13982)|null|
+|**2024-11-21**|**On the Fairness, Diversity and Reliability of Text-to-Image Generative Models**|Jordan Vice et.al.|[2411.13981](http://arxiv.org/abs/2411.13981)|null|
+|**2024-11-18**|**CCExpert: Advancing MLLM Capability in Remote Sensing Change Captioning with Difference-Aware Integration and a Foundational Dataset**|Zhiming Wang et.al.|[2411.11360](http://arxiv.org/abs/2411.11360)|**[link](https://github.com/meize0729/ccexpert)**|
+
+<p align=right>(<a href=#updated-on-20241209>back to top</a>)</p>
+
+## Train and Infer
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-12-03**|**Resource-Adaptive Successive Doubling for Hyperparameter Optimization with Large Datasets on High-Performance Computing Systems**|Marcel Aach et.al.|[2412.02729](http://arxiv.org/abs/2412.02729)|**[link](https://github.com/olympiquemarcel/rasda)**|
+|**2024-12-02**|**INTELLECT-1 Technical Report**|Sami Jaghouar et.al.|[2412.01152](http://arxiv.org/abs/2412.01152)|null|
+|**2024-12-01**|**MERLIN: Multi-stagE query performance prediction for dynamic paRallel oLap pIpeliNe**|Kaixin Zhang et.al.|[2412.00749](http://arxiv.org/abs/2412.00749)|null|
+|**2024-11-29**|**DeMo: Decoupled Momentum Optimization**|Bowen Peng et.al.|[2411.19870](http://arxiv.org/abs/2411.19870)|**[link](https://github.com/bloc97/demo)**|
+|**2024-11-27**|**Addressing Architectural Obstacles for Overlay with Stream Network Abstraction**|Chengyue Wang et.al.|[2411.17966](http://arxiv.org/abs/2411.17966)|null|
+|**2024-11-26**|**Toward High-Performance LLM Serving: A Simulation-Based Approach for Identifying Optimal Parallelism**|Yi-Chien Lin et.al.|[2411.17651](http://arxiv.org/abs/2411.17651)|null|
+|**2024-11-25**|**Lion Cub: Minimizing Communication Overhead in Distributed Lion**|Satoki Ishikawa et.al.|[2411.16462](http://arxiv.org/abs/2411.16462)|null|
+|**2024-11-24**|**Hiding Communication Cost in Distributed LLM Training via Micro-batch Co-execution**|Haiquan Wang et.al.|[2411.15871](http://arxiv.org/abs/2411.15871)|null|
+|**2024-11-21**|**Functional Array Programming in an Extended Pi-Calculus**|Hans Hüttel et.al.|[2411.14579](http://arxiv.org/abs/2411.14579)|null|
+|**2024-11-19**|**Faster Multi-GPU Training with PPLL: A Pipeline Parallelism Framework Leveraging Local Learning**|Xiuyuan Guo et.al.|[2411.12780](http://arxiv.org/abs/2411.12780)|null|
+|**2024-11-18**|**Parsing Millions of DNS Records per Second**|Jeroen Koekkoek et.al.|[2411.12035](http://arxiv.org/abs/2411.12035)|**[link](https://github.com/nlnetlabs/simdzone)**|
+|**2024-11-15**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
+|**2024-11-12**|**Towards Low-bit Communication for Tensor Parallel LLM Inference**|Harry Dong et.al.|[2411.07942](http://arxiv.org/abs/2411.07942)|null|
+|**2024-11-10**|**Accelerating Large Language Model Training with 4D Parallelism and Memory Consumption Estimator**|Kazuki Fujii et.al.|[2411.06465](http://arxiv.org/abs/2411.06465)|null|
+|**2024-11-08**|**Balancing Pipeline Parallelism with Vocabulary Parallelism**|Man Tsung Yeung et.al.|[2411.05288](http://arxiv.org/abs/2411.05288)|**[link](https://github.com/sail-sg/vocabularyparallelism)**|
+|**2024-11-04**|**Real-time and Downtime-tolerant Fault Diagnosis for Railway Turnout Machines (RTMs) Empowered with Cloud-Edge Pipeline Parallelism**|Fan Wu et.al.|[2411.02086](http://arxiv.org/abs/2411.02086)|null|
+|**2024-11-04**|**xDiT: an Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism**|Jiarui Fang et.al.|[2411.01738](http://arxiv.org/abs/2411.01738)|**[link](https://github.com/xdit-project/xdit)**|
+|**2024-11-01**|**MoNTA: Accelerating Mixture-of-Experts Training with Network-Traffc-Aware Parallel Optimization**|Jingming Guo et.al.|[2411.00662](http://arxiv.org/abs/2411.00662)|**[link](https://github.com/enflametechnology/deepspeed)**|
+|**2024-11-05**|**SimpleFSDP: Simpler Fully Sharded Data Parallel with torch.compile**|Ruisi Zhang et.al.|[2411.00284](http://arxiv.org/abs/2411.00284)|null|
+|**2024-11-08**|**How Does Critical Batch Size Scale in Pre-training?**|Hanlin Zhang et.al.|[2410.21676](http://arxiv.org/abs/2410.21676)|**[link](https://github.com/hlzhang109/critical-batch-size)**|
 
 <p align=right>(<a href=#updated-on-20241209>back to top</a>)</p>
 
