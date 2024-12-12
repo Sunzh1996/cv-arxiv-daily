@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**TURBOATTENTION: Efficient Attention Approximation For High Throughputs LLMs**|Hao Kang et.al.|[2412.08585](http://arxiv.org/abs/2412.08585)|null|
+|**2024-12-11**|**EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Cache Compression Based on Global-Local Importance**|Yingxin Li et.al.|[2412.08521](http://arxiv.org/abs/2412.08521)|null|
 |**2024-12-10**|**From Slow Bidirectional to Fast Causal Video Generators**|Tianwei Yin et.al.|[2412.07772](http://arxiv.org/abs/2412.07772)|null|
 |**2024-12-10**|**ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion Transformer**|Jinyi Hu et.al.|[2412.07720](http://arxiv.org/abs/2412.07720)|**[link](https://github.com/thunlp/acdit)**|
 |**2024-12-10**|**Manta: Enhancing Mamba for Few-Shot Action Recognition of Long Sub-Sequence**|Wenbo Huang et.al.|[2412.07481](http://arxiv.org/abs/2412.07481)|null|
@@ -95,6 +97,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635](http://arxiv.org/abs/2412.08635)|null|
 |**2024-12-10**|**Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios**|Jiaqi Fan et.al.|[2412.07518](http://arxiv.org/abs/2412.07518)|**[link](https://github.com/fjq-tongji/hcoenet)**|
 |**2024-12-10**|**Driving with InternVL: Oustanding Champion in the Track on Driving with Language of the Autonomous Grand Challenge at CVPR 2024**|Jiahan Li et.al.|[2412.07247](http://arxiv.org/abs/2412.07247)|null|
 |**2024-12-10**|**RoboMM: All-in-One Multimodal Large Model for Robotic Manipulation**|Feng Yan et.al.|[2412.07215](http://arxiv.org/abs/2412.07215)|**[link](https://github.com/RoboUniview/RoboMM)**|
@@ -127,7 +130,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-09**|**FP=xINT:A Low-Bit Series Expansion Algorithm for Post-Training Quantization**|Boyang Zhang et.al.|[2412.06865](http://arxiv.org/abs/2412.06865)|null|
-|**2024-12-06**|**Flash Communication: Reducing Tensor Parallelization Bottleneck for Fast Large Language Model Inference**|Qingyuan Li et.al.|[2412.04964](http://arxiv.org/abs/2412.04964)|null|
+|**2024-12-11**|**Flash Communication: Reducing Tensor Parallelization Bottleneck for Fast Large Language Model Inference**|Qingyuan Li et.al.|[2412.04964](http://arxiv.org/abs/2412.04964)|null|
 |**2024-12-06**|**GUIDE: A Global Unified Inference Engine for Deploying Large Language Models in Heterogeneous Environments**|Yanyu Chen et.al.|[2412.04788](http://arxiv.org/abs/2412.04788)|null|
 |**2024-12-05**|**votess: A multi-target, GPU-capable, parallel Voronoi tessellator**|C. Byrohl et.al.|[2412.04514](http://arxiv.org/abs/2412.04514)|null|
 |**2024-12-03**|**Resource-Adaptive Successive Doubling for Hyperparameter Optimization with Large Datasets on High-Performance Computing Systems**|Marcel Aach et.al.|[2412.02729](http://arxiv.org/abs/2412.02729)|**[link](https://github.com/olympiquemarcel/rasda)**|
