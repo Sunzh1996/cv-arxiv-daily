@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -100,7 +100,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-12**|**MindScratch: A Visual Programming Support Tool for Classroom Learning Based on Multimodal Generative AI**|Yunnong Chen et.al.|[2412.09001](http://arxiv.org/abs/2412.09001)|null|
-|**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635](http://arxiv.org/abs/2412.08635)|null|
+|**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635](http://arxiv.org/abs/2412.08635)|**[link](https://github.com/microsoft/unilm/tree/master/LatentLM)**|
 |**2024-12-10**|**Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios**|Jiaqi Fan et.al.|[2412.07518](http://arxiv.org/abs/2412.07518)|**[link](https://github.com/fjq-tongji/hcoenet)**|
 |**2024-12-10**|**Driving with InternVL: Oustanding Champion in the Track on Driving with Language of the Autonomous Grand Challenge at CVPR 2024**|Jiahan Li et.al.|[2412.07247](http://arxiv.org/abs/2412.07247)|null|
 |**2024-12-10**|**RoboMM: All-in-One Multimodal Large Model for Robotic Manipulation**|Feng Yan et.al.|[2412.07215](http://arxiv.org/abs/2412.07215)|**[link](https://github.com/RoboUniview/RoboMM)**|
