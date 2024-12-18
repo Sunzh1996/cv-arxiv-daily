@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression**|Jiebin Zhang et.al.|[2412.12706](http://arxiv.org/abs/2412.12706)|null|
+|**2024-12-17**|**A System for Microserving of LLMs**|Hongyi Jin et.al.|[2412.12488](http://arxiv.org/abs/2412.12488)|null|
+|**2024-12-17**|**Boosting Long-Context Information Seeking via Query-Guided Activation Refilling**|Hongjin Qian et.al.|[2412.12486](http://arxiv.org/abs/2412.12486)|**[link](https://github.com/qhjqhj00/activation_refilling)**|
 |**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
 |**2024-12-16**|**Optimal Gradient Checkpointing for Sparse and Recurrent Architectures using Off-Chip Memory**|Wadjih Bencheikh et.al.|[2412.11810](http://arxiv.org/abs/2412.11810)|null|
 |**2024-12-16**|**CSR:Achieving 1 Bit Key-Value Cache via Sparse Representation**|Hongxuan Zhang et.al.|[2412.11741](http://arxiv.org/abs/2412.11741)|null|
@@ -31,7 +34,7 @@
 |**2024-12-11**|**RealOSR: Latent Unfolding Boosting Diffusion-based Real-world Omnidirectional Image Super-Resolution**|Xuhan Sheng et.al.|[2412.09646](http://arxiv.org/abs/2412.09646)|null|
 |**2024-12-12**|**ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty**|Meizhi Zhong et.al.|[2412.09036](http://arxiv.org/abs/2412.09036)|null|
 |**2024-12-12**|**Lexico: Extreme KV Cache Compression via Sparse Coding over Universal Dictionaries**|Junhyuck Kim et.al.|[2412.08890](http://arxiv.org/abs/2412.08890)|null|
-|**2024-12-16**|**TurboAttention: Efficient Attention Approximation For High Throughputs LLMs**|Hao Kang et.al.|[2412.08585](http://arxiv.org/abs/2412.08585)|null|
+|**2024-12-17**|**TurboAttention: Efficient Attention Approximation For High Throughputs LLMs**|Hao Kang et.al.|[2412.08585](http://arxiv.org/abs/2412.08585)|null|
 |**2024-12-11**|**EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Cache Compression Based on Global-Local Importance**|Yingxin Li et.al.|[2412.08521](http://arxiv.org/abs/2412.08521)|null|
 |**2024-12-10**|**From Slow Bidirectional to Fast Causal Video Generators**|Tianwei Yin et.al.|[2412.07772](http://arxiv.org/abs/2412.07772)|null|
 |**2024-12-10**|**ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion Transformer**|Jinyi Hu et.al.|[2412.07720](http://arxiv.org/abs/2412.07720)|**[link](https://github.com/thunlp/acdit)**|
