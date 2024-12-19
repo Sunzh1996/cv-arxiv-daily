@@ -14,10 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**SCOPE: Optimizing Key-Value Cache Compression in Long-context Generation**|Jialong Wu et.al.|[2412.13649](http://arxiv.org/abs/2412.13649)|null|
+|**2024-12-18**|**Deploying Foundation Model Powered Agent Services: A Survey**|Wenchao Xu et.al.|[2412.13437](http://arxiv.org/abs/2412.13437)|null|
 |**2024-12-17**|**More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression**|Jiebin Zhang et.al.|[2412.12706](http://arxiv.org/abs/2412.12706)|null|
 |**2024-12-17**|**A System for Microserving of LLMs**|Hongyi Jin et.al.|[2412.12488](http://arxiv.org/abs/2412.12488)|null|
-|**2024-12-17**|**Boosting Long-Context Information Seeking via Query-Guided Activation Refilling**|Hongjin Qian et.al.|[2412.12486](http://arxiv.org/abs/2412.12486)|**[link](https://github.com/qhjqhj00/activation_refilling)**|
-|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
+|**2024-12-18**|**Boosting Long-Context Management via Query-Guided Activation Refilling**|Hongjin Qian et.al.|[2412.12486](http://arxiv.org/abs/2412.12486)|**[link](https://github.com/qhjqhj00/activation_refilling)**|
+|**2024-12-17**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
 |**2024-12-16**|**Optimal Gradient Checkpointing for Sparse and Recurrent Architectures using Off-Chip Memory**|Wadjih Bencheikh et.al.|[2412.11810](http://arxiv.org/abs/2412.11810)|null|
 |**2024-12-16**|**CSR:Achieving 1 Bit Key-Value Cache via Sparse Representation**|Hongxuan Zhang et.al.|[2412.11741](http://arxiv.org/abs/2412.11741)|null|
 |**2024-12-16**|**Ultra-High-Definition Dynamic Multi-Exposure Image Fusion via Infinite Pixel Learning**|Xingchi Chen et.al.|[2412.11685](http://arxiv.org/abs/2412.11685)|null|
@@ -112,6 +114,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**MetaMorph: Multimodal Understanding and Generation via Instruction Tuning**|Shengbang Tong et.al.|[2412.14164](http://arxiv.org/abs/2412.14164)|null|
+|**2024-12-18**|**SAVGBench: Benchmarking Spatially Aligned Audio-Video Generation**|Kazuki Shimada et.al.|[2412.13462](http://arxiv.org/abs/2412.13462)|null|
 |**2024-12-16**|**Leveraging Retrieval-Augmented Tags for Large Vision-Language Understanding in Complex Scenes**|Antonio Carlos Rivera et.al.|[2412.11396](http://arxiv.org/abs/2412.11396)|null|
 |**2024-12-15**|**HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation**|Tengfei Liu et.al.|[2412.11070](http://arxiv.org/abs/2412.11070)|**[link](https://github.com/tengfeiliu966/hc-llm)**|
 |**2024-12-13**|**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**|Zhiyu Wu et.al.|[2412.10302](http://arxiv.org/abs/2412.10302)|**[link](https://github.com/deepseek-ai/deepseek-vl2)**|
