@@ -14,11 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**A Survey of RWKV**|Zhiyuan Li et.al.|[2412.14847](http://arxiv.org/abs/2412.14847)|null|
+|**2024-12-19**|**DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs**|Xiabin Zhou et.al.|[2412.14838](http://arxiv.org/abs/2412.14838)|null|
+|**2024-12-19**|**Color Enhancement for V-PCC Compressed Point Cloud via 2D Attribute Map Optimization**|Jingwei Bao et.al.|[2412.14449](http://arxiv.org/abs/2412.14449)|null|
+|**2024-12-18**|**ResQ: Mixed-Precision Quantization of Large Language Models with Low-Rank Residuals**|Utkarsh Saxena et.al.|[2412.14363](http://arxiv.org/abs/2412.14363)|**[link](https://github.com/utkarsh-dmx/project-resq)**|
 |**2024-12-18**|**SCOPE: Optimizing Key-Value Cache Compression in Long-context Generation**|Jialong Wu et.al.|[2412.13649](http://arxiv.org/abs/2412.13649)|null|
 |**2024-12-18**|**Deploying Foundation Model Powered Agent Services: A Survey**|Wenchao Xu et.al.|[2412.13437](http://arxiv.org/abs/2412.13437)|null|
 |**2024-12-17**|**More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression**|Jiebin Zhang et.al.|[2412.12706](http://arxiv.org/abs/2412.12706)|null|
 |**2024-12-17**|**A System for Microserving of LLMs**|Hongyi Jin et.al.|[2412.12488](http://arxiv.org/abs/2412.12488)|null|
-|**2024-12-18**|**Boosting Long-Context Management via Query-Guided Activation Refilling**|Hongjin Qian et.al.|[2412.12486](http://arxiv.org/abs/2412.12486)|**[link](https://github.com/qhjqhj00/activation_refilling)**|
+|**2024-12-18**|**Boosting Long-Context Management via Query-Guided Activation Refilling**|Hongjin Qian et.al.|[2412.12486](http://arxiv.org/abs/2412.12486)|null|
 |**2024-12-17**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
 |**2024-12-16**|**Optimal Gradient Checkpointing for Sparse and Recurrent Architectures using Off-Chip Memory**|Wadjih Bencheikh et.al.|[2412.11810](http://arxiv.org/abs/2412.11810)|null|
 |**2024-12-16**|**CSR:Achieving 1 Bit Key-Value Cache via Sparse Representation**|Hongxuan Zhang et.al.|[2412.11741](http://arxiv.org/abs/2412.11741)|null|
@@ -114,6 +118,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|
+|**2024-12-19**|**Explainable Tampered Text Detection via Multimodal Large Models**|Chenfan Qu et.al.|[2412.14816](http://arxiv.org/abs/2412.14816)|null|
 |**2024-12-18**|**MetaMorph: Multimodal Understanding and Generation via Instruction Tuning**|Shengbang Tong et.al.|[2412.14164](http://arxiv.org/abs/2412.14164)|null|
 |**2024-12-18**|**SAVGBench: Benchmarking Spatially Aligned Audio-Video Generation**|Kazuki Shimada et.al.|[2412.13462](http://arxiv.org/abs/2412.13462)|null|
 |**2024-12-16**|**Leveraging Retrieval-Augmented Tags for Large Vision-Language Understanding in Complex Scenes**|Antonio Carlos Rivera et.al.|[2412.11396](http://arxiv.org/abs/2412.11396)|null|
@@ -152,6 +158,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Minimizing speculation overhead in a parallel recognizer for regular texts**|Angelo Borsotti et.al.|[2412.14975](http://arxiv.org/abs/2412.14975)|null|
+|**2024-12-18**|**Scaling Deep Learning Training with MPMD Pipeline Parallelism**|Anxhelo Xhebraj et.al.|[2412.14374](http://arxiv.org/abs/2412.14374)|null|
 |**2024-12-16**|**FinLoRA: Finetuning Quantized Financial Large Language Models Using Low-Rank Adaptation**|Dannong Wang et.al.|[2412.11378](http://arxiv.org/abs/2412.11378)|null|
 |**2024-12-09**|**FP=xINT:A Low-Bit Series Expansion Algorithm for Post-Training Quantization**|Boyang Zhang et.al.|[2412.06865](http://arxiv.org/abs/2412.06865)|null|
 |**2024-12-11**|**Flash Communication: Reducing Tensor Parallelization Bottleneck for Fast Large Language Model Inference**|Qingyuan Li et.al.|[2412.04964](http://arxiv.org/abs/2412.04964)|null|
