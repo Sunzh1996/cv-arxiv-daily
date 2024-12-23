@@ -82,7 +82,7 @@ layout: default
 |**2024-11-24**|**Hiding Communication Cost in Distributed LLM Training via Micro-batch Co-execution**|Haiquan Wang et.al.|[2411.15871](http://arxiv.org/abs/2411.15871)|null|
 |**2024-11-27**|**A Method for Building Large Language Models with Predefined KV Cache Capacity**|Zhonghua Yi et.al.|[2411.15785](http://arxiv.org/abs/2411.15785)|null|
 |**2024-11-23**|**MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking**|Xinqi Liu et.al.|[2411.15459](http://arxiv.org/abs/2411.15459)|null|
-|**2024-11-22**|**DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models**|Keda Tao et.al.|[2411.15024](http://arxiv.org/abs/2411.15024)|null|
+|**2024-11-22**|**DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models**|Keda Tao et.al.|[2411.15024](http://arxiv.org/abs/2411.15024)|**[link](https://github.com/kd-tao/dycoke)**|
 |**2024-11-22**|**Cell as Point: One-Stage Framework for Efficient Cell Tracking**|Yaxuan Song et.al.|[2411.14833](http://arxiv.org/abs/2411.14833)|null|
 |**2024-11-21**|**Functional Array Programming in an Extended Pi-Calculus**|Hans Hüttel et.al.|[2411.14579](http://arxiv.org/abs/2411.14579)|null|
 |**2024-11-22**|**Quantization without Tears**|Minghao Fu et.al.|[2411.13918](http://arxiv.org/abs/2411.13918)|null|
@@ -94,7 +94,7 @@ layout: default
 |**2024-11-17**|**Knowledge-enhanced Transformer for Multivariate Long Sequence Time-series Forecasting**|Shubham Tanaji Kakde et.al.|[2411.11046](http://arxiv.org/abs/2411.11046)|null|
 |**2024-11-17**|**SageAttention2 Technical Report: Accurate 4 Bit Attention for Plug-and-play Inference Acceleration**|Jintao Zhang et.al.|[2411.10958](http://arxiv.org/abs/2411.10958)|**[link](https://github.com/thu-ml/SageAttention)**|
 |**2024-11-17**|**Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms**|Minghe Gao et.al.|[2411.10943](http://arxiv.org/abs/2411.10943)|null|
-|**2024-11-16**|**Multi-Stage Vision Token Dropping: Towards Efficient Multimodal Large Language Model**|Ting Liu et.al.|[2411.10803](http://arxiv.org/abs/2411.10803)|null|
+|**2024-11-16**|**Multi-Stage Vision Token Dropping: Towards Efficient Multimodal Large Language Model**|Ting Liu et.al.|[2411.10803](http://arxiv.org/abs/2411.10803)|**[link](https://github.com/liuting20/mustdrop)**|
 |**2024-11-16**|**A Wearable Gait Monitoring System for 17 Gait Parameters Based on Computer Vision**|Jiangang Chen et.al.|[2411.10739](http://arxiv.org/abs/2411.10739)|null|
 |**2024-11-15**|**SmoothCache: A Universal Inference Acceleration Technique for Diffusion Transformers**|Joseph Liu et.al.|[2411.10510](http://arxiv.org/abs/2411.10510)|**[link](https://github.com/roblox/smoothcache)**|
 |**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|**[link](https://github.com/SqueezeAILab/SqueezedAttention)**|
