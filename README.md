@@ -19,14 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Long-Form Speech Generation with Spoken Language Models**|Se Jin Park et.al.|[2412.18603](http://arxiv.org/abs/2412.18603)|**[link](https://github.com/google-deepmind/librispeech-long)**|
 |**2024-12-23**|**Token Statistics Transformer: Linear-Time Attention via Variational Rate Reduction**|Ziyang Wu et.al.|[2412.17810](http://arxiv.org/abs/2412.17810)|null|
 |**2024-12-23**|**Deliberation in Latent Space via Differentiable Cache Augmentation**|Luyang Liu et.al.|[2412.17747](http://arxiv.org/abs/2412.17747)|null|
 |**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|null|
 |**2024-12-21**|**Mamba-SEUNet: Mamba UNet for Monaural Speech Enhancement**|Junyu Wang et.al.|[2412.16626](http://arxiv.org/abs/2412.16626)|null|
-|**2024-12-21**|**Breaking the Context Bottleneck on Long Time Series Forecasting**|Chao Ma et.al.|[2412.16572](http://arxiv.org/abs/2412.16572)|null|
+|**2024-12-21**|**Breaking the Context Bottleneck on Long Time Series Forecasting**|Chao Ma et.al.|[2412.16572](http://arxiv.org/abs/2412.16572)|**[link](https://github.com/houyikai/ldm-logsparse-decomposable-multiscaling)**|
 |**2024-12-21**|**Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models**|Zhisong Zhang et.al.|[2412.16545](http://arxiv.org/abs/2412.16545)|null|
 |**2024-12-20**|**A survey on FPGA-based accelerator for ML models**|Feng Yan et.al.|[2412.15666](http://arxiv.org/abs/2412.15666)|null|
-|**2024-12-19**|**A Survey of RWKV**|Zhiyuan Li et.al.|[2412.14847](http://arxiv.org/abs/2412.14847)|null|
+|**2024-12-19**|**A Survey of RWKV**|Zhiyuan Li et.al.|[2412.14847](http://arxiv.org/abs/2412.14847)|**[link](https://github.com/mlgroupjlu/rwkv-survey)**|
 |**2024-12-19**|**DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs**|Xiabin Zhou et.al.|[2412.14838](http://arxiv.org/abs/2412.14838)|null|
 |**2024-12-19**|**Color Enhancement for V-PCC Compressed Point Cloud via 2D Attribute Map Optimization**|Jingwei Bao et.al.|[2412.14449](http://arxiv.org/abs/2412.14449)|null|
 |**2024-12-18**|**ResQ: Mixed-Precision Quantization of Large Language Models with Low-Rank Residuals**|Utkarsh Saxena et.al.|[2412.14363](http://arxiv.org/abs/2412.14363)|**[link](https://github.com/utkarsh-dmx/project-resq)**|
@@ -132,7 +133,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-23**|**ANID: How Far Are We? Evaluating the Discrepancies Between AI-synthesized Images and Natural Images through Multimodal Guidance**|Renyang Liu et.al.|[2412.17632](http://arxiv.org/abs/2412.17632)|null|
+|**2024-12-24**|**RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction**|Wu Xiaoping et.al.|[2412.18390](http://arxiv.org/abs/2412.18390)|null|
+|**2024-12-24**|**Semantics Disentanglement and Composition for Versatile Codec toward both Human-eye Perception and Machine Vision Task**|Jinming Liu et.al.|[2412.18158](http://arxiv.org/abs/2412.18158)|null|
+|**2024-12-23**|**ANID: How Far Are We? Evaluating the Discrepancies Between AI-synthesized Images and Natural Images through Multimodal Guidance**|Renyang Liu et.al.|[2412.17632](http://arxiv.org/abs/2412.17632)|**[link](https://github.com/ryliu68/anid)**|
 |**2024-12-23**|**Unlocking Cross-Lingual Sentiment Analysis through Emoji Interpretation: A Multimodal Generative AI Approach**|Rafid Ishrak Jahan et.al.|[2412.17255](http://arxiv.org/abs/2412.17255)|**[link](https://github.com/responsibleailab/emoji-universal-sentiment)**|
 |**2024-12-22**|**SubstationAI: Multimodal Large Model-Based Approaches for Analyzing Substation Equipment Faults**|Jinzhi Wang et.al.|[2412.17077](http://arxiv.org/abs/2412.17077)|null|
 |**2024-12-21**|**Text2midi: Generating Symbolic Music from Captions**|Keshav Bhandari et.al.|[2412.16526](http://arxiv.org/abs/2412.16526)|**[link](https://github.com/amaai-lab/text2midi)**|
@@ -179,6 +182,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**KunServe: Elastic and Efficient Large Language Model Serving with Parameter-centric Memory Management**|Rongxin Cheng et.al.|[2412.18169](http://arxiv.org/abs/2412.18169)|null|
+|**2024-12-24**|**Beyond Gradient Averaging in Parallel Optimization: Improved Robustness through Gradient Agreement Filtering**|Francois Chaubard et.al.|[2412.18052](http://arxiv.org/abs/2412.18052)|null|
 |**2024-12-22**|**Minimizing speculation overhead in a parallel recognizer for regular texts**|Angelo Borsotti et.al.|[2412.14975](http://arxiv.org/abs/2412.14975)|null|
 |**2024-12-18**|**Scaling Deep Learning Training with MPMD Pipeline Parallelism**|Anxhelo Xhebraj et.al.|[2412.14374](http://arxiv.org/abs/2412.14374)|null|
 |**2024-12-16**|**FinLoRA: Finetuning Quantized Financial Large Language Models Using Low-Rank Adaptation**|Dannong Wang et.al.|[2412.11378](http://arxiv.org/abs/2412.11378)|null|
