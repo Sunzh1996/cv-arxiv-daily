@@ -113,7 +113,7 @@
 |**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|**[link](https://github.com/SqueezeAILab/SqueezedAttention)**|
 |**2024-11-15**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
 |**2024-11-12**|**Towards Low-bit Communication for Tensor Parallel LLM Inference**|Harry Dong et.al.|[2411.07942](http://arxiv.org/abs/2411.07942)|null|
-|**2024-11-11**|**Anchor Attention, Small Cache: Code Generation with Large Language Models**|Xiangyu Zhang et.al.|[2411.06680](http://arxiv.org/abs/2411.06680)|null|
+|**2024-11-11**|**Anchor Attention, Small Cache: Code Generation with Large Language Models**|Xiangyu Zhang et.al.|[2411.06680](http://arxiv.org/abs/2411.06680)|**[link](https://github.com/NUAAZXY/Anchor_Coder)**|
 |**2024-11-10**|**Accelerating Large Language Model Training with 4D Parallelism and Memory Consumption Estimator**|Kazuki Fujii et.al.|[2411.06465](http://arxiv.org/abs/2411.06465)|null|
 |**2024-11-08**|**Balancing Pipeline Parallelism with Vocabulary Parallelism**|Man Tsung Yeung et.al.|[2411.05288](http://arxiv.org/abs/2411.05288)|**[link](https://github.com/sail-sg/vocabularyparallelism)**|
 |**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965](http://arxiv.org/abs/2411.04965)|null|
