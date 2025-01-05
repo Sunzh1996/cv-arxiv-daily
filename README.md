@@ -19,6 +19,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**RingFormer: A Neural Vocoder with Ring Attention and Convolution-Augmented Transformer**|Seongho Hong et.al.|[2501.01182](http://arxiv.org/abs/2501.01182)|null|
+|**2025-01-02**|**Bridging Simplicity and Sophistication using GLinear: A Novel Architecture for Enhanced Time Series Prediction**|Syed Tahir Hussain Rizvi et.al.|[2501.01087](http://arxiv.org/abs/2501.01087)|null|
+|**2025-01-02**|**FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving**|Zihao Ye et.al.|[2501.01005](http://arxiv.org/abs/2501.01005)|**[link](https://github.com/flashinfer-ai/flashinfer)**|
+|**2025-01-01**|**Decoding the Flow: CauseMotion for Emotional Causality Analysis in Long-form Conversations**|Yuxuan Zhang et.al.|[2501.00778](http://arxiv.org/abs/2501.00778)|null|
+|**2024-12-31**|**Understanding and Mitigating Bottlenecks of State Space Models through the Lens of Recency and Over-smoothing**|Peihao Wang et.al.|[2501.00658](http://arxiv.org/abs/2501.00658)|null|
+|**2024-12-31**|**VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling**|Xinhao Li et.al.|[2501.00574](http://arxiv.org/abs/2501.00574)|null|
+|**2024-12-31**|**NeuroSleepNet: A Multi-Head Self-Attention Based Automatic Sleep Scoring Scheme with Spatial and Multi-Scale Temporal Representation Learning**|Muhammad Sudipto Siam Dip et.al.|[2501.00557](http://arxiv.org/abs/2501.00557)|null|
 |**2024-12-30**|**Frequency-aware Event Cloud Network**|Hongwei Ren et.al.|[2412.20803](http://arxiv.org/abs/2412.20803)|null|
 |**2024-12-30**|**Align Attention Heads Before Merging Them: An Effective Way for Converting MHA to GQA**|Qingyun Jin et.al.|[2412.20677](http://arxiv.org/abs/2412.20677)|null|
 |**2024-12-29**|**KVC-onGoing: Keystroke Verification Challenge**|Giuseppe Stragapede et.al.|[2412.20530](http://arxiv.org/abs/2412.20530)|**[link](https://github.com/nask-biometrics/anabel-ka)**|
@@ -144,6 +151,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-01**|**Multimodal Large Models Are Effective Action Anticipators**|Binglu Wang et.al.|[2501.00795](http://arxiv.org/abs/2501.00795)|null|
 |**2024-12-29**|**Multi-Scenario Reasoning: Unlocking Cognitive Autonomy in Humanoid Robots for Multimodal Understanding**|Libo Wang et.al.|[2412.20429](http://arxiv.org/abs/2412.20429)|null|
 |**2024-12-26**|**Reversed in Time: A Novel Temporal-Emphasized Benchmark for Cross-Modal Video-Text Retrieval**|Yang Du et.al.|[2412.19178](http://arxiv.org/abs/2412.19178)|**[link](https://github.com/qyr0403/reversed-in-time)**|
 |**2024-12-26**|**FACEMUG: A Multimodal Generative and Fusion Framework for Local Facial Editing**|Wanglong Lu et.al.|[2412.19009](http://arxiv.org/abs/2412.19009)|null|
