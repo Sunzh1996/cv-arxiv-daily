@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-02**|**RingFormer: A Neural Vocoder with Ring Attention and Convolution-Augmented Transformer**|Seongho Hong et.al.|[2501.01182](http://arxiv.org/abs/2501.01182)|null|
-|**2025-01-02**|**Bridging Simplicity and Sophistication using GLinear: A Novel Architecture for Enhanced Time Series Prediction**|Syed Tahir Hussain Rizvi et.al.|[2501.01087](http://arxiv.org/abs/2501.01087)|null|
+|**2025-01-02**|**Bridging Simplicity and Sophistication using GLinear: A Novel Architecture for Enhanced Time Series Prediction**|Syed Tahir Hussain Rizvi et.al.|[2501.01087](http://arxiv.org/abs/2501.01087)|**[link](https://github.com/t-rizvi/GLinear)**|
 |**2025-01-02**|**FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving**|Zihao Ye et.al.|[2501.01005](http://arxiv.org/abs/2501.01005)|**[link](https://github.com/flashinfer-ai/flashinfer)**|
 |**2025-01-01**|**Decoding the Flow: CauseMotion for Emotional Causality Analysis in Long-form Conversations**|Yuxuan Zhang et.al.|[2501.00778](http://arxiv.org/abs/2501.00778)|null|
 |**2024-12-31**|**Understanding and Mitigating Bottlenecks of State Space Models through the Lens of Recency and Over-smoothing**|Peihao Wang et.al.|[2501.00658](http://arxiv.org/abs/2501.00658)|null|
