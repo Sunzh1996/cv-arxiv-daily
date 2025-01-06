@@ -14,8 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**|Siyuan Huang et.al.|[2501.01895](http://arxiv.org/abs/2501.01895)|null|
+|**2025-01-03**|**Efficient LLM Inference with Activation Checkpointing and Hybrid Caching**|Sanghyeon Lee et.al.|[2501.01792](http://arxiv.org/abs/2501.01792)|null|
+|**2025-01-03**|**Improved Feature Extraction Network for Neuro-Oriented Target Speaker Extraction**|Cunhang Fan et.al.|[2501.01673](http://arxiv.org/abs/2501.01673)|null|
+|**2025-01-02**|**TreeLUT: An Efficient Alternative to Deep Neural Networks for Inference Acceleration Using Gradient Boosted Decision Trees**|Alireza Khataei et.al.|[2501.01511](http://arxiv.org/abs/2501.01511)|null|
 |**2025-01-02**|**RingFormer: A Neural Vocoder with Ring Attention and Convolution-Augmented Transformer**|Seongho Hong et.al.|[2501.01182](http://arxiv.org/abs/2501.01182)|null|
-|**2025-01-02**|**Bridging Simplicity and Sophistication using GLinear: A Novel Architecture for Enhanced Time Series Prediction**|Syed Tahir Hussain Rizvi et.al.|[2501.01087](http://arxiv.org/abs/2501.01087)|**[link](https://github.com/t-rizvi/GLinear)**|
+|**2025-01-03**|**Bridging Simplicity and Sophistication using GLinear: A Novel Architecture for Enhanced Time Series Prediction**|Syed Tahir Hussain Rizvi et.al.|[2501.01087](http://arxiv.org/abs/2501.01087)|**[link](https://github.com/t-rizvi/GLinear)**|
 |**2025-01-02**|**FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving**|Zihao Ye et.al.|[2501.01005](http://arxiv.org/abs/2501.01005)|**[link](https://github.com/flashinfer-ai/flashinfer)**|
 |**2025-01-01**|**Decoding the Flow: CauseMotion for Emotional Causality Analysis in Long-form Conversations**|Yuxuan Zhang et.al.|[2501.00778](http://arxiv.org/abs/2501.00778)|null|
 |**2024-12-31**|**Understanding and Mitigating Bottlenecks of State Space Models through the Lens of Recency and Over-smoothing**|Peihao Wang et.al.|[2501.00658](http://arxiv.org/abs/2501.00658)|null|
@@ -145,7 +149,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-01**|**Multimodal Large Models Are Effective Action Anticipators**|Binglu Wang et.al.|[2501.00795](http://arxiv.org/abs/2501.00795)|null|
-|**2024-12-29**|**Multi-Scenario Reasoning: Unlocking Cognitive Autonomy in Humanoid Robots for Multimodal Understanding**|Libo Wang et.al.|[2412.20429](http://arxiv.org/abs/2412.20429)|null|
+|**2025-01-02**|**Multi-Scenario Reasoning: Unlocking Cognitive Autonomy in Humanoid Robots for Multimodal Understanding**|Libo Wang et.al.|[2412.20429](http://arxiv.org/abs/2412.20429)|null|
 |**2024-12-26**|**Reversed in Time: A Novel Temporal-Emphasized Benchmark for Cross-Modal Video-Text Retrieval**|Yang Du et.al.|[2412.19178](http://arxiv.org/abs/2412.19178)|**[link](https://github.com/qyr0403/reversed-in-time)**|
 |**2024-12-26**|**FACEMUG: A Multimodal Generative and Fusion Framework for Local Facial Editing**|Wanglong Lu et.al.|[2412.19009](http://arxiv.org/abs/2412.19009)|null|
 |**2024-12-25**|**RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction**|Xiaoping Wu et.al.|[2412.18390](http://arxiv.org/abs/2412.18390)|null|
@@ -195,6 +199,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Data Parallel Visualization and Rendering on the RAMSES Supercomputer with ANARI**|Stefan Zellmann et.al.|[2501.01628](http://arxiv.org/abs/2501.01628)|null|
 |**2024-12-30**|**Adaptive Batch Size Schedules for Distributed Training of Language Models with Data and Model Parallelism**|Tim Tsz-Kit Lau et.al.|[2412.21124](http://arxiv.org/abs/2412.21124)|null|
 |**2024-12-29**|**NeutronTP: Load-Balanced Distributed Full-Graph GNN Training with Tensor Parallelism**|Xin Ai et.al.|[2412.20379](http://arxiv.org/abs/2412.20379)|null|
 |**2024-12-28**|**LoL-PIM: Long-Context LLM Decoding with Scalable DRAM-PIM System**|Hyucksung Kwon et.al.|[2412.20166](http://arxiv.org/abs/2412.20166)|null|
