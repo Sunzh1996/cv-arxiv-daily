@@ -14,8 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Progressive Document-level Text Simplification via Large Language Models**|Dengzhao Fang et.al.|[2501.03857](http://arxiv.org/abs/2501.03857)|null|
 |**2025-01-06**|**MVP: Multimodal Emotion Recognition based on Video and Physiological Signals**|Valeriya Strizhkova et.al.|[2501.03103](http://arxiv.org/abs/2501.03103)|null|
-|**2025-01-06**|**Piano Transcription by Hierarchical Language Modeling with Pretrained Roll-based Encoders**|Dichucheng Li et.al.|[2501.03038](http://arxiv.org/abs/2501.03038)|null|
+|**2025-01-07**|**Piano Transcription by Hierarchical Language Modeling with Pretrained Roll-based Encoders**|Dichucheng Li et.al.|[2501.03038](http://arxiv.org/abs/2501.03038)|null|
 |**2025-01-05**|**Efficient Long Speech Sequence Modelling for Time-Domain Depression Level Estimation**|Shuanglin Li et.al.|[2501.02512](http://arxiv.org/abs/2501.02512)|null|
 |**2025-01-05**|**FOLDER: Accelerating Multi-modal Large Language Models with Enhanced Performance**|Haicheng Wang et.al.|[2501.02430](http://arxiv.org/abs/2501.02430)|**[link](https://github.com/anakin-skywalker-joseph/folder)**|
 |**2025-01-03**|**EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**|Siyuan Huang et.al.|[2501.01895](http://arxiv.org/abs/2501.01895)|null|
@@ -155,7 +156,7 @@ layout: default
 |**2025-01-06**|**Artificial Intelligence in Creative Industries: Advances Prior to 2025**|Nantheera Anantrasirichai et.al.|[2501.02725](http://arxiv.org/abs/2501.02725)|null|
 |**2025-01-05**|**Vision-Driven Prompt Optimization for Large Language Models in Multimodal Generative Tasks**|Leo Franklin et.al.|[2501.02527](http://arxiv.org/abs/2501.02527)|null|
 |**2025-01-01**|**Multimodal Large Models Are Effective Action Anticipators**|Binglu Wang et.al.|[2501.00795](http://arxiv.org/abs/2501.00795)|**[link](https://github.com/2tianyao1/actionllm)**|
-|**2025-01-02**|**Multi-Scenario Reasoning: Unlocking Cognitive Autonomy in Humanoid Robots for Multimodal Understanding**|Libo Wang et.al.|[2412.20429](http://arxiv.org/abs/2412.20429)|null|
+|**2025-01-07**|**Multi-Scenario Reasoning: Unlocking Cognitive Autonomy in Humanoid Robots for Multimodal Understanding**|Libo Wang et.al.|[2412.20429](http://arxiv.org/abs/2412.20429)|null|
 |**2024-12-26**|**Reversed in Time: A Novel Temporal-Emphasized Benchmark for Cross-Modal Video-Text Retrieval**|Yang Du et.al.|[2412.19178](http://arxiv.org/abs/2412.19178)|**[link](https://github.com/qyr0403/reversed-in-time)**|
 |**2024-12-26**|**FACEMUG: A Multimodal Generative and Fusion Framework for Local Facial Editing**|Wanglong Lu et.al.|[2412.19009](http://arxiv.org/abs/2412.19009)|null|
 |**2024-12-25**|**RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction**|Xiaoping Wu et.al.|[2412.18390](http://arxiv.org/abs/2412.18390)|null|
