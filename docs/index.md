@@ -26,7 +26,7 @@ layout: default
 |**2025-01-03**|**EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**|Siyuan Huang et.al.|[2501.01895](http://arxiv.org/abs/2501.01895)|null|
 |**2025-01-03**|**Efficient LLM Inference with Activation Checkpointing and Hybrid Caching**|Sanghyeon Lee et.al.|[2501.01792](http://arxiv.org/abs/2501.01792)|null|
 |**2025-01-03**|**Improved Feature Extraction Network for Neuro-Oriented Target Speaker Extraction**|Cunhang Fan et.al.|[2501.01673](http://arxiv.org/abs/2501.01673)|null|
-|**2025-01-02**|**TreeLUT: An Efficient Alternative to Deep Neural Networks for Inference Acceleration Using Gradient Boosted Decision Trees**|Alireza Khataei et.al.|[2501.01511](http://arxiv.org/abs/2501.01511)|null|
+|**2025-01-02**|**TreeLUT: An Efficient Alternative to Deep Neural Networks for Inference Acceleration Using Gradient Boosted Decision Trees**|Alireza Khataei et.al.|[2501.01511](http://arxiv.org/abs/2501.01511)|**[link](https://github.com/kiabuzz/treelut)**|
 |**2025-01-02**|**RingFormer: A Neural Vocoder with Ring Attention and Convolution-Augmented Transformer**|Seongho Hong et.al.|[2501.01182](http://arxiv.org/abs/2501.01182)|**[link](https://github.com/seongho608/ringformer)**|
 |**2025-01-08**|**Bridging Simplicity and Sophistication using GLinear: A Novel Architecture for Enhanced Time Series Prediction**|Syed Tahir Hussain Rizvi et.al.|[2501.01087](http://arxiv.org/abs/2501.01087)|**[link](https://github.com/t-rizvi/GLinear)**|
 |**2025-01-02**|**FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving**|Zihao Ye et.al.|[2501.01005](http://arxiv.org/abs/2501.01005)|**[link](https://github.com/flashinfer-ai/flashinfer)**|
