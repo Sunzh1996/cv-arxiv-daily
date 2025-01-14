@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion**|Li Liang et.al.|[2501.07260](http://arxiv.org/abs/2501.07260)|**[link](https://github.com/xrkong/skimba)**|
+|**2025-01-12**|**MPCache: MPC-Friendly KV Cache Eviction for Efficient Private Large Language Model Inference**|Wenxuan Zeng et.al.|[2501.06807](http://arxiv.org/abs/2501.06807)|null|
+|**2025-01-12**|**Mell: Memory-Efficient Large Language Model Serving via Multi-GPU KV Cache Management**|Liu Qianli et.al.|[2501.06709](http://arxiv.org/abs/2501.06709)|null|
+|**2025-01-11**|**Flash Window Attention: speedup the attention computation for Swin Transformer**|Zhendong Zhang et.al.|[2501.06480](http://arxiv.org/abs/2501.06480)|**[link](https://github.com/zzd1992/flashswinattention)**|
+|**2025-01-11**|**Tensor Product Attention Is All You Need**|Yifan Zhang et.al.|[2501.06425](http://arxiv.org/abs/2501.06425)|**[link](https://github.com/tensorgi/t6)**|
 |**2025-01-10**|**VideoAuteur: Towards Long Narrative Video Generation**|Junfei Xiao et.al.|[2501.06173](http://arxiv.org/abs/2501.06173)|null|
 |**2025-01-10**|**ELFATT: Efficient Linear Fast Attention for Vision Transformers**|Chong Wu et.al.|[2501.06098](http://arxiv.org/abs/2501.06098)|null|
 |**2025-01-10**|**Element-wise Attention Is All You Need**|Guoxin Feng et.al.|[2501.05730](http://arxiv.org/abs/2501.05730)|null|
@@ -160,6 +165,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-12**|**Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints**|Ming Dai et.al.|[2501.06710](http://arxiv.org/abs/2501.06710)|**[link](https://github.com/dmmm1997/c3vg)**|
 |**2025-01-09**|**LLaVA-Octopus: Unlocking Instruction-Driven Adaptive Projector Fusion for Video Understanding**|Jiaxing Zhao et.al.|[2501.05067](http://arxiv.org/abs/2501.05067)|null|
 |**2025-01-08**|**A Statistical Theory of Contrastive Pre-training and Multimodal Generative AI**|Kazusato Oko et.al.|[2501.04641](http://arxiv.org/abs/2501.04641)|**[link](https://github.com/willcai7/multimodal-ghm)**|
 |**2025-01-06**|**Artificial Intelligence in Creative Industries: Advances Prior to 2025**|Nantheera Anantrasirichai et.al.|[2501.02725](http://arxiv.org/abs/2501.02725)|null|
@@ -215,6 +221,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-11**|**SafeSplit: A Novel Defense Against Client-Side Backdoor Attacks in Split Learning**|Phillip Rieger et.al.|[2501.06650](http://arxiv.org/abs/2501.06650)|null|
+|**2025-01-11**|**Ladder-residual: parallelism-aware architecture for accelerating large model inference with communication overlapping**|Muru Zhang et.al.|[2501.06589](http://arxiv.org/abs/2501.06589)|null|
 |**2025-01-10**|**Scale-up Unlearnable Examples Learning with High-Performance Computing**|Yanfan Zhu et.al.|[2501.06080](http://arxiv.org/abs/2501.06080)|null|
 |**2025-01-09**|**Prediction-Assisted Online Distributed Deep Learning Workload Scheduling in GPU Clusters**|Ziyue Luo et.al.|[2501.05563](http://arxiv.org/abs/2501.05563)|null|
 |**2025-01-09**|**SyNPar: Synthetic Null Data Parallelism for High-Power False Discovery Rate Control in High-Dimensional Variable Selection**|Changhu Wang et.al.|[2501.05012](http://arxiv.org/abs/2501.05012)|null|
