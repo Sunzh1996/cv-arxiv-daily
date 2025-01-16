@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Anticipation**|Olga Zatsarynna et.al.|[2501.08837](http://arxiv.org/abs/2501.08837)|null|
 |**2025-01-14**|**PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM Serving**|Ahmet Caner Yüzügüler et.al.|[2501.08192](http://arxiv.org/abs/2501.08192)|null|
 |**2025-01-14**|**Logarithmic Memory Networks (LMNs): Efficient Long-Range Sequence Modeling for Resource-Constrained Environments**|Mohamed A. Taha et.al.|[2501.07905](http://arxiv.org/abs/2501.07905)|**[link](https://github.com/ahmedboin/logarithmicmemory)**|
 |**2025-01-13**|**Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion**|Li Liang et.al.|[2501.07260](http://arxiv.org/abs/2501.07260)|**[link](https://github.com/xrkong/skimba)**|
@@ -226,14 +227,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-11**|**SafeSplit: A Novel Defense Against Client-Side Backdoor Attacks in Split Learning**|Phillip Rieger et.al.|[2501.06650](http://arxiv.org/abs/2501.06650)|null|
-|**2025-01-11**|**Ladder-residual: parallelism-aware architecture for accelerating large model inference with communication overlapping**|Muru Zhang et.al.|[2501.06589](http://arxiv.org/abs/2501.06589)|null|
-|**2025-01-10**|**Scale-up Unlearnable Examples Learning with High-Performance Computing**|Yanfan Zhu et.al.|[2501.06080](http://arxiv.org/abs/2501.06080)|null|
+|**2025-01-11**|**Ladder-residual: parallelism-aware architecture for accelerating large model inference with communication overlapping**|Muru Zhang et.al.|[2501.06589](http://arxiv.org/abs/2501.06589)|**[link](https://github.com/ibm/dolomite-engine)**|
+|**2025-01-10**|**Scale-up Unlearnable Examples Learning with High-Performance Computing**|Yanfan Zhu et.al.|[2501.06080](http://arxiv.org/abs/2501.06080)|**[link](https://github.com/hrlblab/ue_hpc)**|
 |**2025-01-09**|**Prediction-Assisted Online Distributed Deep Learning Workload Scheduling in GPU Clusters**|Ziyue Luo et.al.|[2501.05563](http://arxiv.org/abs/2501.05563)|null|
 |**2025-01-09**|**SyNPar: Synthetic Null Data Parallelism for High-Power False Discovery Rate Control in High-Dimensional Variable Selection**|Changhu Wang et.al.|[2501.05012](http://arxiv.org/abs/2501.05012)|null|
 |**2025-01-03**|**Data Parallel Visualization and Rendering on the RAMSES Supercomputer with ANARI**|Stefan Zellmann et.al.|[2501.01628](http://arxiv.org/abs/2501.01628)|null|
 |**2024-12-30**|**Adaptive Batch Size Schedules for Distributed Training of Language Models with Data and Model Parallelism**|Tim Tsz-Kit Lau et.al.|[2412.21124](http://arxiv.org/abs/2412.21124)|null|
 |**2024-12-29**|**NeutronTP: Load-Balanced Distributed Full-Graph GNN Training with Tensor Parallelism**|Xin Ai et.al.|[2412.20379](http://arxiv.org/abs/2412.20379)|null|
-|**2024-12-28**|**LoL-PIM: Long-Context LLM Decoding with Scalable DRAM-PIM System**|Hyucksung Kwon et.al.|[2412.20166](http://arxiv.org/abs/2412.20166)|null|
+|**2025-01-15**|**LoL-PIM: Long-Context LLM Decoding with Scalable DRAM-PIM System**|Hyucksung Kwon et.al.|[2412.20166](http://arxiv.org/abs/2412.20166)|null|
 |**2024-12-26**|**KunServe: Elastic and Efficient Large Language Model Serving with Parameter-centric Memory Management**|Rongxin Cheng et.al.|[2412.18169](http://arxiv.org/abs/2412.18169)|null|
 |**2024-12-29**|**Beyond Gradient Averaging in Parallel Optimization: Improved Robustness through Gradient Agreement Filtering**|Francois Chaubard et.al.|[2412.18052](http://arxiv.org/abs/2412.18052)|**[link](https://github.com/Fchaubard/gradient_agreement_filtering)**|
 |**2025-01-10**|**Minimizing speculation overhead in a parallel recognizer for regular texts**|Angelo Borsotti et.al.|[2412.14975](http://arxiv.org/abs/2412.14975)|null|
@@ -244,7 +245,7 @@ layout: default
 |**2024-12-06**|**GUIDE: A Global Unified Inference Engine for Deploying Large Language Models in Heterogeneous Environments**|Yanyu Chen et.al.|[2412.04788](http://arxiv.org/abs/2412.04788)|null|
 |**2024-12-11**|**votess: A multi-target, GPU-capable, parallel Voronoi tessellator**|Samridh Dev Singh et.al.|[2412.04514](http://arxiv.org/abs/2412.04514)|**[link](https://github.com/samridh-dev/votess)**|
 |**2024-12-03**|**Resource-Adaptive Successive Doubling for Hyperparameter Optimization with Large Datasets on High-Performance Computing Systems**|Marcel Aach et.al.|[2412.02729](http://arxiv.org/abs/2412.02729)|**[link](https://github.com/olympiquemarcel/rasda)**|
-|**2024-12-02**|**INTELLECT-1 Technical Report**|Sami Jaghouar et.al.|[2412.01152](http://arxiv.org/abs/2412.01152)|null|
+|**2024-12-02**|**INTELLECT-1 Technical Report**|Sami Jaghouar et.al.|[2412.01152](http://arxiv.org/abs/2412.01152)|**[link](https://github.com/PrimeIntellect-ai/prime)**|
 |**2024-12-01**|**MERLIN: Multi-stagE query performance prediction for dynamic paRallel oLap pIpeliNe**|Kaixin Zhang et.al.|[2412.00749](http://arxiv.org/abs/2412.00749)|null|
 |**2024-11-29**|**DeMo: Decoupled Momentum Optimization**|Bowen Peng et.al.|[2411.19870](http://arxiv.org/abs/2411.19870)|**[link](https://github.com/bloc97/demo)**|
 |**2024-11-27**|**Addressing Architectural Obstacles for Overlay with Stream Network Abstraction**|Chengyue Wang et.al.|[2411.17966](http://arxiv.org/abs/2411.17966)|null|
