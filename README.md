@@ -115,7 +115,7 @@
 |**2024-12-03**|**Compressing KV Cache for Long-Context LLM Inference with Inter-Layer Attention Similarity**|Da Ma et.al.|[2412.02252](http://arxiv.org/abs/2412.02252)|null|
 |**2024-12-02**|**RandAR: Decoder-only Autoregressive Visual Generation in Random Orders**|Ziqi Pang et.al.|[2412.01827](http://arxiv.org/abs/2412.01827)|null|
 |**2024-12-05**|**Yi-Lightning Technical Report**|01. AI et.al.|[2412.01253](http://arxiv.org/abs/2412.01253)|null|
-|**2024-12-02**|**INTELLECT-1 Technical Report**|Sami Jaghouar et.al.|[2412.01152](http://arxiv.org/abs/2412.01152)|null|
+|**2024-12-02**|**INTELLECT-1 Technical Report**|Sami Jaghouar et.al.|[2412.01152](http://arxiv.org/abs/2412.01152)|**[link](https://github.com/PrimeIntellect-ai/prime)**|
 |**2024-12-03**|**Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification**|Wenxuan Huang et.al.|[2412.00876](http://arxiv.org/abs/2412.00876)|**[link](https://github.com/osilly/dynamic_llava)**|
 |**2024-12-01**|**AlignMamba: Enhancing Multimodal Mamba with Local and Global Cross-modal Alignment**|Yan Li et.al.|[2412.00833](http://arxiv.org/abs/2412.00833)|null|
 |**2024-12-01**|**MERLIN: Multi-stagE query performance prediction for dynamic paRallel oLap pIpeliNe**|Kaixin Zhang et.al.|[2412.00749](http://arxiv.org/abs/2412.00749)|null|
