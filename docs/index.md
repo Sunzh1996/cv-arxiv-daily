@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**DiffuEraser: A Diffusion Model for Video Inpainting**|Xiaowen Li et.al.|[2501.10018](http://arxiv.org/abs/2501.10018)|null|
 |**2025-01-15**|**MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Anticipation**|Olga Zatsarynna et.al.|[2501.08837](http://arxiv.org/abs/2501.08837)|null|
 |**2025-01-14**|**PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM Serving**|Ahmet Caner Yüzügüler et.al.|[2501.08192](http://arxiv.org/abs/2501.08192)|null|
 |**2025-01-14**|**Logarithmic Memory Networks (LMNs): Efficient Long-Range Sequence Modeling for Resource-Constrained Environments**|Mohamed A. Taha et.al.|[2501.07905](http://arxiv.org/abs/2501.07905)|**[link](https://github.com/ahmedboin/logarithmicmemory)**|
@@ -226,6 +227,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**AraXL: A Physically Scalable, Ultra-Wide RISC-V Vector Processor Design for Fast and Efficient Computation on Long Vectors**|Navaneeth Kunhi Purayil et.al.|[2501.10301](http://arxiv.org/abs/2501.10301)|null|
+|**2025-01-17**|**Multi-Dimensional Vector ISA Extension for Mobile In-Cache Computing**|Alireza Khadem et.al.|[2501.09902](http://arxiv.org/abs/2501.09902)|null|
+|**2025-01-16**|**Coded Deep Learning: Framework and Algorithm**|En-hui Yang et.al.|[2501.09849](http://arxiv.org/abs/2501.09849)|null|
 |**2025-01-11**|**SafeSplit: A Novel Defense Against Client-Side Backdoor Attacks in Split Learning**|Phillip Rieger et.al.|[2501.06650](http://arxiv.org/abs/2501.06650)|null|
 |**2025-01-11**|**Ladder-residual: parallelism-aware architecture for accelerating large model inference with communication overlapping**|Muru Zhang et.al.|[2501.06589](http://arxiv.org/abs/2501.06589)|**[link](https://github.com/mayank31398/ladder-residual-inference)**|
 |**2025-01-10**|**Scale-up Unlearnable Examples Learning with High-Performance Computing**|Yanfan Zhu et.al.|[2501.06080](http://arxiv.org/abs/2501.06080)|**[link](https://github.com/hrlblab/ue_hpc)**|
