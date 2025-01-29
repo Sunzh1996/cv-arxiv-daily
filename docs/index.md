@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-25**|**MambaTron: Efficient Cross-Modal Point Cloud Enhancement using Aggregate Selective State Space Modeling**|Sai Tarun Inaganti et.al.|[2501.16384](http://arxiv.org/abs/2501.16384)|null|
+|**2025-01-25**|**RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations**|Zunhai Su et.al.|[2501.16383](http://arxiv.org/abs/2501.16383)|null|
 |**2025-01-27**|**Application of Structured State Space Models to High energy physics with locality-sensitive hashing**|Cheng Jiang et.al.|[2501.16237](http://arxiv.org/abs/2501.16237)|null|
 |**2025-01-25**|**Task-KV: Task-aware KV Cache Optimization via Semantic Differentiation of Attention Heads**|Xingyang He et.al.|[2501.15113](http://arxiv.org/abs/2501.15113)|null|
 |**2025-01-25**|**Towards Better Robustness: Progressively Joint Pose-3DGS Learning for Arbitrarily Long Videos**|Zhen-Hui Dong et.al.|[2501.15096](http://arxiv.org/abs/2501.15096)|null|
@@ -181,6 +183,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Whispers of Sound-Enhancing Information Extraction from Depression Patients' Unstructured Data through Audio and Text Emotion Recognition and Llama Fine-tuning**|Lindy Gan et.al.|[2501.16813](http://arxiv.org/abs/2501.16813)|null|
 |**2025-01-26**|**Scaling Large Vision-Language Models for Enhanced Multimodal Comprehension In Biomedical Image Analysis**|Robinson Umeike et.al.|[2501.15370](http://arxiv.org/abs/2501.15370)|null|
 |**2025-01-24**|**TFG-Flow: Training-free Guidance in Multimodal Generative Flow**|Haowei Lin et.al.|[2501.14216](http://arxiv.org/abs/2501.14216)|null|
 |**2025-01-18**|**Fanar: An Arabic-Centric Multimodal Generative AI Platform**|Fanar Team et.al.|[2501.13944](http://arxiv.org/abs/2501.13944)|null|
