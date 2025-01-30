@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -26,7 +26,7 @@ layout: default
 |**2025-01-22**|**Corecursive Coding of High Computational Derivatives and Power Series**|Jerzy Karczmarczuk et.al.|[2501.13194](http://arxiv.org/abs/2501.13194)|null|
 |**2025-01-22**|**Topological constraints on self-organisation in locally interacting systems**|Francesco Sacco et.al.|[2501.13188](http://arxiv.org/abs/2501.13188)|null|
 |**2025-01-22**|**Efficient Prompt Compression with Evaluator Heads for Long-Context Transformer Inference**|Weizhi Fei et.al.|[2501.12959](http://arxiv.org/abs/2501.12959)|null|
-|**2025-01-22**|**Late Breaking Result: FPGA-Based Emulation and Fault Injection for CNN Inference Accelerators**|Filip Masar et.al.|[2501.12818](http://arxiv.org/abs/2501.12818)|null|
+|**2025-01-22**|**Late Breaking Result: FPGA-Based Emulation and Fault Injection for CNN Inference Accelerators**|Filip Masar et.al.|[2501.12818](http://arxiv.org/abs/2501.12818)|**[link](https://github.com/ehw-fit/zynq-nvdla-faultinjection)**|
 |**2025-01-19**|**Generative Retrieval for Book search**|Yubao Tang et.al.|[2501.11034](http://arxiv.org/abs/2501.11034)|null|
 |**2025-01-17**|**DiffuEraser: A Diffusion Model for Video Inpainting**|Xiaowen Li et.al.|[2501.10018](http://arxiv.org/abs/2501.10018)|**[link](https://github.com/lixiaowen-xw/diffueraser)**|
 |**2025-01-15**|**MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Anticipation**|Olga Zatsarynna et.al.|[2501.08837](http://arxiv.org/abs/2501.08837)|null|
@@ -251,7 +251,7 @@ layout: default
 |**2025-01-26**|**A Benchmarking Platform for DDR4 Memory Performance in Data-Center-Class FPGAs**|Andrea Galimberti et.al.|[2501.15582](http://arxiv.org/abs/2501.15582)|null|
 |**2025-01-26**|**Qwen2.5-1M Technical Report**|An Yang et.al.|[2501.15383](http://arxiv.org/abs/2501.15383)|null|
 |**2025-01-11**|**Accelerating Particle-Mesh Algorithms with FPGAs and OmpSs@OpenCL**|Nicolas Lee Guidotti et.al.|[2501.14795](http://arxiv.org/abs/2501.14795)|null|
-|**2025-01-24**|**Experimentally Evaluating the Resource Efficiency of Big Data Autoscaling**|Jonathan Will et.al.|[2501.14456](http://arxiv.org/abs/2501.14456)|null|
+|**2025-01-24**|**Experimentally Evaluating the Resource Efficiency of Big Data Autoscaling**|Jonathan Will et.al.|[2501.14456](http://arxiv.org/abs/2501.14456)|**[link](https://github.com/dos-group/spark-autoscaling-evaluation)**|
 |**2025-01-20**|**Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training**|Jonghytun Lee et.al.|[2501.11771](http://arxiv.org/abs/2501.11771)|null|
 |**2025-01-17**|**AraXL: A Physically Scalable, Ultra-Wide RISC-V Vector Processor Design for Fast and Efficient Computation on Long Vectors**|Navaneeth Kunhi Purayil et.al.|[2501.10301](http://arxiv.org/abs/2501.10301)|null|
 |**2025-01-17**|**Multi-Dimensional Vector ISA Extension for Mobile In-Cache Computing**|Alireza Khadem et.al.|[2501.09902](http://arxiv.org/abs/2501.09902)|**[link](https://github.com/arkhadem/mve)**|
