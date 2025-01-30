@@ -190,6 +190,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling**|Xiaokang Chen et.al.|[2501.17811](http://arxiv.org/abs/2501.17811)|**[link](https://github.com/deepseek-ai/janus)**|
 |**2025-01-28**|**Whispers of Sound-Enhancing Information Extraction from Depression Patients' Unstructured Data through Audio and Text Emotion Recognition and Llama Fine-tuning**|Lindy Gan et.al.|[2501.16813](http://arxiv.org/abs/2501.16813)|null|
 |**2025-01-26**|**Scaling Large Vision-Language Models for Enhanced Multimodal Comprehension In Biomedical Image Analysis**|Robinson Umeike et.al.|[2501.15370](http://arxiv.org/abs/2501.15370)|null|
 |**2025-01-24**|**TFG-Flow: Training-free Guidance in Multimodal Generative Flow**|Haowei Lin et.al.|[2501.14216](http://arxiv.org/abs/2501.14216)|null|
