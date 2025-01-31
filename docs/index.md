@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401](http://arxiv.org/abs/2501.18401)|null|
+|**2025-01-29**|**Shared DIFF Transformer**|Yueyang Cang et.al.|[2501.17900](http://arxiv.org/abs/2501.17900)|null|
 |**2025-01-25**|**MambaTron: Efficient Cross-Modal Point Cloud Enhancement using Aggregate Selective State Space Modeling**|Sai Tarun Inaganti et.al.|[2501.16384](http://arxiv.org/abs/2501.16384)|null|
 |**2025-01-25**|**RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations**|Zunhai Su et.al.|[2501.16383](http://arxiv.org/abs/2501.16383)|null|
 |**2025-01-27**|**Application of Structured State Space Models to High energy physics with locality-sensitive hashing**|Cheng Jiang et.al.|[2501.16237](http://arxiv.org/abs/2501.16237)|null|
@@ -183,6 +185,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Semantic Web and Creative AI -- A Technical Report from ISWS 2023**|Raia Abu Ahmad et.al.|[2501.18542](http://arxiv.org/abs/2501.18542)|null|
 |**2025-01-29**|**Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling**|Xiaokang Chen et.al.|[2501.17811](http://arxiv.org/abs/2501.17811)|**[link](https://github.com/deepseek-ai/janus)**|
 |**2025-01-28**|**Whispers of Sound-Enhancing Information Extraction from Depression Patients' Unstructured Data through Audio and Text Emotion Recognition and Llama Fine-tuning**|Lindy Gan et.al.|[2501.16813](http://arxiv.org/abs/2501.16813)|null|
 |**2025-01-26**|**Scaling Large Vision-Language Models for Enhanced Multimodal Comprehension In Biomedical Image Analysis**|Robinson Umeike et.al.|[2501.15370](http://arxiv.org/abs/2501.15370)|null|
@@ -249,6 +252,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**Physics-Grounded Differentiable Simulation for Soft Growing Robots**|Lucas Chen et.al.|[2501.17963](http://arxiv.org/abs/2501.17963)|null|
 |**2025-01-26**|**A Benchmarking Platform for DDR4 Memory Performance in Data-Center-Class FPGAs**|Andrea Galimberti et.al.|[2501.15582](http://arxiv.org/abs/2501.15582)|null|
 |**2025-01-26**|**Qwen2.5-1M Technical Report**|An Yang et.al.|[2501.15383](http://arxiv.org/abs/2501.15383)|null|
 |**2025-01-11**|**Accelerating Particle-Mesh Algorithms with FPGAs and OmpSs@OpenCL**|Nicolas Lee Guidotti et.al.|[2501.14795](http://arxiv.org/abs/2501.14795)|null|
@@ -259,7 +263,7 @@ layout: default
 |**2025-01-16**|**Coded Deep Learning: Framework and Algorithm**|En-hui Yang et.al.|[2501.09849](http://arxiv.org/abs/2501.09849)|null|
 |**2025-01-11**|**SafeSplit: A Novel Defense Against Client-Side Backdoor Attacks in Split Learning**|Phillip Rieger et.al.|[2501.06650](http://arxiv.org/abs/2501.06650)|null|
 |**2025-01-21**|**Ladder-residual: parallelism-aware architecture for accelerating large model inference with communication overlapping**|Muru Zhang et.al.|[2501.06589](http://arxiv.org/abs/2501.06589)|**[link](https://github.com/mayank31398/ladder-residual-inference)**|
-|**2025-01-10**|**Scale-up Unlearnable Examples Learning with High-Performance Computing**|Yanfan Zhu et.al.|[2501.06080](http://arxiv.org/abs/2501.06080)|**[link](https://github.com/hrlblab/ue_hpc)**|
+|**2025-01-10**|**Scale-up Unlearnable Examples Learning with High-Performance Computing**|Yanfan Zhu et.al.|[2501.06080](http://arxiv.org/abs/2501.06080)|null|
 |**2025-01-09**|**Prediction-Assisted Online Distributed Deep Learning Workload Scheduling in GPU Clusters**|Ziyue Luo et.al.|[2501.05563](http://arxiv.org/abs/2501.05563)|null|
 |**2025-01-09**|**SyNPar: Synthetic Null Data Parallelism for High-Power False Discovery Rate Control in High-Dimensional Variable Selection**|Changhu Wang et.al.|[2501.05012](http://arxiv.org/abs/2501.05012)|null|
 |**2025-01-03**|**Data Parallel Visualization and Rendering on the RAMSES Supercomputer with ANARI**|Stefan Zellmann et.al.|[2501.01628](http://arxiv.org/abs/2501.01628)|null|
