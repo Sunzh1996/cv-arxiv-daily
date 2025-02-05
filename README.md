@@ -19,6 +19,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Spatio-temporal transformer to support automatic sign language translation**|Christian Ruiz et.al.|[2502.02587](http://arxiv.org/abs/2502.02587)|null|
+|**2025-02-04**|**EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization**|Yize Wu et.al.|[2502.02493](http://arxiv.org/abs/2502.02493)|null|
+|**2025-02-04**|**On the Expressivity of Selective State-Space Layers: A Multivariate Polynomial Approach**|Edo Cohen-Karlik et.al.|[2502.02209](http://arxiv.org/abs/2502.02209)|null|
+|**2025-02-04**|**VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation**|Siyu Xu et.al.|[2502.02175](http://arxiv.org/abs/2502.02175)|null|
+|**2025-02-04**|**MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving**|Shiju Zhao et.al.|[2502.01960](http://arxiv.org/abs/2502.01960)|null|
+|**2025-02-04**|**Can LLMs Maintain Fundamental Abilities under KV Cache Compression?**|Xiang Liu et.al.|[2502.01941](http://arxiv.org/abs/2502.01941)|null|
+|**2025-02-02**|**DeepGate4: Efficient and Effective Representation Learning for Circuit Design at Scale**|Ziyang Zheng et.al.|[2502.01681](http://arxiv.org/abs/2502.01681)|null|
+|**2025-01-31**|**Longer Attention Span: Increasing Transformer Context Length with Sparse Graph Processing Techniques**|Nathaniel Tomczak et.al.|[2502.01659](http://arxiv.org/abs/2502.01659)|null|
+|**2025-02-03**|**Learning to Partially Defer for Sequences**|Sahana Rayan et.al.|[2502.01459](http://arxiv.org/abs/2502.01459)|null|
+|**2025-02-03**|**FastKV: KV Cache Compression for Fast Long-Context Processing with Token-Selective Propagation**|Dongwon Jo et.al.|[2502.01068](http://arxiv.org/abs/2502.01068)|null|
+|**2025-02-02**|**HASSLE-free: A unified Framework for Sparse plus Low-Rank Matrix Decomposition for LLMs**|Mehdi Makni et.al.|[2502.00899](http://arxiv.org/abs/2502.00899)|null|
+|**2025-02-01**|**PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration**|Songhao Wu et.al.|[2502.00527](http://arxiv.org/abs/2502.00527)|null|
+|**2025-02-01**|**SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models**|Chuc Man Duc et.al.|[2502.00435](http://arxiv.org/abs/2502.00435)|null|
+|**2025-02-01**|**ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference**|Xiang Liu et.al.|[2502.00299](http://arxiv.org/abs/2502.00299)|null|
+|**2025-01-31**|**Efficient Beam Search for Large Language Models Using Trie-Based Decoding**|Brian J Chan et.al.|[2502.00085](http://arxiv.org/abs/2502.00085)|null|
 |**2025-01-31**|**Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models**|Alina Shutova et.al.|[2501.19392](http://arxiv.org/abs/2501.19392)|null|
 |**2025-01-31**|**Context Matters: Query-aware Dynamic Long Sequence Modeling of Gigapixel Images**|Zhengrui Guo et.al.|[2501.18984](http://arxiv.org/abs/2501.18984)|**[link](https://github.com/dddavid4real/querent)**|
 |**2025-01-31**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401](http://arxiv.org/abs/2501.18401)|**[link](https://github.com/wenjuan7275/matir)**|
@@ -194,6 +209,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-03**|**AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Understanding**|Ahmed Masry et.al.|[2502.01341](http://arxiv.org/abs/2502.01341)|null|
+|**2025-02-02**|**UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs**|Yufei He et.al.|[2502.00806](http://arxiv.org/abs/2502.00806)|null|
+|**2025-01-31**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094](http://arxiv.org/abs/2502.00094)|null|
 |**2025-01-31**|**Imitation Game for Adversarial Disillusion with Multimodal Generative Chain-of-Thought Role-Play**|Ching-Chun Chang et.al.|[2501.19143](http://arxiv.org/abs/2501.19143)|null|
 |**2025-01-30**|**Semantic Web and Creative AI -- A Technical Report from ISWS 2023**|Raia Abu Ahmad et.al.|[2501.18542](http://arxiv.org/abs/2501.18542)|null|
 |**2025-01-29**|**Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling**|Xiaokang Chen et.al.|[2501.17811](http://arxiv.org/abs/2501.17811)|**[link](https://github.com/deepseek-ai/janus)**|
@@ -264,6 +282,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Hecate: Unlocking Efficient Sparse Model Training via Fully Sharded Sparse Data Parallelism**|Yuhao Qing et.al.|[2502.02581](http://arxiv.org/abs/2502.02581)|null|
+|**2025-02-04**|**EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization**|Yize Wu et.al.|[2502.02493](http://arxiv.org/abs/2502.02493)|null|
 |**2025-01-29**|**Physics-Grounded Differentiable Simulation for Soft Growing Robots**|Lucas Chen et.al.|[2501.17963](http://arxiv.org/abs/2501.17963)|**[link](https://github.com/commalab/diffvinesimpy)**|
 |**2025-01-26**|**A Benchmarking Platform for DDR4 Memory Performance in Data-Center-Class FPGAs**|Andrea Galimberti et.al.|[2501.15582](http://arxiv.org/abs/2501.15582)|null|
 |**2025-01-26**|**Qwen2.5-1M Technical Report**|An Yang et.al.|[2501.15383](http://arxiv.org/abs/2501.15383)|null|
