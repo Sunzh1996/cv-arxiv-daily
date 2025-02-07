@@ -19,7 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-04**|**Twilight: Adaptive Attention Sparsity with Hierarchical Top- $p$ Pruning**|Chaofan Lin et.al.|[2502.02770](http://arxiv.org/abs/2502.02770)|null|
+|**2025-02-06**|**AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference**|Qingyue Yang et.al.|[2502.04077](http://arxiv.org/abs/2502.04077)|null|
+|**2025-02-06**|**Identify Critical KV Cache in LLM Inference from an Output Perturbation Perspective**|Yuan Feng et.al.|[2502.03805](http://arxiv.org/abs/2502.03805)|null|
+|**2025-02-05**|**HACK: Homomorphic Acceleration via Compression of the Key-Value Cache for Disaggregated LLM Inference**|Zeyu Zhang et.al.|[2502.03589](http://arxiv.org/abs/2502.03589)|null|
+|**2025-02-06**|**Twilight: Adaptive Attention Sparsity with Hierarchical Top- $p$ Pruning**|Chaofan Lin et.al.|[2502.02770](http://arxiv.org/abs/2502.02770)|null|
 |**2025-02-04**|**PolarQuant: Quantizing KV Caches with Polar Transformation**|Insu Han et.al.|[2502.02617](http://arxiv.org/abs/2502.02617)|null|
 |**2025-02-04**|**Spatio-temporal transformer to support automatic sign language translation**|Christian Ruiz et.al.|[2502.02587](http://arxiv.org/abs/2502.02587)|null|
 |**2025-02-04**|**EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization**|Yize Wu et.al.|[2502.02493](http://arxiv.org/abs/2502.02493)|null|
@@ -211,6 +214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**MRAMG-Bench: A BeyondText Benchmark for Multimodal Retrieval-Augmented Multimodal Generation**|Qinhan Yu et.al.|[2502.04176](http://arxiv.org/abs/2502.04176)|null|
 |**2025-02-03**|**AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Understanding**|Ahmed Masry et.al.|[2502.01341](http://arxiv.org/abs/2502.01341)|null|
 |**2025-02-02**|**UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs**|Yufei He et.al.|[2502.00806](http://arxiv.org/abs/2502.00806)|null|
 |**2025-02-04**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094](http://arxiv.org/abs/2502.00094)|null|
@@ -284,6 +288,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Exploring operation parallelism vs. ion movement in ion-trapped QCCD architectures**|Anabel Ovide et.al.|[2502.04181](http://arxiv.org/abs/2502.04181)|null|
+|**2025-02-06**|**InfinitePOD: Building Datacenter-Scale High-Bandwidth Domain for LLM with Optical Circuit Switching Transceivers**|Chenchen Shou et.al.|[2502.03885](http://arxiv.org/abs/2502.03885)|null|
 |**2025-02-04**|**Scalable Higher Resolution Polar Sea Ice Classification and Freeboard Calculation from ICESat-2 ATL03 Data**|Jurdana Masuma Iqrah et.al.|[2502.02700](http://arxiv.org/abs/2502.02700)|null|
 |**2025-02-04**|**Hecate: Unlocking Efficient Sparse Model Training via Fully Sharded Sparse Data Parallelism**|Yuhao Qing et.al.|[2502.02581](http://arxiv.org/abs/2502.02581)|null|
 |**2025-02-04**|**EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization**|Yize Wu et.al.|[2502.02493](http://arxiv.org/abs/2502.02493)|null|
