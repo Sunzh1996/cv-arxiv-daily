@@ -123,7 +123,7 @@ layout: default
 |**2024-12-13**|**SCBench: A KV Cache-Centric Analysis of Long-Context Methods**|Yucheng Li et.al.|[2412.10319](http://arxiv.org/abs/2412.10319)|null|
 |**2024-12-11**|**RealOSR: Latent Unfolding Boosting Diffusion-based Real-world Omnidirectional Image Super-Resolution**|Xuhan Sheng et.al.|[2412.09646](http://arxiv.org/abs/2412.09646)|null|
 |**2024-12-12**|**ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty**|Meizhi Zhong et.al.|[2412.09036](http://arxiv.org/abs/2412.09036)|null|
-|**2024-12-12**|**Lexico: Extreme KV Cache Compression via Sparse Coding over Universal Dictionaries**|Junhyuck Kim et.al.|[2412.08890](http://arxiv.org/abs/2412.08890)|null|
+|**2024-12-12**|**Lexico: Extreme KV Cache Compression via Sparse Coding over Universal Dictionaries**|Junhyuck Kim et.al.|[2412.08890](http://arxiv.org/abs/2412.08890)|**[link](https://github.com/krafton-ai/lexico)**|
 |**2024-12-17**|**TurboAttention: Efficient Attention Approximation For High Throughputs LLMs**|Hao Kang et.al.|[2412.08585](http://arxiv.org/abs/2412.08585)|null|
 |**2024-12-11**|**EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Cache Compression Based on Global-Local Importance**|Yingxin Li et.al.|[2412.08521](http://arxiv.org/abs/2412.08521)|null|
 |**2024-12-10**|**From Slow Bidirectional to Fast Causal Video Generators**|Tianwei Yin et.al.|[2412.07772](http://arxiv.org/abs/2412.07772)|null|
