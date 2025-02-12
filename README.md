@@ -19,10 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**Life-Code: Central Dogma Modeling with Multi-Omics Sequence Unification**|Zicheng Liu et.al.|[2502.07299](http://arxiv.org/abs/2502.07299)|null|
+|**2025-02-11**|**Contextual Gesture: Co-Speech Gesture Video Generation through Context-aware Gesture Representation**|Pinxin Liu et.al.|[2502.07239](http://arxiv.org/abs/2502.07239)|null|
+|**2025-02-10**|**Online Scheduling for LLM Inference with KV Cache Constraints**|Patrick Jaillet et.al.|[2502.07115](http://arxiv.org/abs/2502.07115)|null|
+|**2025-02-10**|**XAMBA: Enabling Efficient State Space Models on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06924](http://arxiv.org/abs/2502.06924)|null|
+|**2025-02-09**|**Enabling Autoregressive Models to Fill In Masked Tokens**|Daniel Israel et.al.|[2502.06901](http://arxiv.org/abs/2502.06901)|null|
 |**2025-02-10**|**LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs**|Sumin An et.al.|[2502.06139](http://arxiv.org/abs/2502.06139)|null|
 |**2025-02-07**|**Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray**|Yunhang Shen et.al.|[2502.05177](http://arxiv.org/abs/2502.05177)|null|
 |**2025-02-10**|**HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation**|Qijun Gan et.al.|[2502.04847](http://arxiv.org/abs/2502.04847)|null|
-|**2025-02-06**|**All-in-One Analog AI Accelerator: On-Chip Training and Inference with Conductive-Metal-Oxide/HfOx ReRAM Devices**|Donato Francesco Falcone et.al.|[2502.04524](http://arxiv.org/abs/2502.04524)|null|
+|**2025-02-11**|**All-in-One Analog AI Accelerator: On-Chip Training and Inference with Conductive-Metal-Oxide/HfOx ReRAM Devices**|Donato Francesco Falcone et.al.|[2502.04524](http://arxiv.org/abs/2502.04524)|null|
 |**2025-02-06**|**KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference**|Xing Li et.al.|[2502.04420](http://arxiv.org/abs/2502.04420)|null|
 |**2025-02-06**|**AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference**|Qingyue Yang et.al.|[2502.04077](http://arxiv.org/abs/2502.04077)|null|
 |**2025-02-06**|**Identify Critical KV Cache in LLM Inference from an Output Perturbation Perspective**|Yuan Feng et.al.|[2502.03805](http://arxiv.org/abs/2502.03805)|null|
@@ -296,6 +301,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**GraNNite: Enabling High-Performance Execution of Graph Neural Networks on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06921](http://arxiv.org/abs/2502.06921)|null|
 |**2025-02-07**|**Data-Parallel Neural Network Training via Nonlinearly Preconditioned Trust-Region Method**|Samuel A. Cruz Alegría et.al.|[2502.05133](http://arxiv.org/abs/2502.05133)|null|
 |**2025-02-06**|**Exploring operation parallelism vs. ion movement in ion-trapped QCCD architectures**|Anabel Ovide et.al.|[2502.04181](http://arxiv.org/abs/2502.04181)|null|
 |**2025-02-07**|**InfinitePOD: Building Datacenter-Scale High-Bandwidth Domain for LLM with Optical Circuit Switching Transceivers**|Chenchen Shou et.al.|[2502.03885](http://arxiv.org/abs/2502.03885)|null|
