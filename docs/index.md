@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -20,15 +20,15 @@ layout: default
 |**2025-02-11**|**Life-Code: Central Dogma Modeling with Multi-Omics Sequence Unification**|Zicheng Liu et.al.|[2502.07299](http://arxiv.org/abs/2502.07299)|null|
 |**2025-02-11**|**Contextual Gesture: Co-Speech Gesture Video Generation through Context-aware Gesture Representation**|Pinxin Liu et.al.|[2502.07239](http://arxiv.org/abs/2502.07239)|null|
 |**2025-02-10**|**Online Scheduling for LLM Inference with KV Cache Constraints**|Patrick Jaillet et.al.|[2502.07115](http://arxiv.org/abs/2502.07115)|null|
-|**2025-02-10**|**XAMBA: Enabling Efficient State Space Models on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06924](http://arxiv.org/abs/2502.06924)|null|
+|**2025-02-10**|**XAMBA: Enabling Efficient State Space Models on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06924](http://arxiv.org/abs/2502.06924)|**[link](https://github.com/arghadippurdue/xamba)**|
 |**2025-02-09**|**Enabling Autoregressive Models to Fill In Masked Tokens**|Daniel Israel et.al.|[2502.06901](http://arxiv.org/abs/2502.06901)|null|
 |**2025-02-10**|**LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs**|Sumin An et.al.|[2502.06139](http://arxiv.org/abs/2502.06139)|null|
-|**2025-02-07**|**Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray**|Yunhang Shen et.al.|[2502.05177](http://arxiv.org/abs/2502.05177)|null|
+|**2025-02-07**|**Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray**|Yunhang Shen et.al.|[2502.05177](http://arxiv.org/abs/2502.05177)|**[link](https://github.com/vita-mllm/long-vita)**|
 |**2025-02-10**|**HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation**|Qijun Gan et.al.|[2502.04847](http://arxiv.org/abs/2502.04847)|null|
 |**2025-02-11**|**All-in-One Analog AI Accelerator: On-Chip Training and Inference with Conductive-Metal-Oxide/HfOx ReRAM Devices**|Donato Francesco Falcone et.al.|[2502.04524](http://arxiv.org/abs/2502.04524)|null|
 |**2025-02-06**|**KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference**|Xing Li et.al.|[2502.04420](http://arxiv.org/abs/2502.04420)|null|
 |**2025-02-06**|**AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference**|Qingyue Yang et.al.|[2502.04077](http://arxiv.org/abs/2502.04077)|null|
-|**2025-02-06**|**Identify Critical KV Cache in LLM Inference from an Output Perturbation Perspective**|Yuan Feng et.al.|[2502.03805](http://arxiv.org/abs/2502.03805)|null|
+|**2025-02-06**|**Identify Critical KV Cache in LLM Inference from an Output Perturbation Perspective**|Yuan Feng et.al.|[2502.03805](http://arxiv.org/abs/2502.03805)|**[link](https://github.com/NVIDIA/kvpress)**|
 |**2025-02-05**|**HACK: Homomorphic Acceleration via Compression of the Key-Value Cache for Disaggregated LLM Inference**|Zeyu Zhang et.al.|[2502.03589](http://arxiv.org/abs/2502.03589)|null|
 |**2025-02-06**|**Twilight: Adaptive Attention Sparsity with Hierarchical Top- $p$ Pruning**|Chaofan Lin et.al.|[2502.02770](http://arxiv.org/abs/2502.02770)|null|
 |**2025-02-04**|**PolarQuant: Quantizing KV Caches with Polar Transformation**|Insu Han et.al.|[2502.02617](http://arxiv.org/abs/2502.02617)|null|
@@ -220,7 +220,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-09**|**Temporal Working Memory: Query-Guided Segment Refinement for Enhanced Multimodal Understanding**|Xingjian Diao et.al.|[2502.06020](http://arxiv.org/abs/2502.06020)|null|
+|**2025-02-09**|**Temporal Working Memory: Query-Guided Segment Refinement for Enhanced Multimodal Understanding**|Xingjian Diao et.al.|[2502.06020](http://arxiv.org/abs/2502.06020)|**[link](https://github.com/xid32/naacl_2025_twm)**|
 |**2025-02-08**|**Show-o Turbo: Towards Accelerated Unified Multimodal Understanding and Generation**|Chenkai Xu et.al.|[2502.05415](http://arxiv.org/abs/2502.05415)|null|
 |**2025-02-07**|**QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation**|Yue Zhao et.al.|[2502.05178](http://arxiv.org/abs/2502.05178)|null|
 |**2025-02-06**|**MRAMG-Bench: A BeyondText Benchmark for Multimodal Retrieval-Augmented Multimodal Generation**|Qinhan Yu et.al.|[2502.04176](http://arxiv.org/abs/2502.04176)|null|
