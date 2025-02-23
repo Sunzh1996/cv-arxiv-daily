@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.22
+## Updated on 2025.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,11 +28,11 @@
 |**2025-02-19**|**RocketKV: Accelerating Long-Context LLM Inference via Two-Stage KV Cache Compression**|Payman Behnam et.al.|[2502.14051](http://arxiv.org/abs/2502.14051)|null|
 |**2025-02-19**|**MaskPrune: Mask-based LLM Pruning for Layer-wise Uniform Structures**|Jiayu Qin et.al.|[2502.14008](http://arxiv.org/abs/2502.14008)|null|
 |**2025-02-19**|**ETS: Efficient Tree Search for Inference-Time Scaling**|Coleman Hooper et.al.|[2502.13575](http://arxiv.org/abs/2502.13575)|null|
-|**2025-02-19**|**PLDR-LLMs Learn A Generalizable Tensor Operator That Can Replace Its Own Deep Neural Net At Inference**|Burc Gokden et.al.|[2502.13502](http://arxiv.org/abs/2502.13502)|null|
+|**2025-02-19**|**PLDR-LLMs Learn A Generalizable Tensor Operator That Can Replace Its Own Deep Neural Net At Inference**|Burc Gokden et.al.|[2502.13502](http://arxiv.org/abs/2502.13502)|**[link](https://github.com/burcgokden/PLDR-LLM-with-KVG-cache)**|
 |**2025-02-20**|**Neural Attention Search**|Difan Deng et.al.|[2502.13251](http://arxiv.org/abs/2502.13251)|null|
 |**2025-02-18**|**BaKlaVa -- Budgeted Allocation of KV cache for Long-context Inference**|Ahmed Burak Gulhan et.al.|[2502.13176](http://arxiv.org/abs/2502.13176)|null|
 |**2025-02-18**|**A $^2$ ATS: Retrieval-Based KV Cache Reduction via Windowed Rotary Position Embedding and Query-Aware Vector Quantization**|Junhui He et.al.|[2502.12665](http://arxiv.org/abs/2502.12665)|null|
-|**2025-02-18**|**HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading**|Cheng Luo et.al.|[2502.12574](http://arxiv.org/abs/2502.12574)|null|
+|**2025-02-18**|**HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading**|Cheng Luo et.al.|[2502.12574](http://arxiv.org/abs/2502.12574)|**[link](https://github.com/wdlctc/headinfer)**|
 |**2025-02-18**|**An Empirical Evaluation of Encoder Architectures for Fast Real-Time Long Conversational Understanding**|Annamalai Senthilnathan et.al.|[2502.12458](http://arxiv.org/abs/2502.12458)|null|
 |**2025-02-17**|**Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs**|Kan Zhu et.al.|[2502.12216](http://arxiv.org/abs/2502.12216)|null|
 |**2025-02-17**|**Does RAG Really Perform Bad For Long-Context Processing?**|Kun Luo et.al.|[2502.11444](http://arxiv.org/abs/2502.11444)|null|
@@ -246,7 +246,7 @@
 |**2024-11-01**|**MoNTA: Accelerating Mixture-of-Experts Training with Network-Traffc-Aware Parallel Optimization**|Jingming Guo et.al.|[2411.00662](http://arxiv.org/abs/2411.00662)|**[link](https://github.com/enflametechnology/deepspeed)**|
 |**2024-11-01**|**Constrained Diffusion Implicit Models**|Vivek Jayaram et.al.|[2411.00359](http://arxiv.org/abs/2411.00359)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 ## MLLM
 
@@ -329,7 +329,7 @@
 |**2024-11-21**|**On the Fairness, Diversity and Reliability of Text-to-Image Generative Models**|Jordan Vice et.al.|[2411.13981](http://arxiv.org/abs/2411.13981)|null|
 |**2024-11-18**|**CCExpert: Advancing MLLM Capability in Remote Sensing Change Captioning with Difference-Aware Integration and a Foundational Dataset**|Zhiming Wang et.al.|[2411.11360](http://arxiv.org/abs/2411.11360)|**[link](https://github.com/meize0729/ccexpert)**|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 ## Train and Infer
 
@@ -394,7 +394,7 @@
 |**2024-11-05**|**SimpleFSDP: Simpler Fully Sharded Data Parallel with torch.compile**|Ruisi Zhang et.al.|[2411.00284](http://arxiv.org/abs/2411.00284)|null|
 |**2024-11-08**|**How Does Critical Batch Size Scale in Pre-training?**|Hanlin Zhang et.al.|[2410.21676](http://arxiv.org/abs/2410.21676)|**[link](https://github.com/hlzhang109/critical-batch-size)**|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.22
+## Updated on 2025.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -23,11 +23,11 @@ layout: default
 |**2025-02-19**|**RocketKV: Accelerating Long-Context LLM Inference via Two-Stage KV Cache Compression**|Payman Behnam et.al.|[2502.14051](http://arxiv.org/abs/2502.14051)|null|
 |**2025-02-19**|**MaskPrune: Mask-based LLM Pruning for Layer-wise Uniform Structures**|Jiayu Qin et.al.|[2502.14008](http://arxiv.org/abs/2502.14008)|null|
 |**2025-02-19**|**ETS: Efficient Tree Search for Inference-Time Scaling**|Coleman Hooper et.al.|[2502.13575](http://arxiv.org/abs/2502.13575)|null|
-|**2025-02-19**|**PLDR-LLMs Learn A Generalizable Tensor Operator That Can Replace Its Own Deep Neural Net At Inference**|Burc Gokden et.al.|[2502.13502](http://arxiv.org/abs/2502.13502)|null|
+|**2025-02-19**|**PLDR-LLMs Learn A Generalizable Tensor Operator That Can Replace Its Own Deep Neural Net At Inference**|Burc Gokden et.al.|[2502.13502](http://arxiv.org/abs/2502.13502)|**[link](https://github.com/burcgokden/PLDR-LLM-with-KVG-cache)**|
 |**2025-02-20**|**Neural Attention Search**|Difan Deng et.al.|[2502.13251](http://arxiv.org/abs/2502.13251)|null|
 |**2025-02-18**|**BaKlaVa -- Budgeted Allocation of KV cache for Long-context Inference**|Ahmed Burak Gulhan et.al.|[2502.13176](http://arxiv.org/abs/2502.13176)|null|
 |**2025-02-18**|**A $^2$ ATS: Retrieval-Based KV Cache Reduction via Windowed Rotary Position Embedding and Query-Aware Vector Quantization**|Junhui He et.al.|[2502.12665](http://arxiv.org/abs/2502.12665)|null|
-|**2025-02-18**|**HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading**|Cheng Luo et.al.|[2502.12574](http://arxiv.org/abs/2502.12574)|null|
+|**2025-02-18**|**HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading**|Cheng Luo et.al.|[2502.12574](http://arxiv.org/abs/2502.12574)|**[link](https://github.com/wdlctc/headinfer)**|
 |**2025-02-18**|**An Empirical Evaluation of Encoder Architectures for Fast Real-Time Long Conversational Understanding**|Annamalai Senthilnathan et.al.|[2502.12458](http://arxiv.org/abs/2502.12458)|null|
 |**2025-02-17**|**Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs**|Kan Zhu et.al.|[2502.12216](http://arxiv.org/abs/2502.12216)|null|
 |**2025-02-17**|**Does RAG Really Perform Bad For Long-Context Processing?**|Kun Luo et.al.|[2502.11444](http://arxiv.org/abs/2502.11444)|null|
