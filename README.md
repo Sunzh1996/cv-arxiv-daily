@@ -19,9 +19,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-21**|**Enhancing RWKV-based Language Models for Long-Sequence Text Generation**|Xinghan Pan et.al.|[2502.15485](http://arxiv.org/abs/2502.15485)|null|
+|**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|null|
+|**2025-02-24**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/abs/2502.17363)|null|
+|**2025-02-24**|**CodeSwift: Accelerating LLM Inference for Efficient Code Generation**|Qianhui Zhao et.al.|[2502.17139](http://arxiv.org/abs/2502.17139)|null|
+|**2025-02-24**|**LongSafety: Evaluating Long-Context Safety of Large Language Models**|Yida Lu et.al.|[2502.16971](http://arxiv.org/abs/2502.16971)|null|
+|**2025-02-24**|**DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance**|Xuanfan Ni et.al.|[2502.16886](http://arxiv.org/abs/2502.16886)|null|
+|**2025-02-23**|**A Split-Window Transformer for Multi-Model Sequence Spammer Detection using Multi-Model Variational Autoencoder**|Zhou Yang et.al.|[2502.16483](http://arxiv.org/abs/2502.16483)|null|
+|**2025-02-21**|**KVLink: Accelerating Large Language Models via Efficient KV Cache Reuse**|Jingbo Yang et.al.|[2502.16002](http://arxiv.org/abs/2502.16002)|null|
+|**2025-02-21**|**Compression Barriers for Autoregressive Transformers**|Themistoklis Haris et.al.|[2502.15955](http://arxiv.org/abs/2502.15955)|null|
+|**2025-02-24**|**Enhancing RWKV-based Language Models for Long-Sequence Text Generation**|Xinghan Pan et.al.|[2502.15485](http://arxiv.org/abs/2502.15485)|**[link](https://github.com/PStarH/long-seq-rwkv)**|
 |**2025-02-21**|**SVDq: 1.25-bit and 410x Key Cache Compression for LLM Attention**|Hong Yankun et.al.|[2502.15304](http://arxiv.org/abs/2502.15304)|null|
-|**2025-02-21**|**Round Attention: A Novel Round-Level Attention Mechanism to Accelerate LLM Inference**|Yaohua Tang et.al.|[2502.15294](http://arxiv.org/abs/2502.15294)|null|
+|**2025-02-24**|**Round Attention: A Novel Round-Level Attention Mechanism to Accelerate LLM Inference**|Yaohua Tang et.al.|[2502.15294](http://arxiv.org/abs/2502.15294)|null|
 |**2025-02-20**|**More for Keys, Less for Values: Adaptive KV Cache Quantization**|Mohsen Hariri et.al.|[2502.15075](http://arxiv.org/abs/2502.15075)|null|
 |**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/abs/2502.14866)|**[link](https://github.com/mit-han-lab/omniserve)**|
 |**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/abs/2502.14837)|**[link](https://github.com/JT-Ushio/MHA2MLA)**|
@@ -256,6 +264,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-23**|**VisFactor: Benchmarking Fundamental Visual Cognition in Multimodal Large Language Models**|Jen-Tse Huang et.al.|[2502.16435](http://arxiv.org/abs/2502.16435)|null|
+|**2025-02-22**|**FeatSharp: Your Vision Model Features, Sharper**|Mike Ranzinger et.al.|[2502.16025](http://arxiv.org/abs/2502.16025)|null|
+|**2025-02-19**|**Megrez-Omni Technical Report**|Boxun Li et.al.|[2502.15803](http://arxiv.org/abs/2502.15803)|null|
 |**2025-02-21**|**Evaluating Multimodal Generative AI with Korean Educational Standards**|Sanghee Park et.al.|[2502.15422](http://arxiv.org/abs/2502.15422)|null|
 |**2025-02-21**|**Exploring Embodied Multimodal Large Models: Development, Datasets, and Future Directions**|Shoubin Chen et.al.|[2502.15336](http://arxiv.org/abs/2502.15336)|null|
 |**2025-02-21**|**The Evolving Landscape of LLM- and VLM-Integrated Reinforcement Learning**|Sheila Schoepp et.al.|[2502.15214](http://arxiv.org/abs/2502.15214)|null|
@@ -344,6 +355,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**FairKV: Balancing Per-Head KV Cache for Fast Multi-GPU Inference**|Bingzhe Zhao et.al.|[2502.15804](http://arxiv.org/abs/2502.15804)|null|
 |**2025-02-21**|**Towards Swift Serverless LLM Cold Starts with ParaServe**|Chiheng Lou et.al.|[2502.15524](http://arxiv.org/abs/2502.15524)|null|
 |**2025-02-18**|**Eager Updates For Overlapped Communication and Computation in DiLoCo**|Satyen Kale et.al.|[2502.12996](http://arxiv.org/abs/2502.12996)|null|
 |**2025-02-18**|**A $^2$ ATS: Retrieval-Based KV Cache Reduction via Windowed Rotary Position Embedding and Query-Aware Vector Quantization**|Junhui He et.al.|[2502.12665](http://arxiv.org/abs/2502.12665)|null|
