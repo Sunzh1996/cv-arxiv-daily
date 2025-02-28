@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners**|Daniele Paliotta et.al.|[2502.20339](http://arxiv.org/abs/2502.20339)|null|
+|**2025-02-27**|**Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330](http://arxiv.org/abs/2502.20330)|null|
+|**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078](http://arxiv.org/abs/2502.20078)|null|
 |**2025-02-26**|**From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence Generation up to 100K Tokens**|Tong Wu et.al.|[2502.18890](http://arxiv.org/abs/2502.18890)|null|
 |**2025-02-26**|**Sliding Window Attention Training for Efficient Large Language Models**|Zichuan Fu et.al.|[2502.18845](http://arxiv.org/abs/2502.18845)|null|
 |**2025-02-26**|**M-ANT: Efficient Low-bit Group Quantization for LLMs via Mathematically Adaptive Numerical Type**|Weiming Hu et.al.|[2502.18755](http://arxiv.org/abs/2502.18755)|null|
@@ -275,6 +278,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Opus: A Workflow Intention Framework for Complex Workflow Generation**|Phillip Kingston et.al.|[2502.19532](http://arxiv.org/abs/2502.19532)|null|
 |**2025-02-26**|**Exploring Rewriting Approaches for Different Conversational Tasks**|Md Mehrab Tanjim et.al.|[2502.18860](http://arxiv.org/abs/2502.18860)|null|
 |**2025-02-24**|**Contrastive Visual Data Augmentation**|Yu Zhou et.al.|[2502.17709](http://arxiv.org/abs/2502.17709)|null|
 |**2025-02-23**|**VisFactor: Benchmarking Fundamental Visual Cognition in Multimodal Large Language Models**|Jen-Tse Huang et.al.|[2502.16435](http://arxiv.org/abs/2502.16435)|**[link](https://github.com/cuhk-arise/visfactor)**|
@@ -368,6 +372,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**SkipPipe: Partial and Reordered Pipelining Framework for Training LLMs in Heterogeneous Networks**|Nikolay Blagoev et.al.|[2502.19913](http://arxiv.org/abs/2502.19913)|null|
+|**2025-02-27**|**RingAda: Pipelining Large Model Fine-Tuning on Edge Devices with Scheduled Layer Unfreezing**|Liang Li et.al.|[2502.19864](http://arxiv.org/abs/2502.19864)|null|
 |**2025-02-19**|**FairKV: Balancing Per-Head KV Cache for Fast Multi-GPU Inference**|Bingzhe Zhao et.al.|[2502.15804](http://arxiv.org/abs/2502.15804)|null|
 |**2025-02-21**|**Towards Swift Serverless LLM Cold Starts with ParaServe**|Chiheng Lou et.al.|[2502.15524](http://arxiv.org/abs/2502.15524)|null|
 |**2025-02-18**|**Eager Updates For Overlapped Communication and Computation in DiLoCo**|Satyen Kale et.al.|[2502.12996](http://arxiv.org/abs/2502.12996)|null|
