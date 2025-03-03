@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.02
+## Updated on 2025.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -22,7 +22,7 @@ layout: default
 |**2025-02-26**|**M-ANT: Efficient Low-bit Group Quantization for LLMs via Mathematically Adaptive Numerical Type**|Weiming Hu et.al.|[2502.18755](http://arxiv.org/abs/2502.18755)|null|
 |**2025-02-26**|**The FFT Strikes Back: An Efficient Alternative to Self-Attention**|Jacob Fein-Ashley et.al.|[2502.18394](http://arxiv.org/abs/2502.18394)|**[link](https://github.com/jacobfa/fft)**|
 |**2025-02-26**|**From planning to policy: distilling $\texttt{Skill-RRT}$ for long-horizon prehensile and non-prehensile manipulation**|Haewon Jung et.al.|[2502.18015](http://arxiv.org/abs/2502.18015)|null|
-|**2025-02-25**|**EEGM2: An Efficient Mamba-2-Based Self-Supervised Framework for Long-Sequence EEG Modeling**|Jiazhen Hong et.al.|[2502.17873](http://arxiv.org/abs/2502.17873)|null|
+|**2025-02-25**|**EEGM2: An Efficient Mamba-2-Based Self-Supervised Framework for Long-Sequence EEG Modeling**|Jiazhen Hong et.al.|[2502.17873](http://arxiv.org/abs/2502.17873)|**[link](https://github.com/Jiazhen-Hong/EEGM2)**|
 |**2025-02-24**|**LLM Inference Acceleration via Efficient Operation Fusion**|Mahsa Salmani et.al.|[2502.17728](http://arxiv.org/abs/2502.17728)|null|
 |**2025-02-24**|**MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference**|Zhongwei Wan et.al.|[2502.17599](http://arxiv.org/abs/2502.17599)|null|
 |**2025-02-24**|**The Lottery LLM Hypothesis, Rethinking What Abilities Should LLM Compression Preserve?**|Zhenheng Tang et.al.|[2502.17535](http://arxiv.org/abs/2502.17535)|null|
