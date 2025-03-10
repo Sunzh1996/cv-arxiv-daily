@@ -63,7 +63,7 @@ layout: default
 |**2025-02-24**|**Enhancing RWKV-based Language Models for Long-Sequence Text Generation**|Xinghan Pan et.al.|[2502.15485](http://arxiv.org/abs/2502.15485)|**[link](https://github.com/PStarH/long-seq-rwkv)**|
 |**2025-02-21**|**SVDq: 1.25-bit and 410x Key Cache Compression for LLM Attention**|Hong Yankun et.al.|[2502.15304](http://arxiv.org/abs/2502.15304)|null|
 |**2025-02-24**|**Round Attention: A Novel Round-Level Attention Mechanism to Accelerate LLM Inference**|Yaohua Tang et.al.|[2502.15294](http://arxiv.org/abs/2502.15294)|null|
-|**2025-02-20**|**More for Keys, Less for Values: Adaptive KV Cache Quantization**|Mohsen Hariri et.al.|[2502.15075](http://arxiv.org/abs/2502.15075)|null|
+|**2025-02-20**|**More for Keys, Less for Values: Adaptive KV Cache Quantization**|Mohsen Hariri et.al.|[2502.15075](http://arxiv.org/abs/2502.15075)|**[link](https://github.com/mohsenhariri/kvq)**|
 |**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/abs/2502.14866)|**[link](https://github.com/mit-han-lab/omniserve)**|
 |**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/abs/2502.14837)|**[link](https://github.com/JT-Ushio/MHA2MLA)**|
 |**2025-02-20**|**PLPHP: Per-Layer Per-Head Vision Token Pruning for Efficient Large Vision-Language Models**|Yu Meng et.al.|[2502.14504](http://arxiv.org/abs/2502.14504)|null|
@@ -335,7 +335,7 @@ layout: default
 |**2025-01-29**|**Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling**|Xiaokang Chen et.al.|[2501.17811](http://arxiv.org/abs/2501.17811)|**[link](https://github.com/deepseek-ai/janus)**|
 |**2025-01-31**|**Multimodal Magic Elevating Depression Detection with a Fusion of Text and Audio Intelligence**|Lindy Gan et.al.|[2501.16813](http://arxiv.org/abs/2501.16813)|null|
 |**2025-01-26**|**Scaling Large Vision-Language Models for Enhanced Multimodal Comprehension In Biomedical Image Analysis**|Robinson Umeike et.al.|[2501.15370](http://arxiv.org/abs/2501.15370)|null|
-|**2025-01-24**|**TFG-Flow: Training-free Guidance in Multimodal Generative Flow**|Haowei Lin et.al.|[2501.14216](http://arxiv.org/abs/2501.14216)|null|
+|**2025-01-24**|**TFG-Flow: Training-free Guidance in Multimodal Generative Flow**|Haowei Lin et.al.|[2501.14216](http://arxiv.org/abs/2501.14216)|**[link](https://github.com/linhaowei1/tfg-flow)**|
 |**2025-01-18**|**Fanar: An Arabic-Centric Multimodal Generative AI Platform**|Fanar Team et.al.|[2501.13944](http://arxiv.org/abs/2501.13944)|null|
 |**2025-02-18**|**Generating with Fairness: A Modality-Diffused Counterfactual Framework for Incomplete Multimodal Recommendations**|Jin Li et.al.|[2501.11916](http://arxiv.org/abs/2501.11916)|**[link](https://github.com/jinli-i/modicf)**|
 |**2025-01-20**|**KPL: Training-Free Medical Knowledge Mining of Vision-Language Models**|Jiaxiang Liu et.al.|[2501.11231](http://arxiv.org/abs/2501.11231)|**[link](https://github.com/jxliu-ai/kpl)**|
