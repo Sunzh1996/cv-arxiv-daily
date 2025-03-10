@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Look Before You Leap: Using Serialized State Machine for Language Conditioned Robotic Manipulation**|Tong Mu et.al.|[2503.05114](http://arxiv.org/abs/2503.05114)|null|
+|**2025-03-06**|**LVLM-Compress-Bench: Benchmarking the Broader Impact of Large Vision-Language Model Compression**|Souvik Kundu et.al.|[2503.04982](http://arxiv.org/abs/2503.04982)|null|
+|**2025-03-06**|**Beyond RAG: Task-Aware KV Cache Compression for Comprehensive Knowledge Reasoning**|Giulio Corallo et.al.|[2503.04973](http://arxiv.org/abs/2503.04973)|null|
 |**2025-03-06**|**Dynamic Pricing for On-Demand DNN Inference in the Edge-AI Market**|Songyuan Li et.al.|[2503.04521](http://arxiv.org/abs/2503.04521)|null|
 |**2025-03-05**|**PowerAttention: Exponentially Scaling of Receptive Fields for Effective Sparse Attention**|Lida Chen et.al.|[2503.03588](http://arxiv.org/abs/2503.03588)|null|
 |**2025-03-05**|**RASD: Retrieval-Augmented Speculative Decoding**|Guofeng Quan et.al.|[2503.03434](http://arxiv.org/abs/2503.03434)|null|
@@ -302,6 +305,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Unified Reward Model for Multimodal Understanding and Generation**|Yibin Wang et.al.|[2503.05236](http://arxiv.org/abs/2503.05236)|null|
+|**2025-03-05**|**Replicating Human Social Perception in Generative AI: Evaluating the Valence-Dominance Model**|Necdet Gurkan et.al.|[2503.04842](http://arxiv.org/abs/2503.04842)|null|
 |**2025-03-06**|**Simulating the Real World: A Unified Survey of Multimodal Generative Models**|Yuqi Hu et.al.|[2503.04641](http://arxiv.org/abs/2503.04641)|null|
 |**2025-03-05**|**The Devil Is in the Details: Tackling Unimodal Spurious Correlations for Generalizable Multimodal Reward Models**|Zichao Li et.al.|[2503.03122](http://arxiv.org/abs/2503.03122)|null|
 |**2025-03-04**|**Evaluation of Architectural Synthesis Using Generative AI**|Jingfei Huang et.al.|[2503.02861](http://arxiv.org/abs/2503.02861)|null|
