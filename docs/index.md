@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Long Context Tuning for Video Generation**|Yuwei Guo et.al.|[2503.10589](http://arxiv.org/abs/2503.10589)|null|
+|**2025-03-13**|**Autoregressive Image Generation with Randomized Parallel Decoding**|Haopeng Li et.al.|[2503.10568](http://arxiv.org/abs/2503.10568)|null|
+|**2025-03-13**|**TokenCarve: Information-Preserving Visual Token Compression in Multimodal Large Language Models**|Xudong Tan et.al.|[2503.10501](http://arxiv.org/abs/2503.10501)|null|
+|**2025-03-13**|**Source-primed Multi-turn Conversation Helps Large Language Models Translate Documents**|Hanxu Hu et.al.|[2503.10494](http://arxiv.org/abs/2503.10494)|null|
+|**2025-03-13**|**Streaming Generation of Co-Speech Gestures via Accelerated Rolling Diffusion**|Evgeniia Vu et.al.|[2503.10488](http://arxiv.org/abs/2503.10488)|null|
+|**2025-03-13**|**SPPO:Efficient Long-sequence LLM Training via Adaptive Sequence Pipeline Parallel Offloading**|Qiaoling Chen et.al.|[2503.10377](http://arxiv.org/abs/2503.10377)|null|
+|**2025-03-13**|**KV-Distill: Nearly Lossless Learnable Context Compression for LLMs**|Vivek Chari et.al.|[2503.10337](http://arxiv.org/abs/2503.10337)|null|
+|**2025-03-13**|**Mamba-VA: A Mamba-based Approach for Continuous Emotion Recognition in Valence-Arousal Space**|Yuheng Liang et.al.|[2503.10104](http://arxiv.org/abs/2503.10104)|null|
 |**2025-03-12**|**Cost-Optimal Grouped-Query Attention for Long-Context LLMs**|Yingfa Chen et.al.|[2503.09579](http://arxiv.org/abs/2503.09579)|**[link](https://github.com/thunlp/cost-optimal-gqa)**|
 |**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573](http://arxiv.org/abs/2503.09573)|null|
 |**2025-03-11**|**LLMs Know What to Drop: Self-Attention Guided KV Cache Eviction for Efficient Long-Context Inference**|Guangtao Wang et.al.|[2503.08879](http://arxiv.org/abs/2503.08879)|null|
@@ -435,6 +443,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**SPPO:Efficient Long-sequence LLM Training via Adaptive Sequence Pipeline Parallel Offloading**|Qiaoling Chen et.al.|[2503.10377](http://arxiv.org/abs/2503.10377)|null|
+|**2025-03-12**|**Communication-Efficient Language Model Training Scales Reliably and Robustly: Scaling Laws for DiLoCo**|Zachary Charles et.al.|[2503.09799](http://arxiv.org/abs/2503.09799)|null|
 |**2025-03-12**|**Automatic Operator-level Parallelism Planning for Distributed Deep Learning -- A Mixed-Integer Programming Approach**|Ruifeng She et.al.|[2503.09357](http://arxiv.org/abs/2503.09357)|null|
 |**2025-03-10**|**Distributed Resource Block Allocation for Wideband Cell-free System**|Yang Ma et.al.|[2503.06875](http://arxiv.org/abs/2503.06875)|null|
 |**2025-03-09**|**Seesaw: High-throughput LLM Inference via Model Re-sharding**|Qidong Su et.al.|[2503.06433](http://arxiv.org/abs/2503.06433)|null|
