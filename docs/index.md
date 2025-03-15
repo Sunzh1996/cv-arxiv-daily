@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.14
+## Updated on 2025.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -23,14 +23,14 @@ layout: default
 |**2025-03-13**|**KV-Distill: Nearly Lossless Learnable Context Compression for LLMs**|Vivek Chari et.al.|[2503.10337](http://arxiv.org/abs/2503.10337)|null|
 |**2025-03-13**|**Mamba-VA: A Mamba-based Approach for Continuous Emotion Recognition in Valence-Arousal Space**|Yuheng Liang et.al.|[2503.10104](http://arxiv.org/abs/2503.10104)|null|
 |**2025-03-12**|**Cost-Optimal Grouped-Query Attention for Long-Context LLMs**|Yingfa Chen et.al.|[2503.09579](http://arxiv.org/abs/2503.09579)|**[link](https://github.com/thunlp/cost-optimal-gqa)**|
-|**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573](http://arxiv.org/abs/2503.09573)|null|
+|**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573](http://arxiv.org/abs/2503.09573)|**[link](https://github.com/kuleshov-group/bd3lms)**|
 |**2025-03-11**|**LLMs Know What to Drop: Self-Attention Guided KV Cache Eviction for Efficient Long-Context Inference**|Guangtao Wang et.al.|[2503.08879](http://arxiv.org/abs/2503.08879)|null|
 |**2025-03-11**|**OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models**|Jialv Zou et.al.|[2503.08686](http://arxiv.org/abs/2503.08686)|null|
 |**2025-03-11**|**FastCache: Optimizing Multimodal LLM Serving through Lightweight KV-Cache Compression Framework**|Jianian Zhu et.al.|[2503.08461](http://arxiv.org/abs/2503.08461)|null|
 |**2025-03-11**|**MinGRU-Based Encoder for Turbo Autoencoder Frameworks**|Rick Fritschek et.al.|[2503.08451](http://arxiv.org/abs/2503.08451)|null|
 |**2025-03-07**|**MergeQuant: Accurate 4-bit Static Quantization of Large Language Models by Channel-wise Calibration**|Jinguang Wang et.al.|[2503.07654](http://arxiv.org/abs/2503.07654)|null|
 |**2025-03-10**|**HumanMM: Global Human Motion Recovery from Multi-shot Videos**|Yuhong Zhang et.al.|[2503.07597](http://arxiv.org/abs/2503.07597)|null|
-|**2025-03-10**|**TokenButler: Token Importance is Predictable**|Yash Akhauri et.al.|[2503.07518](http://arxiv.org/abs/2503.07518)|null|
+|**2025-03-10**|**TokenButler: Token Importance is Predictable**|Yash Akhauri et.al.|[2503.07518](http://arxiv.org/abs/2503.07518)|**[link](https://github.com/abdelfattah-lab/tokenbutler)**|
 |**2025-03-10**|**Early signs of stuck pipe detection based on Crossformer**|Bo Cao et.al.|[2503.07440](http://arxiv.org/abs/2503.07440)|null|
 |**2025-03-10**|**ALLVB: All-in-One Long Video Understanding Benchmark**|Xichen Tan et.al.|[2503.07298](http://arxiv.org/abs/2503.07298)|null|
 |**2025-03-10**|**EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer**|Yuxuan Zhang et.al.|[2503.07027](http://arxiv.org/abs/2503.07027)|null|
@@ -335,12 +335,12 @@ layout: default
 |**2025-03-09**|**SemHiTok: A Unified Image Tokenizer via Semantic-Guided Hierarchical Codebook for Multimodal Understanding and Generation**|Zisheng Chen et.al.|[2503.06764](http://arxiv.org/abs/2503.06764)|null|
 |**2025-03-09**|**ARMOR v0.1: Empowering Autoregressive Multimodal Understanding Model with Interleaved Multimodal Generation via Asymmetric Synergy**|Jianwen Sun et.al.|[2503.06542](http://arxiv.org/abs/2503.06542)|null|
 |**2025-03-08**|**Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?**|Kun Xiang et.al.|[2503.06252](http://arxiv.org/abs/2503.06252)|**[link](https://github.com/quinn777/atomthink)**|
-|**2025-03-08**|**X2I: Seamless Integration of Multimodal Understanding into Diffusion Transformer via Attention Distillation**|Jian Ma et.al.|[2503.06134](http://arxiv.org/abs/2503.06134)|null|
+|**2025-03-08**|**X2I: Seamless Integration of Multimodal Understanding into Diffusion Transformer via Attention Distillation**|Jian Ma et.al.|[2503.06134](http://arxiv.org/abs/2503.06134)|**[link](https://github.com/oppo-mente-lab/x2i)**|
 |**2025-03-08**|**Unlocking Pretrained LLMs for Motion-Related Multimodal Generation: A Fine-Tuning Approach to Unify Diffusion and Next-Token Prediction**|Shinichi Tanaka et.al.|[2503.06119](http://arxiv.org/abs/2503.06119)|null|
-|**2025-03-08**|**GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images**|Xiang Lan et.al.|[2503.06073](http://arxiv.org/abs/2503.06073)|null|
+|**2025-03-08**|**GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images**|Xiang Lan et.al.|[2503.06073](http://arxiv.org/abs/2503.06073)|**[link](https://github.com/lanxiang1017/gem)**|
 |**2025-03-07**|**Unified Reward Model for Multimodal Understanding and Generation**|Yibin Wang et.al.|[2503.05236](http://arxiv.org/abs/2503.05236)|null|
 |**2025-03-05**|**Replicating Human Social Perception in Generative AI: Evaluating the Valence-Dominance Model**|Necdet Gurkan et.al.|[2503.04842](http://arxiv.org/abs/2503.04842)|null|
-|**2025-03-06**|**Simulating the Real World: A Unified Survey of Multimodal Generative Models**|Yuqi Hu et.al.|[2503.04641](http://arxiv.org/abs/2503.04641)|null|
+|**2025-03-06**|**Simulating the Real World: A Unified Survey of Multimodal Generative Models**|Yuqi Hu et.al.|[2503.04641](http://arxiv.org/abs/2503.04641)|**[link](https://github.com/aleeehu/world-simulator)**|
 |**2025-03-10**|**The Devil Is in the Details: Tackling Unimodal Spurious Correlations for Generalizable Multimodal Reward Models**|Zichao Li et.al.|[2503.03122](http://arxiv.org/abs/2503.03122)|null|
 |**2025-03-04**|**Evaluation of Architectural Synthesis Using Generative AI**|Jingfei Huang et.al.|[2503.02861](http://arxiv.org/abs/2503.02861)|null|
 |**2025-03-04**|**A Multimodal Symphony: Integrating Taste and Sound through Generative AI**|Matteo Spanio et.al.|[2503.02823](http://arxiv.org/abs/2503.02823)|null|
