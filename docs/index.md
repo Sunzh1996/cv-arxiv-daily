@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers**|Weiming Ren et.al.|[2503.11579](http://arxiv.org/abs/2503.11579)|null|
+|**2025-03-14**|**BriLLM: Brain-inspired Large Language Model**|Hai Zhao et.al.|[2503.11299](http://arxiv.org/abs/2503.11299)|null|
+|**2025-03-14**|**X-EcoMLA: Upcycling Pre-Trained Attention into MLA for Efficient and Extreme KV Compression**|Guihong Li et.al.|[2503.11132](http://arxiv.org/abs/2503.11132)|null|
+|**2025-03-14**|**Limits of KV Cache Compression for Tensor Attention based Autoregressive Transformers**|Yifang Chen et.al.|[2503.11108](http://arxiv.org/abs/2503.11108)|null|
+|**2025-03-13**|**ZeroMerge: Parameter-Free KV Cache Compression for Memory-Efficient Long-Context LLMs**|Xin Liu et.al.|[2503.10714](http://arxiv.org/abs/2503.10714)|null|
 |**2025-03-13**|**Long Context Tuning for Video Generation**|Yuwei Guo et.al.|[2503.10589](http://arxiv.org/abs/2503.10589)|null|
 |**2025-03-13**|**Autoregressive Image Generation with Randomized Parallel Decoding**|Haopeng Li et.al.|[2503.10568](http://arxiv.org/abs/2503.10568)|null|
 |**2025-03-13**|**TokenCarve: Information-Preserving Visual Token Compression in Multimodal Large Language Models**|Xudong Tan et.al.|[2503.10501](http://arxiv.org/abs/2503.10501)|**[link](https://github.com/shawntan86/tokencarve)**|
@@ -324,6 +329,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models**|Hongyang Wei et.al.|[2503.11073](http://arxiv.org/abs/2503.11073)|null|
+|**2025-03-13**|**The Power of One: A Single Example is All it Takes for Segmentation in VLMs**|Mir Rayat Imtiaz Hossain et.al.|[2503.10779](http://arxiv.org/abs/2503.10779)|null|
 |**2025-03-12**|**Astrea: A MOE-based Visual Understanding Model with Progressive Alignment**|Xiaoda Yang et.al.|[2503.09445](http://arxiv.org/abs/2503.09445)|null|
 |**2025-03-12**|**Multimodal Language Modeling for High-Accuracy Single Cell Transcriptomics Analysis and Generation**|Yaorui Shi et.al.|[2503.09427](http://arxiv.org/abs/2503.09427)|**[link](https://github.com/syr-cn/scmmgpt)**|
 |**2025-03-11**|**OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models**|Jialv Zou et.al.|[2503.08686](http://arxiv.org/abs/2503.08686)|**[link](https://github.com/hustvl/omnimamba)**|
