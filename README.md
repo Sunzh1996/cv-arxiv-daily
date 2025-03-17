@@ -41,8 +41,8 @@
 |**2025-03-10**|**EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer**|Yuxuan Zhang et.al.|[2503.07027](http://arxiv.org/abs/2503.07027)|null|
 |**2025-03-10**|**MERLION: Marine ExploRation with Language guIded Online iNformative Visual Sampling and Enhancement**|Shrutika Vishal Thengane et.al.|[2503.06953](http://arxiv.org/abs/2503.06953)|null|
 |**2025-03-09**|**UniGenX: Unified Generation of Sequence and Structure with Autoregressive Diffusion**|Gongbo Zhang et.al.|[2503.06687](http://arxiv.org/abs/2503.06687)|null|
-|**2025-03-09**|**Beyond Decoder-only: Large Language Models Can be Good Encoders for Machine Translation**|Yingfeng Luo et.al.|[2503.06594](http://arxiv.org/abs/2503.06594)|null|
-|**2025-03-09**|**QuantCache: Adaptive Importance-Guided Quantization with Hierarchical Latent and Layer Caching for Video Generation**|Junyi Wu et.al.|[2503.06545](http://arxiv.org/abs/2503.06545)|null|
+|**2025-03-09**|**Beyond Decoder-only: Large Language Models Can be Good Encoders for Machine Translation**|Yingfeng Luo et.al.|[2503.06594](http://arxiv.org/abs/2503.06594)|**[link](https://github.com/NiuTrans/LaMaTE)**|
+|**2025-03-09**|**QuantCache: Adaptive Importance-Guided Quantization with Hierarchical Latent and Layer Caching for Video Generation**|Junyi Wu et.al.|[2503.06545](http://arxiv.org/abs/2503.06545)|**[link](https://github.com/junyiwucode/quantcache)**|
 |**2025-03-09**|**Seesaw: High-throughput LLM Inference via Model Re-sharding**|Qidong Su et.al.|[2503.06433](http://arxiv.org/abs/2503.06433)|null|
 |**2025-03-07**|**MagicInfinite: Generating Infinite Talking Videos with Your Words and Voice**|Hongwei Yi et.al.|[2503.05978](http://arxiv.org/abs/2503.05978)|null|
 |**2025-03-07**|**Look Before You Leap: Using Serialized State Machine for Language Conditioned Robotic Manipulation**|Tong Mu et.al.|[2503.05114](http://arxiv.org/abs/2503.05114)|null|
@@ -52,7 +52,7 @@
 |**2025-03-05**|**PowerAttention: Exponentially Scaling of Receptive Fields for Effective Sparse Attention**|Lida Chen et.al.|[2503.03588](http://arxiv.org/abs/2503.03588)|null|
 |**2025-03-05**|**RASD: Retrieval-Augmented Speculative Decoding**|Guofeng Quan et.al.|[2503.03434](http://arxiv.org/abs/2503.03434)|null|
 |**2025-03-04**|**InfiniSST: Simultaneous Translation of Unbounded Speech with Large Language Model**|Siqi Ouyang et.al.|[2503.02969](http://arxiv.org/abs/2503.02969)|**[link](https://github.com/leililab/infinisst)**|
-|**2025-03-04**|**Q-Filters: Leveraging QK Geometry for Efficient KV Cache Compression**|Nathan Godey et.al.|[2503.02812](http://arxiv.org/abs/2503.02812)|null|
+|**2025-03-04**|**Q-Filters: Leveraging QK Geometry for Efficient KV Cache Compression**|Nathan Godey et.al.|[2503.02812](http://arxiv.org/abs/2503.02812)|**[link](https://github.com/nathangodey/qfilters)**|
 |**2025-03-06**|**Efficient Long Context Fine-tuning with Chunk Flow**|Xiulong Yuan et.al.|[2503.02356](http://arxiv.org/abs/2503.02356)|null|
 |**2025-03-03**|**EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test**|Yuhui Li et.al.|[2503.01840](http://arxiv.org/abs/2503.01840)|**[link](https://github.com/safeailab/eagle)**|
 |**2025-03-07**|**Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs**|Microsoft et.al.|[2503.01743](http://arxiv.org/abs/2503.01743)|null|
@@ -70,7 +70,7 @@
 |**2025-03-01**|**Progressive Sparse Attention: Algorithm and System Co-design for Efficient Attention in LLM Serving**|Qihui Zhou et.al.|[2503.00392](http://arxiv.org/abs/2503.00392)|null|
 |**2025-02-28**|**Towards long-term player tracking with graph hierarchies and domain-specific features**|Maria Koshkina et.al.|[2502.21242](http://arxiv.org/abs/2502.21242)|null|
 |**2025-02-28**|**ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs**|Hao Ge et.al.|[2502.21231](http://arxiv.org/abs/2502.21231)|null|
-|**2025-02-28**|**FlexPrefill: A Context-Aware Sparse Attention Mechanism for Efficient Long-Sequence Inference**|Xunhao Lai et.al.|[2502.20766](http://arxiv.org/abs/2502.20766)|null|
+|**2025-02-28**|**FlexPrefill: A Context-Aware Sparse Attention Mechanism for Efficient Long-Sequence Inference**|Xunhao Lai et.al.|[2502.20766](http://arxiv.org/abs/2502.20766)|**[link](https://github.com/bytedance/FlexPrefill)**|
 |**2025-02-27**|**PFformer: A Position-Free Transformer Variant for Extreme-Adaptive Multivariate Time Series Forecasting**|Yanhong Li et.al.|[2502.20571](http://arxiv.org/abs/2502.20571)|null|
 |**2025-02-27**|**Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners**|Daniele Paliotta et.al.|[2502.20339](http://arxiv.org/abs/2502.20339)|null|
 |**2025-02-27**|**Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330](http://arxiv.org/abs/2502.20330)|**[link](https://github.com/john-ai-lab/rapid)**|
@@ -82,7 +82,7 @@
 |**2025-02-26**|**From planning to policy: distilling $\texttt{Skill-RRT}$ for long-horizon prehensile and non-prehensile manipulation**|Haewon Jung et.al.|[2502.18015](http://arxiv.org/abs/2502.18015)|null|
 |**2025-02-25**|**EEGM2: An Efficient Mamba-2-Based Self-Supervised Framework for Long-Sequence EEG Modeling**|Jiazhen Hong et.al.|[2502.17873](http://arxiv.org/abs/2502.17873)|**[link](https://github.com/Jiazhen-Hong/EEGM2)**|
 |**2025-02-24**|**LLM Inference Acceleration via Efficient Operation Fusion**|Mahsa Salmani et.al.|[2502.17728](http://arxiv.org/abs/2502.17728)|null|
-|**2025-02-24**|**MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference**|Zhongwei Wan et.al.|[2502.17599](http://arxiv.org/abs/2502.17599)|null|
+|**2025-02-24**|**MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference**|Zhongwei Wan et.al.|[2502.17599](http://arxiv.org/abs/2502.17599)|**[link](https://github.com/aiot-mlsys-lab/meda)**|
 |**2025-02-24**|**The Lottery LLM Hypothesis, Rethinking What Abilities Should LLM Compression Preserve?**|Zhenheng Tang et.al.|[2502.17535](http://arxiv.org/abs/2502.17535)|null|
 |**2025-02-22**|**Learning multi-phase flow and transport in fractured porous media with auto-regressive and recurrent graph neural networks**|Mohammed Al Kobaisi et.al.|[2502.17512](http://arxiv.org/abs/2502.17512)|null|
 |**2025-02-21**|**CoKV: Optimizing KV Cache Allocation via Cooperative Game**|Qiheng Sun et.al.|[2502.17501](http://arxiv.org/abs/2502.17501)|**[link](https://github.com/nawei1010/CoKV)**|
