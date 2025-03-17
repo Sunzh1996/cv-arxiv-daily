@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,16 +21,16 @@
 |---|---|---|---|---|
 |**2025-03-13**|**Long Context Tuning for Video Generation**|Yuwei Guo et.al.|[2503.10589](http://arxiv.org/abs/2503.10589)|null|
 |**2025-03-13**|**Autoregressive Image Generation with Randomized Parallel Decoding**|Haopeng Li et.al.|[2503.10568](http://arxiv.org/abs/2503.10568)|null|
-|**2025-03-13**|**TokenCarve: Information-Preserving Visual Token Compression in Multimodal Large Language Models**|Xudong Tan et.al.|[2503.10501](http://arxiv.org/abs/2503.10501)|null|
+|**2025-03-13**|**TokenCarve: Information-Preserving Visual Token Compression in Multimodal Large Language Models**|Xudong Tan et.al.|[2503.10501](http://arxiv.org/abs/2503.10501)|**[link](https://github.com/shawntan86/tokencarve)**|
 |**2025-03-13**|**Source-primed Multi-turn Conversation Helps Large Language Models Translate Documents**|Hanxu Hu et.al.|[2503.10494](http://arxiv.org/abs/2503.10494)|null|
 |**2025-03-13**|**Streaming Generation of Co-Speech Gestures via Accelerated Rolling Diffusion**|Evgeniia Vu et.al.|[2503.10488](http://arxiv.org/abs/2503.10488)|null|
 |**2025-03-13**|**SPPO:Efficient Long-sequence LLM Training via Adaptive Sequence Pipeline Parallel Offloading**|Qiaoling Chen et.al.|[2503.10377](http://arxiv.org/abs/2503.10377)|null|
 |**2025-03-13**|**KV-Distill: Nearly Lossless Learnable Context Compression for LLMs**|Vivek Chari et.al.|[2503.10337](http://arxiv.org/abs/2503.10337)|null|
-|**2025-03-13**|**Mamba-VA: A Mamba-based Approach for Continuous Emotion Recognition in Valence-Arousal Space**|Yuheng Liang et.al.|[2503.10104](http://arxiv.org/abs/2503.10104)|null|
+|**2025-03-13**|**Mamba-VA: A Mamba-based Approach for Continuous Emotion Recognition in Valence-Arousal Space**|Yuheng Liang et.al.|[2503.10104](http://arxiv.org/abs/2503.10104)|**[link](https://github.com/freedompuppy77/charon)**|
 |**2025-03-12**|**Cost-Optimal Grouped-Query Attention for Long-Context LLMs**|Yingfa Chen et.al.|[2503.09579](http://arxiv.org/abs/2503.09579)|**[link](https://github.com/thunlp/cost-optimal-gqa)**|
 |**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573](http://arxiv.org/abs/2503.09573)|**[link](https://github.com/kuleshov-group/bd3lms)**|
 |**2025-03-11**|**LLMs Know What to Drop: Self-Attention Guided KV Cache Eviction for Efficient Long-Context Inference**|Guangtao Wang et.al.|[2503.08879](http://arxiv.org/abs/2503.08879)|null|
-|**2025-03-11**|**OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models**|Jialv Zou et.al.|[2503.08686](http://arxiv.org/abs/2503.08686)|null|
+|**2025-03-11**|**OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models**|Jialv Zou et.al.|[2503.08686](http://arxiv.org/abs/2503.08686)|**[link](https://github.com/hustvl/omnimamba)**|
 |**2025-03-11**|**FastCache: Optimizing Multimodal LLM Serving through Lightweight KV-Cache Compression Framework**|Jianian Zhu et.al.|[2503.08461](http://arxiv.org/abs/2503.08461)|null|
 |**2025-03-11**|**MinGRU-Based Encoder for Turbo Autoencoder Frameworks**|Rick Fritschek et.al.|[2503.08451](http://arxiv.org/abs/2503.08451)|null|
 |**2025-03-07**|**MergeQuant: Accurate 4-bit Static Quantization of Large Language Models by Channel-wise Calibration**|Jinguang Wang et.al.|[2503.07654](http://arxiv.org/abs/2503.07654)|null|
@@ -325,15 +325,15 @@
 |**2024-11-01**|**MoNTA: Accelerating Mixture-of-Experts Training with Network-Traffc-Aware Parallel Optimization**|Jingming Guo et.al.|[2411.00662](http://arxiv.org/abs/2411.00662)|**[link](https://github.com/enflametechnology/deepspeed)**|
 |**2024-11-01**|**Constrained Diffusion Implicit Models**|Vivek Jayaram et.al.|[2411.00359](http://arxiv.org/abs/2411.00359)|null|
 
-<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 ## MLLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-12**|**Astrea: A MOE-based Visual Understanding Model with Progressive Alignment**|Xiaoda Yang et.al.|[2503.09445](http://arxiv.org/abs/2503.09445)|null|
-|**2025-03-12**|**Multimodal Language Modeling for High-Accuracy Single Cell Transcriptomics Analysis and Generation**|Yaorui Shi et.al.|[2503.09427](http://arxiv.org/abs/2503.09427)|null|
-|**2025-03-11**|**OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models**|Jialv Zou et.al.|[2503.08686](http://arxiv.org/abs/2503.08686)|null|
+|**2025-03-12**|**Multimodal Language Modeling for High-Accuracy Single Cell Transcriptomics Analysis and Generation**|Yaorui Shi et.al.|[2503.09427](http://arxiv.org/abs/2503.09427)|**[link](https://github.com/syr-cn/scmmgpt)**|
+|**2025-03-11**|**OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models**|Jialv Zou et.al.|[2503.08686](http://arxiv.org/abs/2503.08686)|**[link](https://github.com/hustvl/omnimamba)**|
 |**2025-03-13**|**ProtTeX: Structure-In-Context Reasoning and Editing of Proteins with Large Language Models**|Zicheng Ma et.al.|[2503.08179](http://arxiv.org/abs/2503.08179)|null|
 |**2025-03-11**|**Multimodal Generation of Animatable 3D Human Models with AvatarForge**|Xinhang Liu et.al.|[2503.08165](http://arxiv.org/abs/2503.08165)|null|
 |**2025-03-11**|**LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL**|Yingzhe Peng et.al.|[2503.07536](http://arxiv.org/abs/2503.07536)|null|
@@ -446,7 +446,7 @@
 |**2024-11-21**|**On the Fairness, Diversity and Reliability of Text-to-Image Generative Models**|Jordan Vice et.al.|[2411.13981](http://arxiv.org/abs/2411.13981)|null|
 |**2024-11-18**|**CCExpert: Advancing MLLM Capability in Remote Sensing Change Captioning with Difference-Aware Integration and a Foundational Dataset**|Zhiming Wang et.al.|[2411.11360](http://arxiv.org/abs/2411.11360)|**[link](https://github.com/meize0729/ccexpert)**|
 
-<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 ## Train and Infer
 
@@ -529,7 +529,7 @@
 |**2024-11-05**|**SimpleFSDP: Simpler Fully Sharded Data Parallel with torch.compile**|Ruisi Zhang et.al.|[2411.00284](http://arxiv.org/abs/2411.00284)|null|
 |**2024-11-08**|**How Does Critical Batch Size Scale in Pre-training?**|Hanlin Zhang et.al.|[2410.21676](http://arxiv.org/abs/2410.21676)|**[link](https://github.com/hlzhang109/critical-batch-size)**|
 
-<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
