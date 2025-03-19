@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Fast Autoregressive Video Generation with Diagonal Decoding**|Yang Ye et.al.|[2503.14070](http://arxiv.org/abs/2503.14070)|null|
+|**2025-03-17**|**Mitigating KV Cache Competition to Enhance User Experience in LLM Inference**|Haiying Shen et.al.|[2503.13773](http://arxiv.org/abs/2503.13773)|null|
 |**2025-03-17**|**Lifting the Veil on Visual Information Flow in MLLMs: Unlocking Pathways to Faster Inference**|Hao Yin et.al.|[2503.13108](http://arxiv.org/abs/2503.13108)|**[link](https://github.com/ustc-hyin/HiMAP)**|
 |**2025-03-17**|**ROMA: a Read-Only-Memory-based Accelerator for QLoRA-based On-Device LLM**|Wenqiang Wang et.al.|[2503.12988](http://arxiv.org/abs/2503.12988)|null|
 |**2025-03-16**|**CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences**|Ziran Qin et.al.|[2503.12491](http://arxiv.org/abs/2503.12491)|null|
@@ -343,6 +345,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Creation-MMBench: Assessing Context-Aware Creative Intelligence in MLLM**|Xinyu Fang et.al.|[2503.14478](http://arxiv.org/abs/2503.14478)|null|
+|**2025-03-18**|**Towards Harmless Multimodal Assistants with Blind Preference Optimization**|Yongqi Li et.al.|[2503.14189](http://arxiv.org/abs/2503.14189)|null|
+|**2025-03-18**|**Growing a Twig to Accelerate Large Vision-Language Models**|Zhenwei Shao et.al.|[2503.14075](http://arxiv.org/abs/2503.14075)|null|
+|**2025-03-18**|**FusDreamer: Label-efficient Remote Sensing World Model for Multimodal Data Classification**|Jinping Wang et.al.|[2503.13814](http://arxiv.org/abs/2503.13814)|null|
+|**2025-03-15**|**Context-aware Multimodal AI Reveals Hidden Pathways in Five Centuries of Art Evolution**|Jin Kim et.al.|[2503.13531](http://arxiv.org/abs/2503.13531)|null|
 |**2025-03-17**|**HIS-GPT: Towards 3D Human-In-Scene Multimodal Understanding**|Jiahe Zhao et.al.|[2503.12955](http://arxiv.org/abs/2503.12955)|null|
 |**2025-03-17**|**Task-Oriented Feature Compression for Multimodal Understanding via Device-Edge Co-Inference**|Cheng Yuan et.al.|[2503.12926](http://arxiv.org/abs/2503.12926)|null|
 |**2025-03-16**|**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey**|Yaoting Wang et.al.|[2503.12605](http://arxiv.org/abs/2503.12605)|null|
@@ -469,6 +476,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Fast Maximum Likelihood Positioning for a Staggered Layer Scintillation PET Detector**|Christoph W. Lerche et.al.|[2503.13723](http://arxiv.org/abs/2503.13723)|null|
 |**2025-03-15**|**Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints**|Yuhao Zhou et.al.|[2503.12053](http://arxiv.org/abs/2503.12053)|null|
 |**2025-03-13**|**SPPO:Efficient Long-sequence LLM Training via Adaptive Sequence Pipeline Parallel Offloading**|Qiaoling Chen et.al.|[2503.10377](http://arxiv.org/abs/2503.10377)|null|
 |**2025-03-12**|**Communication-Efficient Language Model Training Scales Reliably and Robustly: Scaling Laws for DiLoCo**|Zachary Charles et.al.|[2503.09799](http://arxiv.org/abs/2503.09799)|null|
