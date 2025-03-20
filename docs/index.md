@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.19
+## Updated on 2025.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -356,7 +356,7 @@ layout: default
 |**2025-03-11**|**LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL**|Yingzhe Peng et.al.|[2503.07536](http://arxiv.org/abs/2503.07536)|null|
 |**2025-03-10**|**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**|Bangyan Li et.al.|[2503.07487](http://arxiv.org/abs/2503.07487)|null|
 |**2025-03-10**|**Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue Learning**|Jiazheng Liu et.al.|[2503.07002](http://arxiv.org/abs/2503.07002)|null|
-|**2025-03-09**|**SemHiTok: A Unified Image Tokenizer via Semantic-Guided Hierarchical Codebook for Multimodal Understanding and Generation**|Zisheng Chen et.al.|[2503.06764](http://arxiv.org/abs/2503.06764)|null|
+|**2025-03-19**|**SemHiTok: A Unified Image Tokenizer via Semantic-Guided Hierarchical Codebook for Multimodal Understanding and Generation**|Zisheng Chen et.al.|[2503.06764](http://arxiv.org/abs/2503.06764)|null|
 |**2025-03-09**|**ARMOR v0.1: Empowering Autoregressive Multimodal Understanding Model with Interleaved Multimodal Generation via Asymmetric Synergy**|Jianwen Sun et.al.|[2503.06542](http://arxiv.org/abs/2503.06542)|null|
 |**2025-03-08**|**Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?**|Kun Xiang et.al.|[2503.06252](http://arxiv.org/abs/2503.06252)|**[link](https://github.com/quinn777/atomthink)**|
 |**2025-03-08**|**X2I: Seamless Integration of Multimodal Understanding into Diffusion Transformer via Attention Distillation**|Jian Ma et.al.|[2503.06134](http://arxiv.org/abs/2503.06134)|**[link](https://github.com/oppo-mente-lab/x2i)**|
@@ -474,7 +474,7 @@ layout: default
 |**2025-03-12**|**Automatic Operator-level Parallelism Planning for Distributed Deep Learning -- A Mixed-Integer Programming Approach**|Ruifeng She et.al.|[2503.09357](http://arxiv.org/abs/2503.09357)|null|
 |**2025-03-10**|**Distributed Resource Block Allocation for Wideband Cell-free System**|Yang Ma et.al.|[2503.06875](http://arxiv.org/abs/2503.06875)|null|
 |**2025-03-09**|**Seesaw: High-throughput LLM Inference via Model Re-sharding**|Qidong Su et.al.|[2503.06433](http://arxiv.org/abs/2503.06433)|null|
-|**2025-03-07**|**Speculative MoE: Communication Efficient Parallel MoE Inference with Speculative Token and Expert Pre-scheduling**|Yan Li et.al.|[2503.04398](http://arxiv.org/abs/2503.04398)|null|
+|**2025-03-19**|**Speculative MoE: Communication Efficient Parallel MoE Inference with Speculative Token and Expert Pre-scheduling**|Yan Li et.al.|[2503.04398](http://arxiv.org/abs/2503.04398)|null|
 |**2025-03-05**|**Enhancing Memory Efficiency in Large Language Model Training Through Chronos-aware Pipeline Parallelism**|Xinyuan Lin et.al.|[2503.03182](http://arxiv.org/abs/2503.03182)|null|
 |**2025-03-06**|**Union of Experts: Adapting Hierarchical Routing to Equivalently Decomposed Transformer**|Yujiao Yang et.al.|[2503.02495](http://arxiv.org/abs/2503.02495)|**[link](https://github.com/yujiaoyang-work/uoe)**|
 |**2025-03-06**|**Efficient Long Context Fine-tuning with Chunk Flow**|Xiulong Yuan et.al.|[2503.02356](http://arxiv.org/abs/2503.02356)|null|
