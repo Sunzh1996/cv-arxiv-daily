@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**Auto-Regressive Diffusion for Generating 3D Human-Object Interactions**|Zichen Geng et.al.|[2503.16801](http://arxiv.org/abs/2503.16801)|null|
+|**2025-03-20**|**iFlame: Interleaving Full and Linear Attention for Efficient Mesh Generation**|Hanxiao Wang et.al.|[2503.16653](http://arxiv.org/abs/2503.16653)|null|
+|**2025-03-17**|**KVShare: Semantic-Aware Key-Value Cache Sharing for Efficient Large Language Model Inference**|Huan Yang et.al.|[2503.16525](http://arxiv.org/abs/2503.16525)|null|
 |**2025-03-20**|**Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models**|Keda Tao et.al.|[2503.16257](http://arxiv.org/abs/2503.16257)|null|
 |**2025-03-20**|**SpeCache: Speculative Key-Value Caching for Efficient Generation of LLMs**|Shibo Jie et.al.|[2503.16163](http://arxiv.org/abs/2503.16163)|null|
 |**2025-03-20**|**From Chaos to Order: The Atomic Reasoner Framework for Fine-grained Reasoning in Large Language Models**|Jinyi Liu et.al.|[2503.15944](http://arxiv.org/abs/2503.15944)|null|
@@ -353,6 +356,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**The CASTLE 2024 Dataset: Advancing the Art of Multimodal Understanding**|Luca Rossetto et.al.|[2503.17116](http://arxiv.org/abs/2503.17116)|null|
 |**2025-03-20**|**OThink-MR1: Stimulating multimodal generalized reasoning capabilities through dynamic reinforcement learning**|Zhiyuan Liu et.al.|[2503.16081](http://arxiv.org/abs/2503.16081)|null|
 |**2025-03-20**|**DocVideoQA: Towards Comprehensive Understanding of Document-Centric Videos through Question Answering**|Haochen Wang et.al.|[2503.15887](http://arxiv.org/abs/2503.15887)|null|
 |**2025-03-19**|**Generating Multimodal Driving Scenes via Next-Scene Prediction**|Yanhao Wu et.al.|[2503.14945](http://arxiv.org/abs/2503.14945)|null|
@@ -487,6 +491,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**DeFT: Mitigating Data Dependencies for Flexible Communication Scheduling in Distributed Training**|Lin Meng et.al.|[2503.16815](http://arxiv.org/abs/2503.16815)|null|
 |**2025-03-19**|**Brunovsky Riccati Recursion for Linear Model Predictive Control**|Shaohui Yang et.al.|[2503.15271](http://arxiv.org/abs/2503.15271)|null|
 |**2025-03-19**|**Efficient allocation of image recognition and LLM tasks on multi-GPU system**|Marcin Lawenda et.al.|[2503.15252](http://arxiv.org/abs/2503.15252)|null|
 |**2025-03-19**|**Communication-Efficient Distributed On-Device LLM Inference Over Wireless Networks**|Kai Zhang et.al.|[2503.14882](http://arxiv.org/abs/2503.14882)|null|
