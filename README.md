@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.24
+## Updated on 2025.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -350,7 +350,7 @@
 |**2024-11-01**|**MoNTA: Accelerating Mixture-of-Experts Training with Network-Traffc-Aware Parallel Optimization**|Jingming Guo et.al.|[2411.00662](http://arxiv.org/abs/2411.00662)|**[link](https://github.com/enflametechnology/deepspeed)**|
 |**2024-11-01**|**Constrained Diffusion Implicit Models**|Vivek Jayaram et.al.|[2411.00359](http://arxiv.org/abs/2411.00359)|null|
 
-<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
 
 ## MLLM
 
@@ -367,7 +367,7 @@
 |**2025-03-15**|**Context-aware Multimodal AI Reveals Hidden Pathways in Five Centuries of Art Evolution**|Jin Kim et.al.|[2503.13531](http://arxiv.org/abs/2503.13531)|**[link](https://github.com/aljinny/art-history)**|
 |**2025-03-17**|**HIS-GPT: Towards 3D Human-In-Scene Multimodal Understanding**|Jiahe Zhao et.al.|[2503.12955](http://arxiv.org/abs/2503.12955)|null|
 |**2025-03-17**|**Task-Oriented Feature Compression for Multimodal Understanding via Device-Edge Co-Inference**|Cheng Yuan et.al.|[2503.12926](http://arxiv.org/abs/2503.12926)|null|
-|**2025-03-16**|**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey**|Yaoting Wang et.al.|[2503.12605](http://arxiv.org/abs/2503.12605)|**[link](https://github.com/yaotingwangofficial/awesome-mcot)**|
+|**2025-03-23**|**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey**|Yaoting Wang et.al.|[2503.12605](http://arxiv.org/abs/2503.12605)|**[link](https://github.com/yaotingwangofficial/awesome-mcot)**|
 |**2025-03-14**|**Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models**|Hongyang Wei et.al.|[2503.11073](http://arxiv.org/abs/2503.11073)|**[link](https://github.com/nonwhy/pure)**|
 |**2025-03-13**|**The Power of One: A Single Example is All it Takes for Segmentation in VLMs**|Mir Rayat Imtiaz Hossain et.al.|[2503.10779](http://arxiv.org/abs/2503.10779)|null|
 |**2025-03-12**|**Astrea: A MOE-based Visual Understanding Model with Progressive Alignment**|Xiaoda Yang et.al.|[2503.09445](http://arxiv.org/abs/2503.09445)|null|
@@ -485,7 +485,7 @@
 |**2024-11-21**|**On the Fairness, Diversity and Reliability of Text-to-Image Generative Models**|Jordan Vice et.al.|[2411.13981](http://arxiv.org/abs/2411.13981)|null|
 |**2024-11-18**|**CCExpert: Advancing MLLM Capability in Remote Sensing Change Captioning with Difference-Aware Integration and a Foundational Dataset**|Zhiming Wang et.al.|[2411.11360](http://arxiv.org/abs/2411.11360)|**[link](https://github.com/meize0729/ccexpert)**|
 
-<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
 
 ## Train and Infer
 
@@ -574,7 +574,7 @@
 |**2024-11-05**|**SimpleFSDP: Simpler Fully Sharded Data Parallel with torch.compile**|Ruisi Zhang et.al.|[2411.00284](http://arxiv.org/abs/2411.00284)|null|
 |**2024-11-08**|**How Does Critical Batch Size Scale in Pre-training?**|Hanlin Zhang et.al.|[2410.21676](http://arxiv.org/abs/2410.21676)|**[link](https://github.com/hlzhang109/critical-batch-size)**|
 
-<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

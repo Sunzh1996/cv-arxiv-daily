@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.24
+## Updated on 2025.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -360,7 +360,7 @@ layout: default
 |**2025-03-15**|**Context-aware Multimodal AI Reveals Hidden Pathways in Five Centuries of Art Evolution**|Jin Kim et.al.|[2503.13531](http://arxiv.org/abs/2503.13531)|**[link](https://github.com/aljinny/art-history)**|
 |**2025-03-17**|**HIS-GPT: Towards 3D Human-In-Scene Multimodal Understanding**|Jiahe Zhao et.al.|[2503.12955](http://arxiv.org/abs/2503.12955)|null|
 |**2025-03-17**|**Task-Oriented Feature Compression for Multimodal Understanding via Device-Edge Co-Inference**|Cheng Yuan et.al.|[2503.12926](http://arxiv.org/abs/2503.12926)|null|
-|**2025-03-16**|**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey**|Yaoting Wang et.al.|[2503.12605](http://arxiv.org/abs/2503.12605)|**[link](https://github.com/yaotingwangofficial/awesome-mcot)**|
+|**2025-03-23**|**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey**|Yaoting Wang et.al.|[2503.12605](http://arxiv.org/abs/2503.12605)|**[link](https://github.com/yaotingwangofficial/awesome-mcot)**|
 |**2025-03-14**|**Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models**|Hongyang Wei et.al.|[2503.11073](http://arxiv.org/abs/2503.11073)|**[link](https://github.com/nonwhy/pure)**|
 |**2025-03-13**|**The Power of One: A Single Example is All it Takes for Segmentation in VLMs**|Mir Rayat Imtiaz Hossain et.al.|[2503.10779](http://arxiv.org/abs/2503.10779)|null|
 |**2025-03-12**|**Astrea: A MOE-based Visual Understanding Model with Progressive Alignment**|Xiaoda Yang et.al.|[2503.09445](http://arxiv.org/abs/2503.09445)|null|
