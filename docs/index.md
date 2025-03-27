@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.26
+## Updated on 2025.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -368,7 +368,7 @@ layout: default
 |**2025-03-21**|**The CASTLE 2024 Dataset: Advancing the Art of Multimodal Understanding**|Luca Rossetto et.al.|[2503.17116](http://arxiv.org/abs/2503.17116)|null|
 |**2025-03-20**|**OThink-MR1: Stimulating multimodal generalized reasoning capabilities through dynamic reinforcement learning**|Zhiyuan Liu et.al.|[2503.16081](http://arxiv.org/abs/2503.16081)|null|
 |**2025-03-20**|**DocVideoQA: Towards Comprehensive Understanding of Document-Centric Videos through Question Answering**|Haochen Wang et.al.|[2503.15887](http://arxiv.org/abs/2503.15887)|null|
-|**2025-03-19**|**Generating Multimodal Driving Scenes via Next-Scene Prediction**|Yanhao Wu et.al.|[2503.14945](http://arxiv.org/abs/2503.14945)|null|
+|**2025-03-26**|**Generating Multimodal Driving Scenes via Next-Scene Prediction**|Yanhao Wu et.al.|[2503.14945](http://arxiv.org/abs/2503.14945)|null|
 |**2025-03-19**|**Creation-MMBench: Assessing Context-Aware Creative Intelligence in MLLM**|Xinyu Fang et.al.|[2503.14478](http://arxiv.org/abs/2503.14478)|**[link](https://github.com/open-compass/creation-mmbench)**|
 |**2025-03-18**|**Towards Harmless Multimodal Assistants with Blind Preference Optimization**|Yongqi Li et.al.|[2503.14189](http://arxiv.org/abs/2503.14189)|null|
 |**2025-03-18**|**Growing a Twig to Accelerate Large Vision-Language Models**|Zhenwei Shao et.al.|[2503.14075](http://arxiv.org/abs/2503.14075)|null|
