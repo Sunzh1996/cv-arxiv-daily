@@ -369,7 +369,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-27**|**Vision-to-Music Generation: A Survey**|Zhaokai Wang et.al.|[2503.21254](http://arxiv.org/abs/2503.21254)|null|
+|**2025-03-27**|**Vision-to-Music Generation: A Survey**|Zhaokai Wang et.al.|[2503.21254](http://arxiv.org/abs/2503.21254)|**[link](https://github.com/wzk1015/awesome-vision-to-music-generation)**|
 |**2025-03-26**|**Unified Multimodal Discrete Diffusion**|Alexander Swerdlow et.al.|[2503.20853](http://arxiv.org/abs/2503.20853)|**[link](https://github.com/alexanderswerdlow/unidisc)**|
 |**2025-03-25**|**CAFe: Unifying Representation and Generation with Contrastive-Autoregressive Finetuning**|Hao Yu et.al.|[2503.19900](http://arxiv.org/abs/2503.19900)|null|
 |**2025-03-27**|**RGB-Th-Bench: A Dense benchmark for Visual-Thermal Understanding of Vision Language Models**|Mehdi Moshtaghi et.al.|[2503.19654](http://arxiv.org/abs/2503.19654)|null|
