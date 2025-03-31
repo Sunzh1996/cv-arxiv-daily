@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.30
+## Updated on 2025.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -371,7 +371,7 @@ layout: default
 |**2025-03-24**|**CoMP: Continual Multimodal Pre-training for Vision Foundation Models**|Yitong Chen et.al.|[2503.18931](http://arxiv.org/abs/2503.18931)|**[link](https://github.com/SliMM-X/CoMP-MM)**|
 |**2025-03-21**|**Judge Anything: MLLM as a Judge Across Any Modality**|Shu Pu et.al.|[2503.17489](http://arxiv.org/abs/2503.17489)|null|
 |**2025-03-21**|**The CASTLE 2024 Dataset: Advancing the Art of Multimodal Understanding**|Luca Rossetto et.al.|[2503.17116](http://arxiv.org/abs/2503.17116)|null|
-|**2025-03-20**|**OThink-MR1: Stimulating multimodal generalized reasoning capabilities through dynamic reinforcement learning**|Zhiyuan Liu et.al.|[2503.16081](http://arxiv.org/abs/2503.16081)|null|
+|**2025-03-28**|**OThink-MR1: Stimulating multimodal generalized reasoning capabilities via dynamic reinforcement learning**|Zhiyuan Liu et.al.|[2503.16081](http://arxiv.org/abs/2503.16081)|null|
 |**2025-03-20**|**DocVideoQA: Towards Comprehensive Understanding of Document-Centric Videos through Question Answering**|Haochen Wang et.al.|[2503.15887](http://arxiv.org/abs/2503.15887)|null|
 |**2025-03-26**|**Generating Multimodal Driving Scenes via Next-Scene Prediction**|Yanhao Wu et.al.|[2503.14945](http://arxiv.org/abs/2503.14945)|null|
 |**2025-03-19**|**Creation-MMBench: Assessing Context-Aware Creative Intelligence in MLLM**|Xinyu Fang et.al.|[2503.14478](http://arxiv.org/abs/2503.14478)|**[link](https://github.com/open-compass/creation-mmbench)**|
