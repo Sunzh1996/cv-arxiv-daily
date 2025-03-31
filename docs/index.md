@@ -67,7 +67,7 @@ layout: default
 |**2025-03-11**|**FastCache: Optimizing Multimodal LLM Serving through Lightweight KV-Cache Compression Framework**|Jianian Zhu et.al.|[2503.08461](http://arxiv.org/abs/2503.08461)|null|
 |**2025-03-11**|**MinGRU-Based Encoder for Turbo Autoencoder Frameworks**|Rick Fritschek et.al.|[2503.08451](http://arxiv.org/abs/2503.08451)|null|
 |**2025-03-07**|**MergeQuant: Accurate 4-bit Static Quantization of Large Language Models by Channel-wise Calibration**|Jinguang Wang et.al.|[2503.07654](http://arxiv.org/abs/2503.07654)|null|
-|**2025-03-10**|**HumanMM: Global Human Motion Recovery from Multi-shot Videos**|Yuhong Zhang et.al.|[2503.07597](http://arxiv.org/abs/2503.07597)|null|
+|**2025-03-10**|**HumanMM: Global Human Motion Recovery from Multi-shot Videos**|Yuhong Zhang et.al.|[2503.07597](http://arxiv.org/abs/2503.07597)|**[link](https://github.com/zhangyuhong01/HumanMM-code)**|
 |**2025-03-10**|**TokenButler: Token Importance is Predictable**|Yash Akhauri et.al.|[2503.07518](http://arxiv.org/abs/2503.07518)|**[link](https://github.com/abdelfattah-lab/tokenbutler)**|
 |**2025-03-10**|**Early signs of stuck pipe detection based on Crossformer**|Bo Cao et.al.|[2503.07440](http://arxiv.org/abs/2503.07440)|null|
 |**2025-03-10**|**ALLVB: All-in-One Long Video Understanding Benchmark**|Xichen Tan et.al.|[2503.07298](http://arxiv.org/abs/2503.07298)|null|
