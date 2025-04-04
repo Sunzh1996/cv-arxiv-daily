@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/abs/2504.02441)|null|
+|**2025-04-03**|**OmniCam: Unified Multimodal Video Generation via Camera Control**|Xiaoda Yang et.al.|[2504.02312](http://arxiv.org/abs/2504.02312)|null|
 |**2025-04-03**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281](http://arxiv.org/abs/2504.01281)|null|
 |**2025-04-01**|**MergeVQ: A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization**|Siyuan Li et.al.|[2504.00999](http://arxiv.org/abs/2504.00999)|null|
 |**2025-04-01**|**SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching**|Yuxuan Zhu et.al.|[2504.00970](http://arxiv.org/abs/2504.00970)|null|
@@ -29,7 +31,7 @@
 |**2025-04-01**|**Local Information Matters: Inference Acceleration For Grounded Conversation Generation Models Through Adaptive Local-Aware Token Pruning**|Bizhe Bai et.al.|[2503.23959](http://arxiv.org/abs/2503.23959)|null|
 |**2025-03-31**|**AirCache: Activating Inter-modal Relevancy KV Cache Compression for Efficient Large Vision-Language Model Inference**|Kai Huang et.al.|[2503.23956](http://arxiv.org/abs/2503.23956)|null|
 |**2025-03-31**|**Free Parametrization of L2-bounded State Space Models**|Leonardo Massai et.al.|[2503.23818](http://arxiv.org/abs/2503.23818)|null|
-|**2025-03-31**|**VIDEX: A Disaggregated and Extensible Virtual Index for the Cloud and AI Era**|Rong Kang et.al.|[2503.23776](http://arxiv.org/abs/2503.23776)|null|
+|**2025-03-31**|**VIDEX: A Disaggregated and Extensible Virtual Index for the Cloud and AI Era**|Rong Kang et.al.|[2503.23776](http://arxiv.org/abs/2503.23776)|**[link](https://github.com/bytedance/videx)**|
 |**2025-03-30**|**AU-TTT: Vision Test-Time Training model for Facial Action Unit Detection**|Bohao Xing et.al.|[2503.23450](http://arxiv.org/abs/2503.23450)|null|
 |**2025-03-30**|**Filtering with Time-frequency Analysis: An Adaptive and Lightweight Model for Sequential Recommender Systems Based on Discrete Wavelet Transform**|Sheng Lu et.al.|[2503.23436](http://arxiv.org/abs/2503.23436)|null|
 |**2025-03-30**|**Cocktail: Chunk-Adaptive Mixed-Precision Quantization for Long-Context LLM Inference**|Wei Tao et.al.|[2503.23294](http://arxiv.org/abs/2503.23294)|null|
@@ -539,6 +541,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism**|Ruidong Zhu et.al.|[2504.02263](http://arxiv.org/abs/2504.02263)|null|
 |**2025-04-01**|**CFP: Low-overhead Profiling-based Intra-operator Parallelism Generation by Preserving Communication-Free Structures**|Weifang Hu et.al.|[2504.00598](http://arxiv.org/abs/2504.00598)|null|
 |**2025-03-31**|**OrchMLLM: Orchestrate Multimodal Data with Batch Post-Balancing to Accelerate Multimodal Large Language Model Training**|Yijie Zheng et.al.|[2503.23830](http://arxiv.org/abs/2503.23830)|null|
 |**2025-03-29**|**Optimizing Distributed Training Approaches for Scaling Neural Networks**|Vishnu Vardhan Baligodugula et.al.|[2503.23186](http://arxiv.org/abs/2503.23186)|null|
