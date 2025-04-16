@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/abs/2504.11320)|null|
 |**2025-04-14**|**AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference**|Yangshen Deng et.al.|[2504.10326](http://arxiv.org/abs/2504.10326)|null|
 |**2025-04-15**|**OctGPT: Octree-based Multiscale Autoregressive Models for 3D Shape Generation**|Si-Tong Wei et.al.|[2504.09975](http://arxiv.org/abs/2504.09975)|null|
 |**2025-04-14**|**KeepKV: Eliminating Output Perturbation in KV Cache Compression for Efficient LLMs Inference**|Yuxuan Tian et.al.|[2504.09936](http://arxiv.org/abs/2504.09936)|null|
@@ -415,6 +416,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**HippoMM: Hippocampal-inspired Multimodal Memory for Long Audiovisual Event Understanding**|Yueqian Lin et.al.|[2504.10739](http://arxiv.org/abs/2504.10739)|null|
+|**2025-04-14**|**AgMMU: A Comprehensive Agricultural Multimodal Understanding and Reasoning Benchmark**|Aruna Gauba et.al.|[2504.10568](http://arxiv.org/abs/2504.10568)|null|
 |**2025-04-14**|**The Future of MLLM Prompting is Adaptive: A Comprehensive Experimental Evaluation of Prompt Engineering Methods for Robust Multimodal Performance**|Anwesha Mohanty et.al.|[2504.10179](http://arxiv.org/abs/2504.10179)|null|
 |**2025-04-09**|**Decoupling Contrastive Decoding: Robust Hallucination Mitigation in Multimodal Large Language Models**|Wei Chen et.al.|[2504.08809](http://arxiv.org/abs/2504.08809)|null|
 |**2025-04-11**|**VLMT: Vision-Language Multimodal Transformer for Multimodal Multi-hop Question Answering**|Qi Zhi Lim et.al.|[2504.08269](http://arxiv.org/abs/2504.08269)|null|
@@ -577,6 +580,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Unlimited Vector Processing for Wireless Baseband Based on RISC-V Extension**|Limin Jiang et.al.|[2504.10832](http://arxiv.org/abs/2504.10832)|null|
+|**2025-04-14**|**PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing**|Pratyush Agnihotri et.al.|[2504.10704](http://arxiv.org/abs/2504.10704)|null|
 |**2025-04-14**|**AraOS: Analyzing the Impact of Virtual Memory Management on Vector Unit Performance**|Matteo Perotti et.al.|[2504.10345](http://arxiv.org/abs/2504.10345)|null|
 |**2025-04-14**|**DeepCompile: A Compiler-Driven Approach to Optimizing Distributed Deep Learning Training**|Masahiro Tanaka et.al.|[2504.09983](http://arxiv.org/abs/2504.09983)|null|
 |**2025-04-14**|**OVERLORD: Ultimate Scaling of DataLoader for Multi-Source Large Foundation Model Training**|Juntao Zhao et.al.|[2504.09844](http://arxiv.org/abs/2504.09844)|null|
