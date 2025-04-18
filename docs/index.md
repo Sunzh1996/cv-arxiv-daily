@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**UniPhys: Unified Planner and Controller with Diffusion for Flexible Physics-Based Character Control**|Yan Wu et.al.|[2504.12540](http://arxiv.org/abs/2504.12540)|null|
+|**2025-04-16**|**MOM: Memory-Efficient Offloaded Mini-Sequence Inference for Long Context Language Models**|Junyang Zhang et.al.|[2504.12526](http://arxiv.org/abs/2504.12526)|null|
+|**2025-04-16**|**Activated LoRA: Fine-tuned LLMs for Intrinsics**|Kristjan Greenewald et.al.|[2504.12397](http://arxiv.org/abs/2504.12397)|null|
 |**2025-04-16**|**Cost-Efficient LLM Serving in the Cloud: VM Selection with KV Cache Offloading**|Kihyun Kim et.al.|[2504.11816](http://arxiv.org/abs/2504.11816)|null|
 |**2025-04-16**|**Shared Disk KV Cache Management for Efficient Multi-Instance Inference in RAG-Powered LLMs**|Hyungwoo Lee et.al.|[2504.11765](http://arxiv.org/abs/2504.11765)|null|
 |**2025-04-15**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/abs/2504.11320)|null|
@@ -573,6 +576,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**You Don't Need All Attentions: Distributed Dynamic Fine-Tuning for Foundation Models**|Shiwei Ding et.al.|[2504.12471](http://arxiv.org/abs/2504.12471)|null|
 |**2025-04-16**|**Learning from the Past: Adaptive Parallelism Tuning for Stream Processing Systems**|Yuxing Han et.al.|[2504.12074](http://arxiv.org/abs/2504.12074)|null|
 |**2025-04-15**|**Unlimited Vector Processing for Wireless Baseband Based on RISC-V Extension**|Limin Jiang et.al.|[2504.10832](http://arxiv.org/abs/2504.10832)|null|
 |**2025-04-14**|**PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing**|Pratyush Agnihotri et.al.|[2504.10704](http://arxiv.org/abs/2504.10704)|null|
