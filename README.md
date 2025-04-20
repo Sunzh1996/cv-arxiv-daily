@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2025-04-16**|**Activated LoRA: Fine-tuned LLMs for Intrinsics**|Kristjan Greenewald et.al.|[2504.12397](http://arxiv.org/abs/2504.12397)|null|
 |**2025-04-16**|**Cost-Efficient LLM Serving in the Cloud: VM Selection with KV Cache Offloading**|Kihyun Kim et.al.|[2504.11816](http://arxiv.org/abs/2504.11816)|null|
 |**2025-04-16**|**Shared Disk KV Cache Management for Efficient Multi-Instance Inference in RAG-Powered LLMs**|Hyungwoo Lee et.al.|[2504.11765](http://arxiv.org/abs/2504.11765)|null|
-|**2025-04-15**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/abs/2504.11320)|null|
+|**2025-04-15**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/abs/2504.11320)|**[link](https://github.com/microsoft/vidur)**|
 |**2025-04-14**|**AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference**|Yangshen Deng et.al.|[2504.10326](http://arxiv.org/abs/2504.10326)|null|
 |**2025-04-15**|**OctGPT: Octree-based Multiscale Autoregressive Models for 3D Shape Generation**|Si-Tong Wei et.al.|[2504.09975](http://arxiv.org/abs/2504.09975)|**[link](https://github.com/octree-nn/octgpt)**|
 |**2025-04-14**|**KeepKV: Eliminating Output Perturbation in KV Cache Compression for Efficient LLMs Inference**|Yuxuan Tian et.al.|[2504.09936](http://arxiv.org/abs/2504.09936)|null|
@@ -415,13 +415,13 @@
 |**2024-11-01**|**MoNTA: Accelerating Mixture-of-Experts Training with Network-Traffc-Aware Parallel Optimization**|Jingming Guo et.al.|[2411.00662](http://arxiv.org/abs/2411.00662)|**[link](https://github.com/enflametechnology/deepspeed)**|
 |**2024-11-01**|**Constrained Diffusion Implicit Models**|Vivek Jayaram et.al.|[2411.00359](http://arxiv.org/abs/2411.00359)|null|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 ## MLLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-14**|**HippoMM: Hippocampal-inspired Multimodal Memory for Long Audiovisual Event Understanding**|Yueqian Lin et.al.|[2504.10739](http://arxiv.org/abs/2504.10739)|null|
+|**2025-04-14**|**HippoMM: Hippocampal-inspired Multimodal Memory for Long Audiovisual Event Understanding**|Yueqian Lin et.al.|[2504.10739](http://arxiv.org/abs/2504.10739)|**[link](https://github.com/linyueqian/hippomm)**|
 |**2025-04-14**|**AgMMU: A Comprehensive Agricultural Multimodal Understanding and Reasoning Benchmark**|Aruna Gauba et.al.|[2504.10568](http://arxiv.org/abs/2504.10568)|null|
 |**2025-04-14**|**The Future of MLLM Prompting is Adaptive: A Comprehensive Experimental Evaluation of Prompt Engineering Methods for Robust Multimodal Performance**|Anwesha Mohanty et.al.|[2504.10179](http://arxiv.org/abs/2504.10179)|null|
 |**2025-04-09**|**Decoupling Contrastive Decoding: Robust Hallucination Mitigation in Multimodal Large Language Models**|Wei Chen et.al.|[2504.08809](http://arxiv.org/abs/2504.08809)|null|
@@ -579,7 +579,7 @@
 |**2024-11-21**|**On the Fairness, Diversity and Reliability of Text-to-Image Generative Models**|Jordan Vice et.al.|[2411.13981](http://arxiv.org/abs/2411.13981)|null|
 |**2024-11-18**|**CCExpert: Advancing MLLM Capability in Remote Sensing Change Captioning with Difference-Aware Integration and a Foundational Dataset**|Zhiming Wang et.al.|[2411.11360](http://arxiv.org/abs/2411.11360)|**[link](https://github.com/meize0729/ccexpert)**|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 ## Train and Infer
 
@@ -588,7 +588,7 @@
 |**2025-04-16**|**You Don't Need All Attentions: Distributed Dynamic Fine-Tuning for Foundation Models**|Shiwei Ding et.al.|[2504.12471](http://arxiv.org/abs/2504.12471)|null|
 |**2025-04-16**|**Learning from the Past: Adaptive Parallelism Tuning for Stream Processing Systems**|Yuxing Han et.al.|[2504.12074](http://arxiv.org/abs/2504.12074)|null|
 |**2025-04-15**|**Unlimited Vector Processing for Wireless Baseband Based on RISC-V Extension**|Limin Jiang et.al.|[2504.10832](http://arxiv.org/abs/2504.10832)|null|
-|**2025-04-14**|**PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing**|Pratyush Agnihotri et.al.|[2504.10704](http://arxiv.org/abs/2504.10704)|null|
+|**2025-04-14**|**PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing**|Pratyush Agnihotri et.al.|[2504.10704](http://arxiv.org/abs/2504.10704)|**[link](https://github.com/pratyushagnihotri/pdspbench)**|
 |**2025-04-14**|**AraOS: Analyzing the Impact of Virtual Memory Management on Vector Unit Performance**|Matteo Perotti et.al.|[2504.10345](http://arxiv.org/abs/2504.10345)|null|
 |**2025-04-14**|**DeepCompile: A Compiler-Driven Approach to Optimizing Distributed Deep Learning Training**|Masahiro Tanaka et.al.|[2504.09983](http://arxiv.org/abs/2504.09983)|null|
 |**2025-04-14**|**OVERLORD: Ultimate Scaling of DataLoader for Multi-Source Large Foundation Model Training**|Juntao Zhao et.al.|[2504.09844](http://arxiv.org/abs/2504.09844)|null|
@@ -691,7 +691,7 @@
 |**2024-11-05**|**SimpleFSDP: Simpler Fully Sharded Data Parallel with torch.compile**|Ruisi Zhang et.al.|[2411.00284](http://arxiv.org/abs/2411.00284)|null|
 |**2024-11-08**|**How Does Critical Batch Size Scale in Pre-training?**|Hanlin Zhang et.al.|[2410.21676](http://arxiv.org/abs/2410.21676)|**[link](https://github.com/hlzhang109/critical-batch-size)**|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
