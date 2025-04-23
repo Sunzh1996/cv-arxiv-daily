@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**MVQA: Mamba with Unified Sampling for Efficient Video Quality Assessment**|Yachun Mi et.al.|[2504.16003](http://arxiv.org/abs/2504.16003)|null|
+|**2025-04-22**|**HS-Mamba: Full-Field Interaction Multi-Groups Mamba for Hyperspectral Image Classification**|Hongxing Peng et.al.|[2504.15612](http://arxiv.org/abs/2504.15612)|null|
+|**2025-04-21**|**KeDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments**|Junyoung Park et.al.|[2504.15364](http://arxiv.org/abs/2504.15364)|null|
 |**2025-04-21**|**Efficient Pretraining Length Scaling**|Bohong Wu et.al.|[2504.14992](http://arxiv.org/abs/2504.14992)|null|
 |**2025-04-21**|**gLLM: Global Balanced Pipeline Parallelism System for Distributed LLM Serving with Token Throttling**|Tianyu Guo et.al.|[2504.14775](http://arxiv.org/abs/2504.14775)|null|
 |**2025-04-22**|**Optimizing SLO-oriented LLM Serving with PD-Multiplexing**|Weihao Cui et.al.|[2504.14489](http://arxiv.org/abs/2504.14489)|null|
@@ -419,6 +422,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Expanding the Generative AI Design Space through Structured Prompting and Multimodal Interfaces**|Nimisha Karnatak et.al.|[2504.14320](http://arxiv.org/abs/2504.14320)|null|
 |**2025-04-14**|**HippoMM: Hippocampal-inspired Multimodal Memory for Long Audiovisual Event Understanding**|Yueqian Lin et.al.|[2504.10739](http://arxiv.org/abs/2504.10739)|**[link](https://github.com/linyueqian/hippomm)**|
 |**2025-04-14**|**AgMMU: A Comprehensive Agricultural Multimodal Understanding and Reasoning Benchmark**|Aruna Gauba et.al.|[2504.10568](http://arxiv.org/abs/2504.10568)|null|
 |**2025-04-14**|**The Future of MLLM Prompting is Adaptive: A Comprehensive Experimental Evaluation of Prompt Engineering Methods for Robust Multimodal Performance**|Anwesha Mohanty et.al.|[2504.10179](http://arxiv.org/abs/2504.10179)|null|
@@ -581,6 +585,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Zoozve: A Strip-Mining-Free RISC-V Vector Extension with Arbitrary Register Grouping Compilation Support (WIP)**|Siyi Xu et.al.|[2504.15678](http://arxiv.org/abs/2504.15678)|null|
 |**2025-04-21**|**MoE Parallel Folding: Heterogeneous Parallelism Mappings for Efficient Large-Scale MoE Model Training with Megatron Core**|Dennis Liu et.al.|[2504.14960](http://arxiv.org/abs/2504.14960)|null|
 |**2025-04-21**|**gLLM: Global Balanced Pipeline Parallelism System for Distributed LLM Serving with Token Throttling**|Tianyu Guo et.al.|[2504.14775](http://arxiv.org/abs/2504.14775)|null|
 |**2025-04-20**|**SlimPipe: Memory-Thrifty and Efficient Pipeline Parallelism for Long-Context LLM Training**|Zhouyang Li et.al.|[2504.14519](http://arxiv.org/abs/2504.14519)|null|
