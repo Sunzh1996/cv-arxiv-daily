@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Random Long-Context Access for Mamba via Hardware-aligned Hierarchical Sparse Attention**|Xiang Hu et.al.|[2504.16795](http://arxiv.org/abs/2504.16795)|null|
+|**2025-04-18**|**HPU: High-Bandwidth Processing Unit for Scalable, Cost-effective LLM Inference via GPU Co-processing**|Myunghyun Rhee et.al.|[2504.16112](http://arxiv.org/abs/2504.16112)|null|
 |**2025-04-22**|**MVQA: Mamba with Unified Sampling for Efficient Video Quality Assessment**|Yachun Mi et.al.|[2504.16003](http://arxiv.org/abs/2504.16003)|null|
 |**2025-04-22**|**HS-Mamba: Full-Field Interaction Multi-Groups Mamba for Hyperspectral Image Classification**|Hongxing Peng et.al.|[2504.15612](http://arxiv.org/abs/2504.15612)|null|
 |**2025-04-21**|**KeDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments**|Junyoung Park et.al.|[2504.15364](http://arxiv.org/abs/2504.15364)|null|
@@ -422,6 +424,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Uncovering an Attractiveness Bias in Multimodal Large Language Models: A Case Study with LLaVA**|Aditya Gulati et.al.|[2504.16104](http://arxiv.org/abs/2504.16104)|null|
 |**2025-04-22**|**Expanding the Generative AI Design Space through Structured Prompting and Multimodal Interfaces**|Nimisha Karnatak et.al.|[2504.14320](http://arxiv.org/abs/2504.14320)|null|
 |**2025-04-14**|**HippoMM: Hippocampal-inspired Multimodal Memory for Long Audiovisual Event Understanding**|Yueqian Lin et.al.|[2504.10739](http://arxiv.org/abs/2504.10739)|**[link](https://github.com/linyueqian/hippomm)**|
 |**2025-04-14**|**AgMMU: A Comprehensive Agricultural Multimodal Understanding and Reasoning Benchmark**|Aruna Gauba et.al.|[2504.10568](http://arxiv.org/abs/2504.10568)|null|
