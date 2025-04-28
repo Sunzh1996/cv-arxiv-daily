@@ -527,7 +527,7 @@
 |**2025-02-09**|**Temporal Working Memory: Query-Guided Segment Refinement for Enhanced Multimodal Understanding**|Xingjian Diao et.al.|[2502.06020](http://arxiv.org/abs/2502.06020)|**[link](https://github.com/xid32/naacl_2025_twm)**|
 |**2025-02-08**|**Show-o Turbo: Towards Accelerated Unified Multimodal Understanding and Generation**|Chenkai Xu et.al.|[2502.05415](http://arxiv.org/abs/2502.05415)|null|
 |**2025-02-07**|**QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation**|Yue Zhao et.al.|[2502.05178](http://arxiv.org/abs/2502.05178)|null|
-|**2025-02-06**|**MRAMG-Bench: A BeyondText Benchmark for Multimodal Retrieval-Augmented Multimodal Generation**|Qinhan Yu et.al.|[2502.04176](http://arxiv.org/abs/2502.04176)|null|
+|**2025-02-06**|**MRAMG-Bench: A BeyondText Benchmark for Multimodal Retrieval-Augmented Multimodal Generation**|Qinhan Yu et.al.|[2502.04176](http://arxiv.org/abs/2502.04176)|**[link](https://github.com/mramg-bench/mramg)**|
 |**2025-02-03**|**AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Understanding**|Ahmed Masry et.al.|[2502.01341](http://arxiv.org/abs/2502.01341)|null|
 |**2025-02-02**|**UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs**|Yufei He et.al.|[2502.00806](http://arxiv.org/abs/2502.00806)|null|
 |**2025-02-04**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094](http://arxiv.org/abs/2502.00094)|**[link](https://github.com/mbzuai-oryx/AIN)**|
