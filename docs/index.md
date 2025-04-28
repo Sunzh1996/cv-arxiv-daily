@@ -427,6 +427,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**ActionArt: Advancing Multimodal Large Models for Fine-Grained Human-Centric Video Understanding**|Yi-Xing Peng et.al.|[2504.18152](http://arxiv.org/abs/2504.18152)|null|
+|**2025-04-24**|**CAMU: Context Augmentation for Meme Understanding**|Girish A. Koushik et.al.|[2504.17902](http://arxiv.org/abs/2504.17902)|null|
 |**2025-04-24**|**Symbolic Representation for Any-to-Any Generative Tasks**|Jiaqi Chen et.al.|[2504.17261](http://arxiv.org/abs/2504.17261)|null|
 |**2025-04-16**|**Uncovering an Attractiveness Bias in Multimodal Large Language Models: A Case Study with LLaVA**|Aditya Gulati et.al.|[2504.16104](http://arxiv.org/abs/2504.16104)|null|
 |**2025-04-22**|**Expanding the Generative AI Design Space through Structured Prompting and Multimodal Interfaces**|Nimisha Karnatak et.al.|[2504.14320](http://arxiv.org/abs/2504.14320)|null|
@@ -592,6 +594,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Pseudo-Asynchronous Local SGD: Robust and Efficient Data-Parallel Training**|Hiroki Naganuma et.al.|[2504.18454](http://arxiv.org/abs/2504.18454)|null|
+|**2025-04-24**|**CaRL: Learning Scalable Planning Policies with Simple Rewards**|Bernhard Jaeger et.al.|[2504.17838](http://arxiv.org/abs/2504.17838)|null|
 |**2025-04-22**|**Zoozve: A Strip-Mining-Free RISC-V Vector Extension with Arbitrary Register Grouping Compilation Support (WIP)**|Siyi Xu et.al.|[2504.15678](http://arxiv.org/abs/2504.15678)|null|
 |**2025-04-23**|**MoE Parallel Folding: Heterogeneous Parallelism Mappings for Efficient Large-Scale MoE Model Training with Megatron Core**|Dennis Liu et.al.|[2504.14960](http://arxiv.org/abs/2504.14960)|null|
 |**2025-04-21**|**gLLM: Global Balanced Pipeline Parallelism System for Distributed LLM Serving with Token Throttling**|Tianyu Guo et.al.|[2504.14775](http://arxiv.org/abs/2504.14775)|**[link](https://github.com/gty111/gLLM)**|
