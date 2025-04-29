@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate**|Amir Zandieh et.al.|[2504.19874](http://arxiv.org/abs/2504.19874)|null|
+|**2025-04-28**|**semi-PD: Towards Efficient LLM Serving via Phase-Wise Disaggregated Computation and Unified Storage**|Ke Hong et.al.|[2504.19867](http://arxiv.org/abs/2504.19867)|null|
+|**2025-04-28**|**A Comparative Study on Positional Encoding for Time-frequency Domain Dual-path Transformer-based Source Separation Models**|Kohei Saijo et.al.|[2504.19605](http://arxiv.org/abs/2504.19605)|null|
+|**2025-04-27**|**WuNeng: Hybrid State with Attention**|Liu Xiao et.al.|[2504.19191](http://arxiv.org/abs/2504.19191)|null|
+|**2025-04-27**|**Muyan-TTS: A Trainable Text-to-Speech Model Optimized for Podcast Scenarios with a $50K Budget**|Xin Li et.al.|[2504.19146](http://arxiv.org/abs/2504.19146)|null|
+|**2025-04-26**|**On learning functions over biological sequence space: relating Gaussian process priors, regularization, and gauge fixing**|Samantha Petti et.al.|[2504.19034](http://arxiv.org/abs/2504.19034)|null|
+|**2025-04-26**|**Multi-Stage Boundary-Aware Transformer Network for Action Segmentation in Untrimmed Surgical Videos**|Rezowan Shuvo et.al.|[2504.18756](http://arxiv.org/abs/2504.18756)|null|
+|**2025-04-22**|**DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment**|Xiaofan Li et.al.|[2504.18576](http://arxiv.org/abs/2504.18576)|null|
+|**2025-04-22**|**Understanding the Skill Gap in Recurrent Language Models: The Role of the Gather-and-Aggregate Mechanism**|Aviv Bick et.al.|[2504.18574](http://arxiv.org/abs/2504.18574)|null|
 |**2025-04-24**|**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs**|Piotr Nawrot et.al.|[2504.17768](http://arxiv.org/abs/2504.17768)|null|
 |**2025-04-24**|**L3: DIMM-PIM Integrated Architecture and Coordination for Scalable Long-Context LLM Inference**|Qingyuan Liu et.al.|[2504.17584](http://arxiv.org/abs/2504.17584)|null|
 |**2025-04-24**|**Fine-Grained Fusion: The Missing Piece in Area-Efficient State Space Model Acceleration**|Robin Geens et.al.|[2504.17333](http://arxiv.org/abs/2504.17333)|null|
@@ -594,6 +603,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-27**|**Adaptra: Straggler-Resilient Hybrid-Parallel Training with Pipeline Adaptation**|Tianyuan Wu et.al.|[2504.19232](http://arxiv.org/abs/2504.19232)|null|
+|**2025-04-25**|**The Big Send-off: High Performance Collectives on GPU-based Supercomputers**|Siddharth Singh et.al.|[2504.18658](http://arxiv.org/abs/2504.18658)|null|
 |**2025-04-25**|**Pseudo-Asynchronous Local SGD: Robust and Efficient Data-Parallel Training**|Hiroki Naganuma et.al.|[2504.18454](http://arxiv.org/abs/2504.18454)|null|
 |**2025-04-24**|**CaRL: Learning Scalable Planning Policies with Simple Rewards**|Bernhard Jaeger et.al.|[2504.17838](http://arxiv.org/abs/2504.17838)|null|
 |**2025-04-22**|**Zoozve: A Strip-Mining-Free RISC-V Vector Extension with Arbitrary Register Grouping Compilation Support (WIP)**|Siyi Xu et.al.|[2504.15678](http://arxiv.org/abs/2504.15678)|null|
