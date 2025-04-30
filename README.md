@@ -23,7 +23,7 @@
 |**2025-04-28**|**semi-PD: Towards Efficient LLM Serving via Phase-Wise Disaggregated Computation and Unified Storage**|Ke Hong et.al.|[2504.19867](http://arxiv.org/abs/2504.19867)|null|
 |**2025-04-28**|**A Comparative Study on Positional Encoding for Time-frequency Domain Dual-path Transformer-based Source Separation Models**|Kohei Saijo et.al.|[2504.19605](http://arxiv.org/abs/2504.19605)|null|
 |**2025-04-27**|**WuNeng: Hybrid State with Attention**|Liu Xiao et.al.|[2504.19191](http://arxiv.org/abs/2504.19191)|null|
-|**2025-04-27**|**Muyan-TTS: A Trainable Text-to-Speech Model Optimized for Podcast Scenarios with a $50K Budget**|Xin Li et.al.|[2504.19146](http://arxiv.org/abs/2504.19146)|null|
+|**2025-04-27**|**Muyan-TTS: A Trainable Text-to-Speech Model Optimized for Podcast Scenarios with a $50K Budget**|Xin Li et.al.|[2504.19146](http://arxiv.org/abs/2504.19146)|**[link](https://github.com/MYZY-AI/Muyan-TTS)**|
 |**2025-04-26**|**On learning functions over biological sequence space: relating Gaussian process priors, regularization, and gauge fixing**|Samantha Petti et.al.|[2504.19034](http://arxiv.org/abs/2504.19034)|null|
 |**2025-04-26**|**Multi-Stage Boundary-Aware Transformer Network for Action Segmentation in Untrimmed Surgical Videos**|Rezowan Shuvo et.al.|[2504.18756](http://arxiv.org/abs/2504.18756)|null|
 |**2025-04-22**|**DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment**|Xiaofan Li et.al.|[2504.18576](http://arxiv.org/abs/2504.18576)|null|
@@ -612,6 +612,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**Hetu v2: A General and Scalable Deep Learning System with Hierarchical and Heterogeneous Single Program Multiple Data Annotations**|Haoyang Li et.al.|[2504.20490](http://arxiv.org/abs/2504.20490)|null|
 |**2025-04-27**|**Adaptra: Straggler-Resilient Hybrid-Parallel Training with Pipeline Adaptation**|Tianyuan Wu et.al.|[2504.19232](http://arxiv.org/abs/2504.19232)|null|
 |**2025-04-25**|**The Big Send-off: High Performance Collectives on GPU-based Supercomputers**|Siddharth Singh et.al.|[2504.18658](http://arxiv.org/abs/2504.18658)|null|
 |**2025-04-25**|**Pseudo-Asynchronous Local SGD: Robust and Efficient Data-Parallel Training**|Hiroki Naganuma et.al.|[2504.18454](http://arxiv.org/abs/2504.18454)|null|
