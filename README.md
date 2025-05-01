@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**VividListener: Expressive and Controllable Listener Dynamics Modeling for Multi-Modal Responsive Interaction**|Shiying Li et.al.|[2504.21718](http://arxiv.org/abs/2504.21718)|null|
+|**2025-04-29**|**CachePrune: Neural-Based Attribution Defense Against Indirect Prompt Injection Attacks**|Rui Wang et.al.|[2504.21228](http://arxiv.org/abs/2504.21228)|null|
 |**2025-04-28**|**TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate**|Amir Zandieh et.al.|[2504.19874](http://arxiv.org/abs/2504.19874)|null|
 |**2025-04-28**|**semi-PD: Towards Efficient LLM Serving via Phase-Wise Disaggregated Computation and Unified Storage**|Ke Hong et.al.|[2504.19867](http://arxiv.org/abs/2504.19867)|null|
 |**2025-04-28**|**A Comparative Study on Positional Encoding for Time-frequency Domain Dual-path Transformer-based Source Separation Models**|Kohei Saijo et.al.|[2504.19605](http://arxiv.org/abs/2504.19605)|null|
@@ -443,6 +445,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814](http://arxiv.org/abs/2504.21814)|null|
+|**2025-04-30**|**Nexus-Gen: A Unified Model for Image Understanding, Generation, and Editing**|Hong Zhang et.al.|[2504.21356](http://arxiv.org/abs/2504.21356)|null|
 |**2025-04-25**|**ActionArt: Advancing Multimodal Large Models for Fine-Grained Human-Centric Video Understanding**|Yi-Xing Peng et.al.|[2504.18152](http://arxiv.org/abs/2504.18152)|null|
 |**2025-04-24**|**CAMU: Context Augmentation for Meme Understanding**|Girish A. Koushik et.al.|[2504.17902](http://arxiv.org/abs/2504.17902)|null|
 |**2025-04-24**|**Symbolic Representation for Any-to-Any Generative Tasks**|Jiaqi Chen et.al.|[2504.17261](http://arxiv.org/abs/2504.17261)|null|
