@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**A Character-based Diffusion Embedding Algorithm for Enhancing the Generation Quality of Generative Linguistic Steganographic Texts**|Yingquan Chen et.al.|[2505.00977](http://arxiv.org/abs/2505.00977)|null|
+|**2025-05-02**|**Compact Recurrent Transformer with Persistent Memory**|Edison Mucllari et.al.|[2505.00929](http://arxiv.org/abs/2505.00929)|null|
 |**2025-05-01**|**FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension**|Jushi Kai et.al.|[2505.00570](http://arxiv.org/abs/2505.00570)|null|
 |**2025-05-01**|**Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing**|Piotr Piękos et.al.|[2505.00315](http://arxiv.org/abs/2505.00315)|null|
 |**2025-04-30**|**VividListener: Expressive and Controllable Listener Dynamics Modeling for Multi-Modal Responsive Interaction**|Shiying Li et.al.|[2504.21718](http://arxiv.org/abs/2504.21718)|null|
@@ -610,6 +612,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**BS-tree: A gapped data-parallel B-tree**|Dimitrios Tsitsigkos. Achilleas Michalopoulos et.al.|[2505.01180](http://arxiv.org/abs/2505.01180)|null|
+|**2025-05-02**|**Nesterov Method for Asynchronous Pipeline Parallel Optimization**|Thalaiyasingam Ajanthan et.al.|[2505.01099](http://arxiv.org/abs/2505.01099)|null|
 |**2025-04-29**|**Hetu v2: A General and Scalable Deep Learning System with Hierarchical and Heterogeneous Single Program Multiple Data Annotations**|Haoyang Li et.al.|[2504.20490](http://arxiv.org/abs/2504.20490)|null|
 |**2025-04-27**|**Adaptra: Straggler-Resilient Hybrid-Parallel Training with Pipeline Adaptation**|Tianyuan Wu et.al.|[2504.19232](http://arxiv.org/abs/2504.19232)|null|
 |**2025-04-25**|**The Big Send-off: High Performance Collectives on GPU-based Supercomputers**|Siddharth Singh et.al.|[2504.18658](http://arxiv.org/abs/2504.18658)|null|
