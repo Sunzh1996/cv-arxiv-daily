@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference**|Yaoqi Chen et.al.|[2505.02922](http://arxiv.org/abs/2505.02922)|null|
+|**2025-05-05**|**A Wireless Collaborated Inference Acceleration Framework for Plant Disease Recognition**|Hele Zhu et.al.|[2505.02877](http://arxiv.org/abs/2505.02877)|null|
 |**2025-05-05**|**Opt-GPTQ: An Optimized GPTQ Combining Sparse Attention and Quantization Techniques**|Jie Kong et.al.|[2505.02351](http://arxiv.org/abs/2505.02351)|null|
 |**2025-05-06**|**RTV-Bench: Benchmarking MLLM Continuous Perception, Understanding and Reasoning through Real-Time Video**|Shuhang Xun et.al.|[2505.02064](http://arxiv.org/abs/2505.02064)|null|
 |**2025-05-04**|**Meta-Black-Box-Optimization through Offline Q-function Learning**|Zeyuan Ma et.al.|[2505.02010](http://arxiv.org/abs/2505.02010)|null|
