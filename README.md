@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**LONGER: Scaling Up Long Sequence Modeling in Industrial Recommenders**|Zheng Chai et.al.|[2505.04421](http://arxiv.org/abs/2505.04421)|null|
 |**2025-05-05**|**RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference**|Yaoqi Chen et.al.|[2505.02922](http://arxiv.org/abs/2505.02922)|null|
 |**2025-05-05**|**A Wireless Collaborated Inference Acceleration Framework for Plant Disease Recognition**|Hele Zhu et.al.|[2505.02877](http://arxiv.org/abs/2505.02877)|null|
 |**2025-05-05**|**Opt-GPTQ: An Optimized GPTQ Combining Sparse Attention and Quantization Techniques**|Jie Kong et.al.|[2505.02351](http://arxiv.org/abs/2505.02351)|null|
@@ -454,7 +455,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-07**|**Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities**|Xinjie Zhang et.al.|[2505.02567](http://arxiv.org/abs/2505.02567)|null|
+|**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620](http://arxiv.org/abs/2505.04620)|null|
+|**2025-05-07**|**Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities**|Xinjie Zhang et.al.|[2505.02567](http://arxiv.org/abs/2505.02567)|**[link](https://github.com/aidc-ai/awesome-unified-multimodal-models)**|
 |**2025-04-23**|**Design and Application of Multimodal Large Language Model Based System for End to End Automation of Accident Dataset Generation**|MD Thamed Bin Zaman Chowdhury et.al.|[2505.00015](http://arxiv.org/abs/2505.00015)|null|
 |**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814](http://arxiv.org/abs/2504.21814)|null|
 |**2025-04-30**|**Nexus-Gen: A Unified Model for Image Understanding, Generation, and Editing**|Hong Zhang et.al.|[2504.21356](http://arxiv.org/abs/2504.21356)|null|
@@ -627,6 +629,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Pipelining Split Learning in Multi-hop Edge Networks**|Wei Wei et.al.|[2505.04368](http://arxiv.org/abs/2505.04368)|null|
 |**2025-05-02**|**BS-tree: A gapped data-parallel B-tree**|Dimitrios Tsitsigkos. Achilleas Michalopoulos et.al.|[2505.01180](http://arxiv.org/abs/2505.01180)|null|
 |**2025-05-02**|**Nesterov Method for Asynchronous Pipeline Parallel Optimization**|Thalaiyasingam Ajanthan et.al.|[2505.01099](http://arxiv.org/abs/2505.01099)|null|
 |**2025-04-29**|**Hetu v2: A General and Scalable Deep Learning System with Hierarchical and Heterogeneous Single Program Multiple Data Annotations**|Haoyang Li et.al.|[2504.20490](http://arxiv.org/abs/2504.20490)|null|
