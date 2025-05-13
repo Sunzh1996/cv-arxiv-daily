@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models**|Hang Wu et.al.|[2505.07680](http://arxiv.org/abs/2505.07680)|null|
+|**2025-05-12**|**Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity**|Guang Yan et.al.|[2505.07239](http://arxiv.org/abs/2505.07239)|null|
+|**2025-05-12**|**PrefillOnly: An Inference Engine for Prefill-only Workloads in Large Language Model Applications**|Kuntai Du et.al.|[2505.07203](http://arxiv.org/abs/2505.07203)|null|
+|**2025-05-10**|**Mixer-Informer-Based Two-Stage Transfer Learning for Long-Sequence Load Forecasting in Newly Constructed Electric Vehicle Charging Stations**|Zhenhua Zhou et.al.|[2505.06657](http://arxiv.org/abs/2505.06657)|null|
 |**2025-05-12**|**FloE: On-the-Fly MoE Inference on Memory-constrained GPU**|Yuxin Zhou et.al.|[2505.05950](http://arxiv.org/abs/2505.05950)|null|
 |**2025-05-09**|**LightNobel: Improving Sequence Length Limitation in Protein Structure Prediction Model via Adaptive Activation Quantization**|Seunghee Han et.al.|[2505.05893](http://arxiv.org/abs/2505.05893)|null|
 |**2025-05-09**|**Towards secondary structure prediction of longer mRNA sequences using a quantum-centric optimization scheme**|Vaibhaw Kumar et.al.|[2505.05782](http://arxiv.org/abs/2505.05782)|null|
@@ -464,6 +468,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Gameplay Highlights Generation**|Vignesh Edithal et.al.|[2505.07721](http://arxiv.org/abs/2505.07721)|null|
+|**2025-05-12**|**Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning**|Xiaokun Wang et.al.|[2505.07263](http://arxiv.org/abs/2505.07263)|null|
+|**2025-05-11**|**Seed1.5-VL Technical Report**|Dong Guo et.al.|[2505.07062](http://arxiv.org/abs/2505.07062)|null|
 |**2025-05-08**|**Looking Beyond Language Priors: Enhancing Visual Comprehension and Attention in Multimodal Models**|Aarti Ghatkesar et.al.|[2505.05626](http://arxiv.org/abs/2505.05626)|null|
 |**2025-05-06**|**Preliminary Explorations with GPT-4o(mni) Native Image Generation**|Pu Cao et.al.|[2505.05501](http://arxiv.org/abs/2505.05501)|null|
 |**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620](http://arxiv.org/abs/2505.04620)|null|
@@ -640,6 +647,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-11**|**Efficient Implementation of RISC-V Vector Permutation Instructions**|Vasileios Titopoulos et.al.|[2505.07112](http://arxiv.org/abs/2505.07112)|null|
 |**2025-05-09**|**Taming Offload Overheads in a Massively Parallel Open-Source RISC-V MPSoC: Analysis and Optimization**|Luca Colagrande et.al.|[2505.05911](http://arxiv.org/abs/2505.05911)|null|
 |**2025-05-09**|**A Taxonomy of Attacks and Defenses in Split Learning**|Aqsa Shabbir et.al.|[2505.05872](http://arxiv.org/abs/2505.05872)|null|
 |**2025-05-09**|**DawnPiper: A Memory-scablable Pipeline Parallel Training Framework**|Xuan Peng et.al.|[2505.05856](http://arxiv.org/abs/2505.05856)|null|
