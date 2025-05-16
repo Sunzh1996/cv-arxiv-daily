@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |---|---|---|---|---|
 |**2025-05-14**|**Learning Long-Context Diffusion Policies via Past-Token Prediction**|Marcel Torne et.al.|[2505.09561](http://arxiv.org/abs/2505.09561)|null|
 |**2025-05-13**|**Localization of Impacts on Thin-Walled Structures by Recurrent Neural Networks: End-to-end Learning from Real-World Data**|Alexander Humer et.al.|[2505.08362](http://arxiv.org/abs/2505.08362)|null|
-|**2025-05-12**|**Fused3S: Fast Sparse Attention on Tensor Cores**|Zitong Li et.al.|[2505.08098](http://arxiv.org/abs/2505.08098)|null|
+|**2025-05-12**|**Fused3S: Fast Sparse Attention on Tensor Cores**|Zitong Li et.al.|[2505.08098](http://arxiv.org/abs/2505.08098)|**[link](https://github.com/HPCForge/Fused3S)**|
 |**2025-05-12**|**SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models**|Hang Wu et.al.|[2505.07680](http://arxiv.org/abs/2505.07680)|null|
 |**2025-05-12**|**Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity**|Guang Yan et.al.|[2505.07239](http://arxiv.org/abs/2505.07239)|null|
 |**2025-05-12**|**PrefillOnly: An Inference Engine for Prefill-only Workloads in Large Language Model Applications**|Kuntai Du et.al.|[2505.07203](http://arxiv.org/abs/2505.07203)|null|
@@ -465,7 +465,7 @@
 |**2024-11-01**|**MoNTA: Accelerating Mixture-of-Experts Training with Network-Traffc-Aware Parallel Optimization**|Jingming Guo et.al.|[2411.00662](http://arxiv.org/abs/2411.00662)|**[link](https://github.com/enflametechnology/deepspeed)**|
 |**2024-11-01**|**Constrained Diffusion Implicit Models**|Vivek Jayaram et.al.|[2411.00359](http://arxiv.org/abs/2411.00359)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## MLLM
 
@@ -648,7 +648,7 @@
 |**2024-11-21**|**On the Fairness, Diversity and Reliability of Text-to-Image Generative Models**|Jordan Vice et.al.|[2411.13981](http://arxiv.org/abs/2411.13981)|null|
 |**2024-11-18**|**CCExpert: Advancing MLLM Capability in Remote Sensing Change Captioning with Difference-Aware Integration and a Foundational Dataset**|Zhiming Wang et.al.|[2411.11360](http://arxiv.org/abs/2411.11360)|**[link](https://github.com/meize0729/ccexpert)**|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Train and Infer
 
@@ -779,7 +779,7 @@
 |**2024-11-05**|**SimpleFSDP: Simpler Fully Sharded Data Parallel with torch.compile**|Ruisi Zhang et.al.|[2411.00284](http://arxiv.org/abs/2411.00284)|null|
 |**2024-11-08**|**How Does Critical Batch Size Scale in Pre-training?**|Hanlin Zhang et.al.|[2410.21676](http://arxiv.org/abs/2410.21676)|**[link](https://github.com/hlzhang109/critical-batch-size)**|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-14**|**Learning Long-Context Diffusion Policies via Past-Token Prediction**|Marcel Torne et.al.|[2505.09561](http://arxiv.org/abs/2505.09561)|null|
 |**2025-05-13**|**Localization of Impacts on Thin-Walled Structures by Recurrent Neural Networks: End-to-end Learning from Real-World Data**|Alexander Humer et.al.|[2505.08362](http://arxiv.org/abs/2505.08362)|null|
-|**2025-05-12**|**Fused3S: Fast Sparse Attention on Tensor Cores**|Zitong Li et.al.|[2505.08098](http://arxiv.org/abs/2505.08098)|null|
+|**2025-05-12**|**Fused3S: Fast Sparse Attention on Tensor Cores**|Zitong Li et.al.|[2505.08098](http://arxiv.org/abs/2505.08098)|**[link](https://github.com/HPCForge/Fused3S)**|
 |**2025-05-12**|**SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models**|Hang Wu et.al.|[2505.07680](http://arxiv.org/abs/2505.07680)|null|
 |**2025-05-12**|**Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity**|Guang Yan et.al.|[2505.07239](http://arxiv.org/abs/2505.07239)|null|
 |**2025-05-12**|**PrefillOnly: An Inference Engine for Prefill-only Workloads in Large Language Model Applications**|Kuntai Du et.al.|[2505.07203](http://arxiv.org/abs/2505.07203)|null|
