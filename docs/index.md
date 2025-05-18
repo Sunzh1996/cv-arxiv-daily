@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -648,7 +648,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-11**|**Efficient Implementation of RISC-V Vector Permutation Instructions**|Vasileios Titopoulos et.al.|[2505.07112](http://arxiv.org/abs/2505.07112)|null|
+|**2025-05-11**|**Efficient Implementation of RISC-V Vector Permutation Instructions**|Vasileios Titopoulos et.al.|[2505.07112](http://arxiv.org/abs/2505.07112)|**[link](https://github.com/ic-lab-duth/RISC-V-Vector-Processor)**|
 |**2025-05-09**|**Taming Offload Overheads in a Massively Parallel Open-Source RISC-V MPSoC: Analysis and Optimization**|Luca Colagrande et.al.|[2505.05911](http://arxiv.org/abs/2505.05911)|null|
 |**2025-05-09**|**A Taxonomy of Attacks and Defenses in Split Learning**|Aqsa Shabbir et.al.|[2505.05872](http://arxiv.org/abs/2505.05872)|null|
 |**2025-05-09**|**DawnPiper: A Memory-scablable Pipeline Parallel Training Framework**|Xuan Peng et.al.|[2505.05856](http://arxiv.org/abs/2505.05856)|null|
