@@ -14,8 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**HeteroSpec: Leveraging Contextual Heterogeneity for Efficient Speculative Decoding**|Siran Liu et.al.|[2505.13254](http://arxiv.org/abs/2505.13254)|null|
+|**2025-05-19**|**FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference**|Guangda Liu et.al.|[2505.13109](http://arxiv.org/abs/2505.13109)|null|
+|**2025-05-19**|**A3 : an Analytical Low-Rank Approximation Framework for Attention**|Jeffrey T. H. Wong et.al.|[2505.12942](http://arxiv.org/abs/2505.12942)|null|
+|**2025-05-19**|**MVAR: Visual Autoregressive Modeling with Scale and Spatial Markovian Conditioning**|Jinhua Zhang et.al.|[2505.12742](http://arxiv.org/abs/2505.12742)|**[link](https://github.com/labshuhanggu/mvar)**|
+|**2025-05-17**|**SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations**|Songchun Zhang et.al.|[2505.11992](http://arxiv.org/abs/2505.11992)|null|
+|**2025-05-16**|**Qronos: Correcting the Past by Shaping the Future... in Post-Training Quantization**|Shihao Zhang et.al.|[2505.11695](http://arxiv.org/abs/2505.11695)|null|
 |**2025-05-16**|**Delta Attention: Fast and Accurate Sparse Attention Inference by Delta Correction**|Jeffrey Willette et.al.|[2505.11254](http://arxiv.org/abs/2505.11254)|null|
-|**2025-05-16**|**SubGCache: Accelerating Graph-based RAG with Subgraph-level KV Cache**|Qiuyu Zhu et.al.|[2505.10951](http://arxiv.org/abs/2505.10951)|null|
+|**2025-05-19**|**SubGCache: Accelerating Graph-based RAG with Subgraph-level KV Cache**|Qiuyu Zhu et.al.|[2505.10951](http://arxiv.org/abs/2505.10951)|null|
 |**2025-05-16**|**Accurate KV Cache Quantization with Outlier Tokens Tracing**|Yi Su et.al.|[2505.10938](http://arxiv.org/abs/2505.10938)|null|
 |**2025-05-14**|**Aquarius: A Family of Industry-Level Video Generation Models for Marketing Scenarios**|Huafeng Shi et.al.|[2505.10584](http://arxiv.org/abs/2505.10584)|null|
 |**2025-05-14**|**Learning Long-Context Diffusion Policies via Past-Token Prediction**|Marcel Torne et.al.|[2505.09561](http://arxiv.org/abs/2505.09561)|null|
@@ -468,6 +474,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**SAKURA: On the Multi-hop Reasoning of Large Audio-Language Models Based on Speech and Audio Information**|Chih-Kai Yang et.al.|[2505.13237](http://arxiv.org/abs/2505.13237)|null|
+|**2025-05-19**|**SounDiT: Geo-Contextual Soundscape-to-Landscape Generation**|Junbo Wang et.al.|[2505.12734](http://arxiv.org/abs/2505.12734)|null|
 |**2025-05-16**|**Multimodal Event Detection: Current Approaches and Defining the New Playground through LLMs and VLMs**|Abhishek Dey et.al.|[2505.10836](http://arxiv.org/abs/2505.10836)|null|
 |**2025-05-15**|**End-to-End Vision Tokenizer Tuning**|Wenxuan Wang et.al.|[2505.10562](http://arxiv.org/abs/2505.10562)|null|
 |**2025-05-15**|**UniEval: Unified Holistic Evaluation for Unified Multimodal Understanding and Generation**|Yi Li et.al.|[2505.10483](http://arxiv.org/abs/2505.10483)|null|
@@ -653,6 +661,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Addressing memory bandwidth scalability in vector processors for streaming applications**|Jordi Altayo et.al.|[2505.12856](http://arxiv.org/abs/2505.12856)|null|
+|**2025-05-19**|**A Study on Distributed Strategies for Deep Learning Applications in GPU Clusters**|Md Sultanul Islam Ovi et.al.|[2505.12832](http://arxiv.org/abs/2505.12832)|null|
+|**2025-05-19**|**HydraInfer: Hybrid Disaggregated Scheduling for Multimodal Large Language Model Serving**|Xianzhe Dong et.al.|[2505.12658](http://arxiv.org/abs/2505.12658)|null|
 |**2025-05-11**|**Efficient Implementation of RISC-V Vector Permutation Instructions**|Vasileios Titopoulos et.al.|[2505.07112](http://arxiv.org/abs/2505.07112)|**[link](https://github.com/ic-lab-duth/RISC-V-Vector-Processor)**|
 |**2025-05-09**|**Taming Offload Overheads in a Massively Parallel Open-Source RISC-V MPSoC: Analysis and Optimization**|Luca Colagrande et.al.|[2505.05911](http://arxiv.org/abs/2505.05911)|null|
 |**2025-05-09**|**A Taxonomy of Attacks and Defenses in Split Learning**|Aqsa Shabbir et.al.|[2505.05872](http://arxiv.org/abs/2505.05872)|null|
