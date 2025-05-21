@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -24,7 +24,7 @@ layout: default
 |**2025-05-19**|**SubGCache: Accelerating Graph-based RAG with Subgraph-level KV Cache**|Qiuyu Zhu et.al.|[2505.10951](http://arxiv.org/abs/2505.10951)|null|
 |**2025-05-16**|**Accurate KV Cache Quantization with Outlier Tokens Tracing**|Yi Su et.al.|[2505.10938](http://arxiv.org/abs/2505.10938)|null|
 |**2025-05-14**|**Aquarius: A Family of Industry-Level Video Generation Models for Marketing Scenarios**|Huafeng Shi et.al.|[2505.10584](http://arxiv.org/abs/2505.10584)|null|
-|**2025-05-14**|**Learning Long-Context Diffusion Policies via Past-Token Prediction**|Marcel Torne et.al.|[2505.09561](http://arxiv.org/abs/2505.09561)|null|
+|**2025-05-19**|**Learning Long-Context Diffusion Policies via Past-Token Prediction**|Marcel Torne et.al.|[2505.09561](http://arxiv.org/abs/2505.09561)|null|
 |**2025-05-13**|**Localization of Impacts on Thin-Walled Structures by Recurrent Neural Networks: End-to-end Learning from Real-World Data**|Alexander Humer et.al.|[2505.08362](http://arxiv.org/abs/2505.08362)|null|
 |**2025-05-12**|**Fused3S: Fast Sparse Attention on Tensor Cores**|Zitong Li et.al.|[2505.08098](http://arxiv.org/abs/2505.08098)|**[link](https://github.com/HPCForge/Fused3S)**|
 |**2025-05-12**|**SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models**|Hang Wu et.al.|[2505.07680](http://arxiv.org/abs/2505.07680)|null|
