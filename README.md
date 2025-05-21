@@ -19,6 +19,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models**|Xuyang Liu et.al.|[2505.14454](http://arxiv.org/abs/2505.14454)|**[link](https://github.com/xuyang-liu16/vidcom2)**|
+|**2025-05-20**|**Log-Augmented Generation: Scaling Test-Time Reasoning with Reusable Computation**|Peter Baile Chen et.al.|[2505.14398](http://arxiv.org/abs/2505.14398)|null|
+|**2025-05-20**|**Low-Cost FlashAttention with Fused Exponential and Multiplication Hardware Operators**|Kosmas Alexandridis et.al.|[2505.14314](http://arxiv.org/abs/2505.14314)|null|
+|**2025-05-20**|**CE-LSLM: Efficient Large-Small Language Model Inference and Communication via Cloud-Edge Collaboration**|Pengyan Zhu et.al.|[2505.14085](http://arxiv.org/abs/2505.14085)|null|
+|**2025-05-20**|**UHD Image Dehazing via anDehazeFormer with Atmospheric-aware KV Cache**|Pu Wang et.al.|[2505.14010](http://arxiv.org/abs/2505.14010)|null|
+|**2025-05-20**|**Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning**|Jiwon Song et.al.|[2505.13866](http://arxiv.org/abs/2505.13866)|null|
+|**2025-05-19**|**Multi-head Temporal Latent Attention**|Keqi Deng et.al.|[2505.13544](http://arxiv.org/abs/2505.13544)|null|
 |**2025-05-19**|**HeteroSpec: Leveraging Contextual Heterogeneity for Efficient Speculative Decoding**|Siran Liu et.al.|[2505.13254](http://arxiv.org/abs/2505.13254)|null|
 |**2025-05-19**|**FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference**|Guangda Liu et.al.|[2505.13109](http://arxiv.org/abs/2505.13109)|null|
 |**2025-05-19**|**A3 : an Analytical Low-Rank Approximation Framework for Attention**|Jeffrey T. H. Wong et.al.|[2505.12942](http://arxiv.org/abs/2505.12942)|null|
@@ -481,6 +488,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Emerging Properties in Unified Multimodal Pretraining**|Chaorui Deng et.al.|[2505.14683](http://arxiv.org/abs/2505.14683)|null|
+|**2025-05-20**|**UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation**|Rui Tian et.al.|[2505.14682](http://arxiv.org/abs/2505.14682)|null|
+|**2025-05-20**|**Agent Context Protocols Enhance Collective Inference**|Devansh Bhardwaj et.al.|[2505.14569](http://arxiv.org/abs/2505.14569)|null|
+|**2025-05-20**|**RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding**|Jiaang Li et.al.|[2505.14462](http://arxiv.org/abs/2505.14462)|**[link](https://github.com/yfyuan01/ravenea)**|
+|**2025-05-20**|**DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning**|Ziwei Zheng et.al.|[2505.14362](http://arxiv.org/abs/2505.14362)|**[link](https://github.com/visual-agent/deepeyes)**|
+|**2025-05-20**|**Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**|Kiarash Naghavi Khanghah et.al.|[2505.13828](http://arxiv.org/abs/2505.13828)|null|
 |**2025-05-19**|**SAKURA: On the Multi-hop Reasoning of Large Audio-Language Models Based on Speech and Audio Information**|Chih-Kai Yang et.al.|[2505.13237](http://arxiv.org/abs/2505.13237)|null|
 |**2025-05-19**|**SounDiT: Geo-Contextual Soundscape-to-Landscape Generation**|Junbo Wang et.al.|[2505.12734](http://arxiv.org/abs/2505.12734)|null|
 |**2025-05-16**|**Multimodal Event Detection: Current Approaches and Defining the New Playground through LLMs and VLMs**|Abhishek Dey et.al.|[2505.10836](http://arxiv.org/abs/2505.10836)|null|
@@ -670,6 +683,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Power Lines: Scaling Laws for Weight Decay and Batch Size in LLM Pre-training**|Shane Bergsma et.al.|[2505.13738](http://arxiv.org/abs/2505.13738)|null|
 |**2025-05-19**|**Addressing memory bandwidth scalability in vector processors for streaming applications**|Jordi Altayo et.al.|[2505.12856](http://arxiv.org/abs/2505.12856)|null|
 |**2025-05-19**|**A Study on Distributed Strategies for Deep Learning Applications in GPU Clusters**|Md Sultanul Islam Ovi et.al.|[2505.12832](http://arxiv.org/abs/2505.12832)|null|
 |**2025-05-19**|**HydraInfer: Hybrid Disaggregated Scheduling for Multimodal Large Language Model Serving**|Xianzhe Dong et.al.|[2505.12658](http://arxiv.org/abs/2505.12658)|null|
