@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -18,7 +18,7 @@ layout: default
 |**2025-05-21**|**Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention**|Huanxuan Liao et.al.|[2505.15774](http://arxiv.org/abs/2505.15774)|null|
 |**2025-05-21**|**ThinkLess: A Training-Free Inference-Efficient Method for Reducing Reasoning Redundancy**|Gengyang Li et.al.|[2505.15684](http://arxiv.org/abs/2505.15684)|null|
 |**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683](http://arxiv.org/abs/2505.15683)|null|
-|**2025-05-21**|**Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought**|Ao Liu et.al.|[2505.15431](http://arxiv.org/abs/2505.15431)|null|
+|**2025-05-22**|**Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought**|Tencent Hunyuan Team et.al.|[2505.15431](http://arxiv.org/abs/2505.15431)|null|
 |**2025-05-21**|**FlowKV: Enhancing Multi-Turn Conversational Coherence in LLMs via Isolated Key-Value Cache Management**|Xiang Liu et.al.|[2505.15347](http://arxiv.org/abs/2505.15347)|null|
 |**2025-05-21**|**Leveraging Unit Language Guidance to Advance Speech Modeling in Textless Speech-to-Speech Translation**|Yuhao Zhang et.al.|[2505.15333](http://arxiv.org/abs/2505.15333)|null|
 |**2025-05-21**|**Hallucinate at the Last in Long Response Generation: A Case Study on Long Document Summarization**|Joonho Yang et.al.|[2505.15291](http://arxiv.org/abs/2505.15291)|null|
