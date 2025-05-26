@@ -19,6 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**QwenLong-CPRS: Towards $\infty$ -LLMs with Dynamic Context Optimization**|Weizhou Shen et.al.|[2505.18092](http://arxiv.org/abs/2505.18092)|null|
+|**2025-05-23**|**Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration**|Peilin Chen et.al.|[2505.17787](http://arxiv.org/abs/2505.17787)|null|
+|**2025-05-23**|**FlashForge: Ultra-Efficient Prefix-Aware Attention for LLM Decoding**|Zhibin Wang et.al.|[2505.17694](http://arxiv.org/abs/2505.17694)|null|
+|**2025-05-23**|**Towards General Continuous Memory for Vision-Language Models**|Wenyi Wu et.al.|[2505.17670](http://arxiv.org/abs/2505.17670)|null|
+|**2025-05-23**|**DASH: Input-Aware Dynamic Layer Skipping for Efficient LLM Inference with Markov Decision Policies**|Ning Yang et.al.|[2505.17420](http://arxiv.org/abs/2505.17420)|null|
+|**2025-05-22**|**ECHO-LLaMA: Efficient Caching for High-Performance LLaMA Training**|Maryam Dialameh et.al.|[2505.17331](http://arxiv.org/abs/2505.17331)|null|
+|**2025-05-22**|**Zebra-Llama: Towards Extremely Efficient Hybrid Models**|Mingyu Yang et.al.|[2505.17272](http://arxiv.org/abs/2505.17272)|null|
+|**2025-05-22**|**RAP: Runtime-Adaptive Pruning for LLM Inference**|Huanrong Liu et.al.|[2505.17138](http://arxiv.org/abs/2505.17138)|null|
+|**2025-05-22**|**Robustifying Vision-Language Models via Dynamic Token Reweighting**|Tanqiu Jiang et.al.|[2505.17132](http://arxiv.org/abs/2505.17132)|null|
 |**2025-05-22**|**Bottlenecked Transformers: Periodic KV Cache Abstraction for Generalised Reasoning**|Adnan Oomerjee et.al.|[2505.16950](http://arxiv.org/abs/2505.16950)|null|
 |**2025-05-23**|**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**|Shufan Li et.al.|[2505.16839](http://arxiv.org/abs/2505.16839)|**[link](https://github.com/jacklishufan/lavida)**|
 |**2025-05-22**|**NQKV: A KV Cache Quantization Scheme Based on Normal Distribution Characteristics**|Zhihang Cai et.al.|[2505.16210](http://arxiv.org/abs/2505.16210)|null|
@@ -504,6 +513,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding**|Xuerui Qiu et.al.|[2505.17674](http://arxiv.org/abs/2505.17674)|null|
+|**2025-05-23**|**MMMG: a Comprehensive and Reliable Evaluation Suite for Multitask Multimodal Generation**|Jihan Yao et.al.|[2505.17613](http://arxiv.org/abs/2505.17613)|null|
+|**2025-05-23**|**Co-Reinforcement Learning for Unified Multimodal Understanding and Generation**|Jingjing Jiang et.al.|[2505.17534](http://arxiv.org/abs/2505.17534)|null|
+|**2025-05-23**|**VEAttack: Downstream-agnostic Vision Encoder Attack against Large Vision Language Models**|Hefei Mei et.al.|[2505.17440](http://arxiv.org/abs/2505.17440)|null|
 |**2025-05-22**|**LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning**|Zebin You et.al.|[2505.16933](http://arxiv.org/abs/2505.16933)|null|
 |**2025-05-23**|**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**|Shufan Li et.al.|[2505.16839](http://arxiv.org/abs/2505.16839)|**[link](https://github.com/jacklishufan/lavida)**|
 |**2025-05-22**|**Four Eyes Are Better Than Two: Harnessing the Collaborative Potential of Large Models via Differentiated Thinking and Complementary Ensembles**|Jun Xie et.al.|[2505.16784](http://arxiv.org/abs/2505.16784)|null|
@@ -706,6 +719,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**H2:Towards Efficient Large-Scale LLM Training on Hyper-Heterogeneous Cluster over 1,000 Chips**|Ding Tang et.al.|[2505.17548](http://arxiv.org/abs/2505.17548)|null|
 |**2025-05-21**|**SpanTrain: Highly Efficient Cross-domain Model Distributed Training System under Heterogeneous GPUs and Networks in CEE Environment**|Jinquan Wang et.al.|[2505.15536](http://arxiv.org/abs/2505.15536)|null|
 |**2025-05-20**|**Balanced and Elastic End-to-end Training of Dynamic LLMs**|Mohamed Wahib et.al.|[2505.14864](http://arxiv.org/abs/2505.14864)|null|
 |**2025-05-19**|**Power Lines: Scaling Laws for Weight Decay and Batch Size in LLM Pre-training**|Shane Bergsma et.al.|[2505.13738](http://arxiv.org/abs/2505.13738)|null|
