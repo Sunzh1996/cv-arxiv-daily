@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -34,7 +34,7 @@
 |**2025-05-22**|**QuickVideo: Real-Time Long Video Understanding with System Algorithm Co-Design**|Benjamin Schneider et.al.|[2505.16175](http://arxiv.org/abs/2505.16175)|**[link](https://github.com/tiger-ai-lab/quickvideo)**|
 |**2025-05-21**|**FR-Mamba: Time-Series Physical Field Reconstruction Based on State Space Model**|Jiahuan Long et.al.|[2505.16083](http://arxiv.org/abs/2505.16083)|null|
 |**2025-05-21**|**dKV-Cache: The Cache for Diffusion Language Models**|Xinyin Ma et.al.|[2505.15781](http://arxiv.org/abs/2505.15781)|**[link](https://github.com/horseee/dkv-cache)**|
-|**2025-05-21**|**Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention**|Huanxuan Liao et.al.|[2505.15774](http://arxiv.org/abs/2505.15774)|null|
+|**2025-05-21**|**Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention**|Huanxuan Liao et.al.|[2505.15774](http://arxiv.org/abs/2505.15774)|**[link](https://github.com/Xnhyacinth/HyCo2)**|
 |**2025-05-23**|**ThinkLess: A Training-Free Inference-Efficient Method for Reducing Reasoning Redundancy**|Gengyang Li et.al.|[2505.15684](http://arxiv.org/abs/2505.15684)|null|
 |**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683](http://arxiv.org/abs/2505.15683)|**[link](https://github.com/TAP-LLM/SplitFedLLM)**|
 |**2025-05-22**|**Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought**|Tencent Hunyuan Team et.al.|[2505.15431](http://arxiv.org/abs/2505.15431)|null|
@@ -507,7 +507,7 @@
 |**2024-11-01**|**MoNTA: Accelerating Mixture-of-Experts Training with Network-Traffc-Aware Parallel Optimization**|Jingming Guo et.al.|[2411.00662](http://arxiv.org/abs/2411.00662)|**[link](https://github.com/enflametechnology/deepspeed)**|
 |**2024-11-01**|**Constrained Diffusion Implicit Models**|Vivek Jayaram et.al.|[2411.00359](http://arxiv.org/abs/2411.00359)|null|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
 
 ## MLLM
 
@@ -524,7 +524,7 @@
 |**2025-05-22**|**Multimodal Generative AI for Story Point Estimation in Software Development**|Mohammad Rubyet Islam et.al.|[2505.16290](http://arxiv.org/abs/2505.16290)|null|
 |**2025-05-21**|**MMaDA: Multimodal Large Diffusion Language Models**|Ling Yang et.al.|[2505.15809](http://arxiv.org/abs/2505.15809)|**[link](https://github.com/gen-verse/mmada)**|
 |**2025-05-20**|**Multimodal Cultural Safety: Evaluation Frameworks and Alignment Strategies**|Haoyi Qiu et.al.|[2505.14972](http://arxiv.org/abs/2505.14972)|**[link](https://github.com/haoyiq114/CROSS)**|
-|**2025-05-20**|**Emerging Properties in Unified Multimodal Pretraining**|Chaorui Deng et.al.|[2505.14683](http://arxiv.org/abs/2505.14683)|null|
+|**2025-05-23**|**Emerging Properties in Unified Multimodal Pretraining**|Chaorui Deng et.al.|[2505.14683](http://arxiv.org/abs/2505.14683)|null|
 |**2025-05-20**|**UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation**|Rui Tian et.al.|[2505.14682](http://arxiv.org/abs/2505.14682)|null|
 |**2025-05-20**|**Agent Context Protocols Enhance Collective Inference**|Devansh Bhardwaj et.al.|[2505.14569](http://arxiv.org/abs/2505.14569)|null|
 |**2025-05-20**|**RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding**|Jiaang Li et.al.|[2505.14462](http://arxiv.org/abs/2505.14462)|**[link](https://github.com/yfyuan01/ravenea)**|
@@ -713,7 +713,7 @@
 |**2024-11-21**|**On the Fairness, Diversity and Reliability of Text-to-Image Generative Models**|Jordan Vice et.al.|[2411.13981](http://arxiv.org/abs/2411.13981)|null|
 |**2024-11-18**|**CCExpert: Advancing MLLM Capability in Remote Sensing Change Captioning with Difference-Aware Integration and a Foundational Dataset**|Zhiming Wang et.al.|[2411.11360](http://arxiv.org/abs/2411.11360)|**[link](https://github.com/meize0729/ccexpert)**|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
 
 ## Train and Infer
 
@@ -851,7 +851,7 @@
 |**2024-11-05**|**SimpleFSDP: Simpler Fully Sharded Data Parallel with torch.compile**|Ruisi Zhang et.al.|[2411.00284](http://arxiv.org/abs/2411.00284)|null|
 |**2024-11-08**|**How Does Critical Batch Size Scale in Pre-training?**|Hanlin Zhang et.al.|[2410.21676](http://arxiv.org/abs/2410.21676)|**[link](https://github.com/hlzhang109/critical-batch-size)**|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

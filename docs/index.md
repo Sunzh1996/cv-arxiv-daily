@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -29,7 +29,7 @@ layout: default
 |**2025-05-22**|**QuickVideo: Real-Time Long Video Understanding with System Algorithm Co-Design**|Benjamin Schneider et.al.|[2505.16175](http://arxiv.org/abs/2505.16175)|**[link](https://github.com/tiger-ai-lab/quickvideo)**|
 |**2025-05-21**|**FR-Mamba: Time-Series Physical Field Reconstruction Based on State Space Model**|Jiahuan Long et.al.|[2505.16083](http://arxiv.org/abs/2505.16083)|null|
 |**2025-05-21**|**dKV-Cache: The Cache for Diffusion Language Models**|Xinyin Ma et.al.|[2505.15781](http://arxiv.org/abs/2505.15781)|**[link](https://github.com/horseee/dkv-cache)**|
-|**2025-05-21**|**Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention**|Huanxuan Liao et.al.|[2505.15774](http://arxiv.org/abs/2505.15774)|null|
+|**2025-05-21**|**Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention**|Huanxuan Liao et.al.|[2505.15774](http://arxiv.org/abs/2505.15774)|**[link](https://github.com/Xnhyacinth/HyCo2)**|
 |**2025-05-23**|**ThinkLess: A Training-Free Inference-Efficient Method for Reducing Reasoning Redundancy**|Gengyang Li et.al.|[2505.15684](http://arxiv.org/abs/2505.15684)|null|
 |**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683](http://arxiv.org/abs/2505.15683)|**[link](https://github.com/TAP-LLM/SplitFedLLM)**|
 |**2025-05-22**|**Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought**|Tencent Hunyuan Team et.al.|[2505.15431](http://arxiv.org/abs/2505.15431)|null|
@@ -517,7 +517,7 @@ layout: default
 |**2025-05-22**|**Multimodal Generative AI for Story Point Estimation in Software Development**|Mohammad Rubyet Islam et.al.|[2505.16290](http://arxiv.org/abs/2505.16290)|null|
 |**2025-05-21**|**MMaDA: Multimodal Large Diffusion Language Models**|Ling Yang et.al.|[2505.15809](http://arxiv.org/abs/2505.15809)|**[link](https://github.com/gen-verse/mmada)**|
 |**2025-05-20**|**Multimodal Cultural Safety: Evaluation Frameworks and Alignment Strategies**|Haoyi Qiu et.al.|[2505.14972](http://arxiv.org/abs/2505.14972)|**[link](https://github.com/haoyiq114/CROSS)**|
-|**2025-05-20**|**Emerging Properties in Unified Multimodal Pretraining**|Chaorui Deng et.al.|[2505.14683](http://arxiv.org/abs/2505.14683)|null|
+|**2025-05-23**|**Emerging Properties in Unified Multimodal Pretraining**|Chaorui Deng et.al.|[2505.14683](http://arxiv.org/abs/2505.14683)|null|
 |**2025-05-20**|**UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation**|Rui Tian et.al.|[2505.14682](http://arxiv.org/abs/2505.14682)|null|
 |**2025-05-20**|**Agent Context Protocols Enhance Collective Inference**|Devansh Bhardwaj et.al.|[2505.14569](http://arxiv.org/abs/2505.14569)|null|
 |**2025-05-20**|**RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding**|Jiaang Li et.al.|[2505.14462](http://arxiv.org/abs/2505.14462)|**[link](https://github.com/yfyuan01/ravenea)**|
