@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,16 +21,16 @@
 |---|---|---|---|---|
 |**2025-05-26**|**Revisiting Glorot Initialization for Long-Range Linear Recurrences**|Noga Bar et.al.|[2505.19827](http://arxiv.org/abs/2505.19827)|null|
 |**2025-05-26**|**Memory-Efficient Visual Autoregressive Modeling with Scale-Aware KV Cache Compression**|Kunjun Li et.al.|[2505.19602](http://arxiv.org/abs/2505.19602)|null|
-|**2025-05-26**|**TailorKV: A Hybrid Framework for Long-Context Inference via Tailored KV Cache Optimization**|Dingyu Yao et.al.|[2505.19586](http://arxiv.org/abs/2505.19586)|null|
+|**2025-05-27**|**TailorKV: A Hybrid Framework for Long-Context Inference via Tailored KV Cache Optimization**|Dingyu Yao et.al.|[2505.19586](http://arxiv.org/abs/2505.19586)|null|
 |**2025-05-25**|**Communication-Efficient Multi-Device Inference Acceleration for Transformer Models**|Xiao Liu et.al.|[2505.19342](http://arxiv.org/abs/2505.19342)|null|
 |**2025-05-25**|**VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes**|Tianchen Deng et.al.|[2505.18992](http://arxiv.org/abs/2505.18992)|null|
-|**2025-05-25**|**Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings**|Sarang Patil et.al.|[2505.18973](http://arxiv.org/abs/2505.18973)|null|
-|**2025-05-24**|**MTGR: Industrial-Scale Generative Recommendation Framework in Meituan**|Ruidong Han et.al.|[2505.18654](http://arxiv.org/abs/2505.18654)|null|
+|**2025-05-27**|**Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings**|Sarang Patil et.al.|[2505.18973](http://arxiv.org/abs/2505.18973)|null|
+|**2025-05-27**|**MTGR: Industrial-Scale Generative Recommendation Framework in Meituan**|Ruidong Han et.al.|[2505.18654](http://arxiv.org/abs/2505.18654)|null|
 |**2025-05-24**|**PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs**|Tengxuan Liu et.al.|[2505.18610](http://arxiv.org/abs/2505.18610)|null|
 |**2025-05-24**|**TK-Mamba: Marrying KAN with Mamba for Text-Driven 3D Medical Image Segmentation**|Haoyu Yang et.al.|[2505.18525](http://arxiv.org/abs/2505.18525)|null|
-|**2025-05-24**|**A Survey of LLM $\times$ DATA**|Xuanhe Zhou et.al.|[2505.18458](http://arxiv.org/abs/2505.18458)|null|
+|**2025-05-27**|**A Survey of LLM $\times$ DATA**|Xuanhe Zhou et.al.|[2505.18458](http://arxiv.org/abs/2505.18458)|null|
 |**2025-05-23**|**NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache**|Donghyun Son et.al.|[2505.18231](http://arxiv.org/abs/2505.18231)|null|
-|**2025-05-23**|**QwenLong-CPRS: Towards $\infty$ -LLMs with Dynamic Context Optimization**|Weizhou Shen et.al.|[2505.18092](http://arxiv.org/abs/2505.18092)|null|
+|**2025-05-27**|**QwenLong-CPRS: Towards $\infty$ -LLMs with Dynamic Context Optimization**|Weizhou Shen et.al.|[2505.18092](http://arxiv.org/abs/2505.18092)|null|
 |**2025-05-23**|**Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration**|Peilin Chen et.al.|[2505.17787](http://arxiv.org/abs/2505.17787)|null|
 |**2025-05-23**|**FlashForge: Ultra-Efficient Prefix-Aware Attention for LLM Decoding**|Zhibin Wang et.al.|[2505.17694](http://arxiv.org/abs/2505.17694)|null|
 |**2025-05-23**|**Towards General Continuous Memory for Vision-Language Models**|Wenyi Wu et.al.|[2505.17670](http://arxiv.org/abs/2505.17670)|null|
@@ -518,13 +518,13 @@
 |**2024-11-01**|**MoNTA: Accelerating Mixture-of-Experts Training with Network-Traffc-Aware Parallel Optimization**|Jingming Guo et.al.|[2411.00662](http://arxiv.org/abs/2411.00662)|**[link](https://github.com/enflametechnology/deepspeed)**|
 |**2024-11-01**|**Constrained Diffusion Implicit Models**|Vivek Jayaram et.al.|[2411.00359](http://arxiv.org/abs/2411.00359)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## MLLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-26**|**Dynamic-I2V: Exploring Image-to-Video Generaion Models via Multimodal LLM**|Peng Liu et.al.|[2505.19901](http://arxiv.org/abs/2505.19901)|null|
+|**2025-05-27**|**Dynamic-I2V: Exploring Image-to-Video Generation Models via Multimodal LLM**|Peng Liu et.al.|[2505.19901](http://arxiv.org/abs/2505.19901)|null|
 |**2025-05-26**|**FlowCut: Rethinking Redundancy via Information Flow for Efficient Vision-Language Models**|Jintao Tong et.al.|[2505.19536](http://arxiv.org/abs/2505.19536)|null|
 |**2025-05-25**|**ReFineVLA: Reasoning-Aware Teacher-Guided Transfer Fine-Tuning**|Tuan Van Vo et.al.|[2505.19080](http://arxiv.org/abs/2505.19080)|null|
 |**2025-05-25**|**STRICT: Stress Test of Rendering Images Containing Text**|Tianyu Zhang et.al.|[2505.18985](http://arxiv.org/abs/2505.18985)|null|
@@ -729,7 +729,7 @@
 |**2024-11-21**|**On the Fairness, Diversity and Reliability of Text-to-Image Generative Models**|Jordan Vice et.al.|[2411.13981](http://arxiv.org/abs/2411.13981)|null|
 |**2024-11-18**|**CCExpert: Advancing MLLM Capability in Remote Sensing Change Captioning with Difference-Aware Integration and a Foundational Dataset**|Zhiming Wang et.al.|[2411.11360](http://arxiv.org/abs/2411.11360)|**[link](https://github.com/meize0729/ccexpert)**|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## Train and Infer
 
@@ -739,7 +739,7 @@
 |**2025-05-24**|**PacTrain: Pruning and Adaptive Sparse Gradient Compression for Efficient Collective Communication in Distributed Deep Learning**|Yisu Wang et.al.|[2505.18563](http://arxiv.org/abs/2505.18563)|null|
 |**2025-05-13**|**Model-Distributed Inference for Large Language Models at the Edge**|Davide Macario et.al.|[2505.18164](http://arxiv.org/abs/2505.18164)|null|
 |**2025-05-23**|**H2:Towards Efficient Large-Scale LLM Training on Hyper-Heterogeneous Cluster over 1,000 Chips**|Ding Tang et.al.|[2505.17548](http://arxiv.org/abs/2505.17548)|null|
-|**2025-05-21**|**SpanTrain: Highly Efficient Cross-domain Model Distributed Training System under Heterogeneous GPUs and Networks in CEE Environment**|Jinquan Wang et.al.|[2505.15536](http://arxiv.org/abs/2505.15536)|null|
+|**2025-05-27**|**DeepCEE: Efficient Cross-Region Model Distributed Training System under Heterogeneous GPUs and Networks**|Jinquan Wang et.al.|[2505.15536](http://arxiv.org/abs/2505.15536)|null|
 |**2025-05-20**|**Balanced and Elastic End-to-end Training of Dynamic LLMs**|Mohamed Wahib et.al.|[2505.14864](http://arxiv.org/abs/2505.14864)|null|
 |**2025-05-19**|**Power Lines: Scaling Laws for Weight Decay and Batch Size in LLM Pre-training**|Shane Bergsma et.al.|[2505.13738](http://arxiv.org/abs/2505.13738)|null|
 |**2025-05-19**|**Addressing memory bandwidth scalability in vector processors for streaming applications**|Jordi Altayo et.al.|[2505.12856](http://arxiv.org/abs/2505.12856)|null|
@@ -870,7 +870,7 @@
 |**2024-11-05**|**SimpleFSDP: Simpler Fully Sharded Data Parallel with torch.compile**|Ruisi Zhang et.al.|[2411.00284](http://arxiv.org/abs/2411.00284)|null|
 |**2024-11-08**|**How Does Critical Batch Size Scale in Pre-training?**|Hanlin Zhang et.al.|[2410.21676](http://arxiv.org/abs/2410.21676)|**[link](https://github.com/hlzhang109/critical-batch-size)**|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
