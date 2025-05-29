@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding**|Chengyue Wu et.al.|[2505.22618](http://arxiv.org/abs/2505.22618)|null|
+|**2025-05-28**|**InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing**|Shuaiyi Li et.al.|[2505.22156](http://arxiv.org/abs/2505.22156)|null|
+|**2025-05-28**|**EFIM: Efficient Serving of LLMs for Infilling Tasks with Improved KV Cache Reuse**|Tianyu Guo et.al.|[2505.21889](http://arxiv.org/abs/2505.21889)|null|
+|**2025-05-27**|**Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling**|Mónika Farsang et.al.|[2505.21717](http://arxiv.org/abs/2505.21717)|null|
 |**2025-05-27**|**Hardware-Efficient Attention for Fast Decoding**|Ted Zadouri et.al.|[2505.21487](http://arxiv.org/abs/2505.21487)|null|
 |**2025-05-27**|**Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**|Zhanqiu Hu et.al.|[2505.21467](http://arxiv.org/abs/2505.21467)|null|
 |**2025-05-27**|**Uncertainty Unveiled: Can Exposure to More In-context Examples Mitigate Uncertainty for Large Language Models?**|Yifei Wang et.al.|[2505.21003](http://arxiv.org/abs/2505.21003)|null|
@@ -528,6 +532,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning**|Jiaqi Huang et.al.|[2505.22596](http://arxiv.org/abs/2505.22596)|null|
+|**2025-05-28**|**YH-MINER: Multimodal Intelligent System for Natural Ecological Reef Metric Extraction**|Mingzhuang Wang et.al.|[2505.22250](http://arxiv.org/abs/2505.22250)|null|
+|**2025-05-27**|**PreGenie: An Agentic Framework for High-quality Visual Presentation Generation**|Xiaojie Xu et.al.|[2505.21660](http://arxiv.org/abs/2505.21660)|null|
 |**2025-05-27**|**Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused Ultrasound Ablation Surgery**|Lina Zhao et.al.|[2505.21418](http://arxiv.org/abs/2505.21418)|null|
 |**2025-05-27**|**Fork-Merge Decoding: Enhancing Multimodal Understanding in Audio-Visual Large Language Models**|Chaeyoung Jung et.al.|[2505.20873](http://arxiv.org/abs/2505.20873)|null|
 |**2025-05-27**|**Dynamic-I2V: Exploring Image-to-Video Generation Models via Multimodal LLM**|Peng Liu et.al.|[2505.19901](http://arxiv.org/abs/2505.19901)|null|
@@ -537,7 +544,7 @@ layout: default
 |**2025-05-24**|**OmniGenBench: A Benchmark for Omnipotent Multimodal Generation across 50+ Tasks**|Jiayu Wang et.al.|[2505.18775](http://arxiv.org/abs/2505.18775)|null|
 |**2025-05-23**|**SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding**|Xuerui Qiu et.al.|[2505.17674](http://arxiv.org/abs/2505.17674)|null|
 |**2025-05-23**|**MMMG: a Comprehensive and Reliable Evaluation Suite for Multitask Multimodal Generation**|Jihan Yao et.al.|[2505.17613](http://arxiv.org/abs/2505.17613)|null|
-|**2025-05-23**|**Co-Reinforcement Learning for Unified Multimodal Understanding and Generation**|Jingjing Jiang et.al.|[2505.17534](http://arxiv.org/abs/2505.17534)|null|
+|**2025-05-23**|**Co-Reinforcement Learning for Unified Multimodal Understanding and Generation**|Jingjing Jiang et.al.|[2505.17534](http://arxiv.org/abs/2505.17534)|**[link](https://github.com/mm-vl/ULM-R1)**|
 |**2025-05-23**|**VEAttack: Downstream-agnostic Vision Encoder Attack against Large Vision Language Models**|Hefei Mei et.al.|[2505.17440](http://arxiv.org/abs/2505.17440)|**[link](https://github.com/hfmei/veattack-lvlm)**|
 |**2025-05-22**|**LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning**|Zebin You et.al.|[2505.16933](http://arxiv.org/abs/2505.16933)|null|
 |**2025-05-23**|**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**|Shufan Li et.al.|[2505.16839](http://arxiv.org/abs/2505.16839)|**[link](https://github.com/jacklishufan/lavida)**|
@@ -739,6 +746,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**DES-LOC: Desynced Low Communication Adaptive Optimizers for Training Foundation Models**|Alex Iacob et.al.|[2505.22549](http://arxiv.org/abs/2505.22549)|null|
+|**2025-05-28**|**Large-Area Fabrication-aware Computational Diffractive Optics**|Kaixuan Wei et.al.|[2505.22313](http://arxiv.org/abs/2505.22313)|null|
+|**2025-05-28**|**Apax: A Flexible and Performant Framework For The Development of Machine-Learned Interatomic Potentials**|Moritz René Schäfer et.al.|[2505.22168](http://arxiv.org/abs/2505.22168)|null|
+|**2025-05-27**|**Incentivizing Permissionless Distributed Learning of LLMs**|Joel Lidin et.al.|[2505.21684](http://arxiv.org/abs/2505.21684)|null|
 |**2025-05-24**|**HD-PiSSA: High-Rank Distributed Orthogonal Adaptation**|Yiding Wang et.al.|[2505.18777](http://arxiv.org/abs/2505.18777)|null|
 |**2025-05-24**|**PacTrain: Pruning and Adaptive Sparse Gradient Compression for Efficient Collective Communication in Distributed Deep Learning**|Yisu Wang et.al.|[2505.18563](http://arxiv.org/abs/2505.18563)|null|
 |**2025-05-13**|**Model-Distributed Inference for Large Language Models at the Edge**|Davide Macario et.al.|[2505.18164](http://arxiv.org/abs/2505.18164)|null|
