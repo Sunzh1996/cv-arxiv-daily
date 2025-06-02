@@ -19,6 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Inference Acceleration of Autoregressive Normalizing Flows by Selective Jacobi Decoding**|Jiaru Zhang et.al.|[2505.24791](http://arxiv.org/abs/2505.24791)|null|
+|**2025-05-30**|**HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts**|Neil He et.al.|[2505.24722](http://arxiv.org/abs/2505.24722)|null|
+|**2025-05-30**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
+|**2025-05-30**|**Speech Token Prediction via Compressed-to-fine Language Modeling for Speech Generation**|Wenrui Liu et.al.|[2505.24496](http://arxiv.org/abs/2505.24496)|null|
+|**2025-05-30**|**S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification**|Xianheng Ma et.al.|[2505.24401](http://arxiv.org/abs/2505.24401)|null|
+|**2025-05-30**|**ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration**|Xianglong Yan et.al.|[2505.24357](http://arxiv.org/abs/2505.24357)|null|
+|**2025-05-30**|**R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration**|Zefan Cai et.al.|[2505.24133](http://arxiv.org/abs/2505.24133)|null|
+|**2025-05-30**|**SkyLB: A Locality-Aware Cross-Region Load Balancer for LLM Inference**|Tian Xia et.al.|[2505.24095](http://arxiv.org/abs/2505.24095)|null|
+|**2025-05-29**|**EmbAdvisor: Adaptive Cache Management for Sustainable LLM Serving**|Yuyang Tian et.al.|[2505.23970](http://arxiv.org/abs/2505.23970)|null|
 |**2025-05-29**|**REOrdering Patches Improves Vision Models**|Declan Kutscher et.al.|[2505.23751](http://arxiv.org/abs/2505.23751)|null|
 |**2025-05-29**|**LoLA: Low-Rank Linear Attention With Sparse Caching**|Luke McDermott et.al.|[2505.23666](http://arxiv.org/abs/2505.23666)|null|
 |**2025-05-29**|**KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction**|Jang-Hyun Kim et.al.|[2505.23416](http://arxiv.org/abs/2505.23416)|**[link](https://github.com/snu-mllab/kvzip)**|
@@ -543,6 +552,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876](http://arxiv.org/abs/2505.24876)|null|
+|**2025-05-30**|**D2AF: A Dual-Driven Annotation and Filtering Framework for Visual Grounding**|Yichi Zhang et.al.|[2505.24372](http://arxiv.org/abs/2505.24372)|null|
+|**2025-05-30**|**CSVQA: A Chinese Multimodal Benchmark for Evaluating STEM Reasoning Capabilities of VLMs**|Ai Jian et.al.|[2505.24120](http://arxiv.org/abs/2505.24120)|null|
+|**2025-05-29**|**InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback**|Boyuan Chen et.al.|[2505.23950](http://arxiv.org/abs/2505.23950)|null|
 |**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al.|[2505.23745](http://arxiv.org/abs/2505.23745)|**[link](https://github.com/epfl-imos/trustvlm)**|
 |**2025-05-29**|**PixelThink: Towards Efficient Chain-of-Pixel Reasoning**|Song Wang et.al.|[2505.23727](http://arxiv.org/abs/2505.23727)|null|
 |**2025-05-30**|**OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**|Size Wu et.al.|[2505.23661](http://arxiv.org/abs/2505.23661)|**[link](https://github.com/wusize/openuni)**|
@@ -764,6 +777,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Critical Batch Size Revisited: A Simple Empirical Approach to Large-Batch Language Model Training**|William Merrill et.al.|[2505.23971](http://arxiv.org/abs/2505.23971)|null|
 |**2025-05-29**|**Accelerating AllReduce with a Persistent Straggler**|Arjun Devraj et.al.|[2505.23523](http://arxiv.org/abs/2505.23523)|**[link](https://github.com/arjundevraj/stragglar)**|
 |**2025-05-28**|**Profiling and optimization of multi-card GPU machine learning jobs**|Marcin Lawenda et.al.|[2505.22905](http://arxiv.org/abs/2505.22905)|null|
 |**2025-05-28**|**DES-LOC: Desynced Low Communication Adaptive Optimizers for Training Foundation Models**|Alex Iacob et.al.|[2505.22549](http://arxiv.org/abs/2505.22549)|null|
