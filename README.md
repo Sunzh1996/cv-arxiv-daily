@@ -19,6 +19,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**InterMamba: Efficient Human-Human Interaction Generation with Adaptive Spatio-Temporal Mamba**|Zizhao Wu et.al.|[2506.03084](http://arxiv.org/abs/2506.03084)|null|
+|**2025-06-03**|**StreamBP: Memory-Efficient Exact Backpropagation for Long Sequence Training of LLMs**|Qijun Luo et.al.|[2506.03077](http://arxiv.org/abs/2506.03077)|null|
+|**2025-06-03**|**Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers**|Pengtao Chen et.al.|[2506.03065](http://arxiv.org/abs/2506.03065)|null|
+|**2025-06-03**|**METok: Multi-Stage Event-based Token Compression for Efficient Long Video Understanding**|Mengyue Wang et.al.|[2506.02850](http://arxiv.org/abs/2506.02850)|null|
+|**2025-06-03**|**Reuse or Generate? Accelerating Code Editing via Edit-Oriented Speculative Decoding**|Peiding Wang et.al.|[2506.02780](http://arxiv.org/abs/2506.02780)|null|
+|**2025-06-03**|**MotionRAG-Diff: A Retrieval-Augmented Diffusion Framework for Long-Term Music-to-Dance Generation**|Mingyang Huang et.al.|[2506.02661](http://arxiv.org/abs/2506.02661)|null|
+|**2025-06-03**|**KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider**|Jiahao Wang et.al.|[2506.02634](http://arxiv.org/abs/2506.02634)|null|
+|**2025-06-03**|**Hardware-Centric Analysis of DeepSeek's Multi-Head Latent Attention**|Robin Geens et.al.|[2506.02523](http://arxiv.org/abs/2506.02523)|null|
+|**2025-06-03**|**Think Twice, Act Once: A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making**|Xu Wan et.al.|[2506.02522](http://arxiv.org/abs/2506.02522)|null|
+|**2025-06-03**|**LumosFlow: Motion-Guided Long Video Generation**|Jiahao Chen et.al.|[2506.02497](http://arxiv.org/abs/2506.02497)|null|
+|**2025-06-02**|**Esoteric Language Models**|Subham Sekhar Sahoo et.al.|[2506.01928](http://arxiv.org/abs/2506.01928)|null|
+|**2025-06-02**|**DiffuseSlide: Training-Free High Frame Rate Video Generation Diffusion**|Geunmin Hwang et.al.|[2506.01454](http://arxiv.org/abs/2506.01454)|null|
+|**2025-06-01**|**Compress, Gather, and Recompute: REFORMing Long-Context Processing in Transformers**|Woomin Song et.al.|[2506.01215](http://arxiv.org/abs/2506.01215)|null|
+|**2025-05-31**|**Blending Complementary Memory Systems in Hybrid Quadratic-Linear Transformers**|Kazuki Irie et.al.|[2506.00744](http://arxiv.org/abs/2506.00744)|null|
+|**2025-05-31**|**Accelerating Diffusion LLMs via Adaptive Parallel Decoding**|Daniel Israel et.al.|[2506.00413](http://arxiv.org/abs/2506.00413)|null|
 |**2025-05-30**|**Inference Acceleration of Autoregressive Normalizing Flows by Selective Jacobi Decoding**|Jiaru Zhang et.al.|[2505.24791](http://arxiv.org/abs/2505.24791)|null|
 |**2025-05-30**|**HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts**|Neil He et.al.|[2505.24722](http://arxiv.org/abs/2505.24722)|null|
 |**2025-06-02**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
@@ -552,6 +567,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**HaploOmni: Unified Single Transformer for Multimodal Video Understanding and Generation**|Yicheng Xiao et.al.|[2506.02975](http://arxiv.org/abs/2506.02975)|null|
+|**2025-06-03**|**Minos: A Multimodal Evaluation Model for Bidirectional Generation Between Image and Text**|Junzhe Zhang et.al.|[2506.02494](http://arxiv.org/abs/2506.02494)|null|
+|**2025-05-28**|**Research on Driving Scenario Technology Based on Multimodal Large Lauguage Model Optimization**|Wang Mengjie et.al.|[2506.02014](http://arxiv.org/abs/2506.02014)|null|
+|**2025-06-02**|**Zoom-Refine: Boosting High-Resolution Multimodal Understanding via Localized Zoom and Self-Refinement**|Xuan Yu et.al.|[2506.01663](http://arxiv.org/abs/2506.01663)|null|
+|**2025-06-02**|**SAM2-LOVE: Segment Anything Model 2 in Language-aided Audio-Visual Scenes**|Yuji Wang et.al.|[2506.01558](http://arxiv.org/abs/2506.01558)|null|
+|**2025-06-01**|**Speaking Beyond Language: A Large-Scale Multimodal Dataset for Learning Nonverbal Cues from Video-Grounded Dialogues**|Youngmin Kim et.al.|[2506.00958](http://arxiv.org/abs/2506.00958)|null|
+|**2025-05-30**|**Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces**|Gen Luo et.al.|[2506.00123](http://arxiv.org/abs/2506.00123)|null|
 |**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876](http://arxiv.org/abs/2505.24876)|null|
 |**2025-05-30**|**D2AF: A Dual-Driven Annotation and Filtering Framework for Visual Grounding**|Yichi Zhang et.al.|[2505.24372](http://arxiv.org/abs/2505.24372)|null|
 |**2025-05-30**|**CSVQA: A Chinese Multimodal Benchmark for Evaluating STEM Reasoning Capabilities of VLMs**|Ai Jian et.al.|[2505.24120](http://arxiv.org/abs/2505.24120)|null|
@@ -777,6 +799,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-02**|**TAH-QUANT: Effective Activation Quantization in Pipeline Parallelism over Slow Network**|Guangxin He et.al.|[2506.01352](http://arxiv.org/abs/2506.01352)|null|
+|**2025-06-02**|**Protocol Models: Scaling Decentralized Training with Communication-Efficient Model Parallelism**|Sameera Ramasinghe et.al.|[2506.01260](http://arxiv.org/abs/2506.01260)|null|
+|**2025-05-13**|**AI Accelerators for Large Language Model In-ference: Architecture Analysis and Scaling Strategies**|Amit Sharma et.al.|[2506.00008](http://arxiv.org/abs/2506.00008)|null|
 |**2025-05-29**|**Critical Batch Size Revisited: A Simple Empirical Approach to Large-Batch Language Model Training**|William Merrill et.al.|[2505.23971](http://arxiv.org/abs/2505.23971)|null|
 |**2025-05-29**|**Accelerating AllReduce with a Persistent Straggler**|Arjun Devraj et.al.|[2505.23523](http://arxiv.org/abs/2505.23523)|**[link](https://github.com/arjundevraj/stragglar)**|
 |**2025-05-28**|**Profiling and optimization of multi-card GPU machine learning jobs**|Marcin Lawenda et.al.|[2505.22905](http://arxiv.org/abs/2505.22905)|null|
