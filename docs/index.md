@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.03
+## Updated on 2025.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -20,7 +20,7 @@ layout: default
 |**2025-05-30**|**Speech Token Prediction via Compressed-to-fine Language Modeling for Speech Generation**|Wenrui Liu et.al.|[2505.24496](http://arxiv.org/abs/2505.24496)|null|
 |**2025-05-30**|**S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification**|Xianheng Ma et.al.|[2505.24401](http://arxiv.org/abs/2505.24401)|null|
 |**2025-05-30**|**ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration**|Xianglong Yan et.al.|[2505.24357](http://arxiv.org/abs/2505.24357)|null|
-|**2025-05-30**|**R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration**|Zefan Cai et.al.|[2505.24133](http://arxiv.org/abs/2505.24133)|null|
+|**2025-06-03**|**R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration**|Zefan Cai et.al.|[2505.24133](http://arxiv.org/abs/2505.24133)|null|
 |**2025-05-30**|**SkyLB: A Locality-Aware Cross-Region Load Balancer for LLM Inference**|Tian Xia et.al.|[2505.24095](http://arxiv.org/abs/2505.24095)|null|
 |**2025-05-29**|**EmbAdvisor: Adaptive Cache Management for Sustainable LLM Serving**|Yuyang Tian et.al.|[2505.23970](http://arxiv.org/abs/2505.23970)|null|
 |**2025-05-29**|**REOrdering Patches Improves Vision Models**|Declan Kutscher et.al.|[2505.23751](http://arxiv.org/abs/2505.23751)|null|
@@ -559,7 +559,7 @@ layout: default
 |**2025-05-27**|**PreGenie: An Agentic Framework for High-quality Visual Presentation Generation**|Xiaojie Xu et.al.|[2505.21660](http://arxiv.org/abs/2505.21660)|null|
 |**2025-05-27**|**Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused Ultrasound Ablation Surgery**|Lina Zhao et.al.|[2505.21418](http://arxiv.org/abs/2505.21418)|null|
 |**2025-05-27**|**Fork-Merge Decoding: Enhancing Multimodal Understanding in Audio-Visual Large Language Models**|Chaeyoung Jung et.al.|[2505.20873](http://arxiv.org/abs/2505.20873)|null|
-|**2025-05-27**|**Dynamic-I2V: Exploring Image-to-Video Generation Models via Multimodal LLM**|Peng Liu et.al.|[2505.19901](http://arxiv.org/abs/2505.19901)|null|
+|**2025-06-03**|**Dynamic-I2V: Exploring Image-to-Video Generation Models via Multimodal LLM**|Peng Liu et.al.|[2505.19901](http://arxiv.org/abs/2505.19901)|null|
 |**2025-05-26**|**FlowCut: Rethinking Redundancy via Information Flow for Efficient Vision-Language Models**|Jintao Tong et.al.|[2505.19536](http://arxiv.org/abs/2505.19536)|**[link](https://github.com/tungchintao/flowcut)**|
 |**2025-05-25**|**ReFineVLA: Reasoning-Aware Teacher-Guided Transfer Fine-Tuning**|Tuan Van Vo et.al.|[2505.19080](http://arxiv.org/abs/2505.19080)|null|
 |**2025-05-25**|**STRICT: Stress Test of Rendering Images Containing Text**|Tianyu Zhang et.al.|[2505.18985](http://arxiv.org/abs/2505.18985)|**[link](https://github.com/tianyu-z/strict-bench)**|
