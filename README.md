@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Rectified Sparse Attention**|Yutao Sun et.al.|[2506.04108](http://arxiv.org/abs/2506.04108)|null|
+|**2025-06-04**|**AhaKV: Adaptive Holistic Attention-Driven KV Cache Eviction for Efficient Inference of Large Language Models**|Yifeng Gu et.al.|[2506.03762](http://arxiv.org/abs/2506.03762)|null|
+|**2025-06-04**|**MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval**|Xinru Ying et.al.|[2506.03473](http://arxiv.org/abs/2506.03473)|null|
+|**2025-06-03**|**Parallel CPU-GPU Execution for LLM Inference on Constrained GPUs**|Jiakun Fan et.al.|[2506.03296](http://arxiv.org/abs/2506.03296)|null|
 |**2025-06-03**|**InterMamba: Efficient Human-Human Interaction Generation with Adaptive Spatio-Temporal Mamba**|Zizhao Wu et.al.|[2506.03084](http://arxiv.org/abs/2506.03084)|null|
 |**2025-06-03**|**StreamBP: Memory-Efficient Exact Backpropagation for Long Sequence Training of LLMs**|Qijun Luo et.al.|[2506.03077](http://arxiv.org/abs/2506.03077)|null|
 |**2025-06-03**|**Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers**|Pengtao Chen et.al.|[2506.03065](http://arxiv.org/abs/2506.03065)|null|
@@ -567,6 +571,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models**|Jia Fu et.al.|[2506.03933](http://arxiv.org/abs/2506.03933)|null|
+|**2025-06-04**|**Resolving Task Objective Conflicts in Unified Multimodal Understanding and Generation via Task-Aware Mixture-of-Experts**|Jiaxing Zhang et.al.|[2506.03591](http://arxiv.org/abs/2506.03591)|null|
+|**2025-05-31**|**Multimodal Generative AI with Autoregressive LLMs for Human Motion Understanding and Generation: A Way Forward**|Muhammad Islam et.al.|[2506.03191](http://arxiv.org/abs/2506.03191)|null|
 |**2025-06-03**|**HaploOmni: Unified Single Transformer for Multimodal Video Understanding and Generation**|Yicheng Xiao et.al.|[2506.02975](http://arxiv.org/abs/2506.02975)|null|
 |**2025-06-03**|**Minos: A Multimodal Evaluation Model for Bidirectional Generation Between Image and Text**|Junzhe Zhang et.al.|[2506.02494](http://arxiv.org/abs/2506.02494)|null|
 |**2025-05-28**|**Research on Driving Scenario Technology Based on Multimodal Large Lauguage Model Optimization**|Wang Mengjie et.al.|[2506.02014](http://arxiv.org/abs/2506.02014)|null|
