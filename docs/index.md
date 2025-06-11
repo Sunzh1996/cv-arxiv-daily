@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -823,7 +823,7 @@ layout: default
 |**2025-06-06**|**LLIA -- Enabling Low-Latency Interactive Avatars: Real-Time Audio-Driven Portrait Video Generation with Diffusion Models**|Haojie Yu et.al.|[2506.05806](http://arxiv.org/abs/2506.05806)|null|
 |**2025-06-02**|**TAH-QUANT: Effective Activation Quantization in Pipeline Parallelism over Slow Network**|Guangxin He et.al.|[2506.01352](http://arxiv.org/abs/2506.01352)|null|
 |**2025-06-02**|**Protocol Models: Scaling Decentralized Training with Communication-Efficient Model Parallelism**|Sameera Ramasinghe et.al.|[2506.01260](http://arxiv.org/abs/2506.01260)|null|
-|**2025-05-13**|**AI Accelerators for Large Language Model In-ference: Architecture Analysis and Scaling Strategies**|Amit Sharma et.al.|[2506.00008](http://arxiv.org/abs/2506.00008)|null|
+|**2025-05-13**|**AI Accelerators for Large Language Model Inference: Architecture Analysis and Scaling Strategies**|Amit Sharma et.al.|[2506.00008](http://arxiv.org/abs/2506.00008)|null|
 |**2025-05-29**|**Critical Batch Size Revisited: A Simple Empirical Approach to Large-Batch Language Model Training**|William Merrill et.al.|[2505.23971](http://arxiv.org/abs/2505.23971)|null|
 |**2025-05-29**|**Accelerating AllReduce with a Persistent Straggler**|Arjun Devraj et.al.|[2505.23523](http://arxiv.org/abs/2505.23523)|**[link](https://github.com/arjundevraj/stragglar)**|
 |**2025-05-28**|**Profiling and optimization of multi-card GPU machine learning jobs**|Marcin Lawenda et.al.|[2505.22905](http://arxiv.org/abs/2505.22905)|null|
