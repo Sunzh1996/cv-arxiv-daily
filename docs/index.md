@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -589,7 +589,7 @@ layout: default
 |**2025-06-09**|**Serendipitous Recommendation with Multimodal LLM**|Haoting Wang et.al.|[2506.08283](http://arxiv.org/abs/2506.08283)|null|
 |**2025-06-09**|**EconWebArena: Benchmarking Autonomous Agents on Economic Tasks in Realistic Web Environments**|Zefang Liu et.al.|[2506.08136](http://arxiv.org/abs/2506.08136)|null|
 |**2025-06-09**|**MADFormer: Mixed Autoregressive and Diffusion Transformers for Continuous Image Generation**|Junhao Chen et.al.|[2506.07999](http://arxiv.org/abs/2506.07999)|null|
-|**2025-06-09**|**Reinforcing Multimodal Understanding and Generation with Dual Self-rewards**|Jixiang Hong et.al.|[2506.07963](http://arxiv.org/abs/2506.07963)|null|
+|**2025-06-12**|**Reinforcing Multimodal Understanding and Generation with Dual Self-rewards**|Jixiang Hong et.al.|[2506.07963](http://arxiv.org/abs/2506.07963)|null|
 |**2025-06-08**|**LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer**|Ying Shen et.al.|[2506.06952](http://arxiv.org/abs/2506.06952)|null|
 |**2025-06-09**|**Heartcare Suite: Multi-dimensional Understanding of ECG with Raw Multi-lead Signal Modeling**|Yihan Xie et.al.|[2506.05831](http://arxiv.org/abs/2506.05831)|null|
 |**2025-06-06**|**MoralCLIP: Contrastive Alignment of Vision-and-Language Representations with Moral Foundations Theory**|Ana Carolina Condez et.al.|[2506.05696](http://arxiv.org/abs/2506.05696)|null|
