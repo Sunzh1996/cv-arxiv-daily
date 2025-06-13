@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Revisiting Transformers with Insights from Image Filtering**|Laziz U. Abdullaev et.al.|[2506.10371](http://arxiv.org/abs/2506.10371)|null|
+|**2025-06-11**|**Attention on flow control: transformer-based reinforcement learning for lift regulation in highly disturbed flows**|Zhecheng Liu et.al.|[2506.10153](http://arxiv.org/abs/2506.10153)|null|
+|**2025-06-11**|**EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models**|Yantai Yang et.al.|[2506.10100](http://arxiv.org/abs/2506.10100)|null|
 |**2025-06-11**|**Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation**|Shanchuan Lin et.al.|[2506.09350](http://arxiv.org/abs/2506.09350)|null|
 |**2025-06-11**|**Latent Multi-Head Attention for Small Language Models**|Sushant Mehta et.al.|[2506.09342](http://arxiv.org/abs/2506.09342)|null|
 |**2025-06-10**|**FlagEvalMM: A Flexible Framework for Comprehensive Multimodal Model Evaluation**|Zheqi He et.al.|[2506.09081](http://arxiv.org/abs/2506.09081)|null|
@@ -584,6 +587,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Magistral**|Mistral-AI et.al.|[2506.10910](http://arxiv.org/abs/2506.10910)|null|
+|**2025-06-12**|**CogStream: Context-guided Streaming Video Question Answering**|Zicheng Zhao et.al.|[2506.10516](http://arxiv.org/abs/2506.10516)|null|
+|**2025-06-12**|**Pisces: An Auto-regressive Foundation Model for Image Understanding and Generation**|Zhiyang Xu et.al.|[2506.10395](http://arxiv.org/abs/2506.10395)|null|
+|**2025-06-11**|**A Navigation Framework Utilizing Vision-Language Models**|Yicheng Duan et.al.|[2506.10172](http://arxiv.org/abs/2506.10172)|null|
 |**2025-06-11**|**A High-Quality Dataset and Reliable Evaluation for Interleaved Image-Text Generation**|Yukang Feng et.al.|[2506.09427](http://arxiv.org/abs/2506.09427)|null|
 |**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040](http://arxiv.org/abs/2506.09040)|null|
 |**2025-06-09**|**Serendipitous Recommendation with Multimodal LLM**|Haoting Wang et.al.|[2506.08283](http://arxiv.org/abs/2506.08283)|null|
@@ -829,6 +836,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**NoLoCo: No-all-reduce Low Communication Training Method for Large Models**|Jari Kolehmainen et.al.|[2506.10911](http://arxiv.org/abs/2506.10911)|null|
+|**2025-06-12**|**TD-Pipe: Temporally-Disaggregated Pipeline Parallelism Architecture for High-Throughput LLM Inference**|Hongbin Zhang et.al.|[2506.10470](http://arxiv.org/abs/2506.10470)|null|
 |**2025-06-11**|**Low-resource domain adaptation while minimizing energy and hardware resource consumption**|Hernán Maina et.al.|[2506.08433](http://arxiv.org/abs/2506.08433)|null|
 |**2025-06-06**|**LLIA -- Enabling Low-Latency Interactive Avatars: Real-Time Audio-Driven Portrait Video Generation with Diffusion Models**|Haojie Yu et.al.|[2506.05806](http://arxiv.org/abs/2506.05806)|null|
 |**2025-06-02**|**TAH-QUANT: Effective Activation Quantization in Pipeline Parallelism over Slow Network**|Guangxin He et.al.|[2506.01352](http://arxiv.org/abs/2506.01352)|null|
