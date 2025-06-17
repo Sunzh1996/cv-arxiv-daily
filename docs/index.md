@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**|Wenxuan Song et.al.|[2506.13725](http://arxiv.org/abs/2506.13725)|null|
+|**2025-06-16**|**Mixture of Weight-shared Heterogeneous Group Attention Experts for Dynamic Token-wise KV Optimization**|Guanghui Song et.al.|[2506.13541](http://arxiv.org/abs/2506.13541)|null|
+|**2025-06-16**|**Multipole Attention for Efficient Long Context Reasoning**|Coleman Hooper et.al.|[2506.13059](http://arxiv.org/abs/2506.13059)|null|
+|**2025-06-14**|**An Exploration of Mamba for Speech Self-Supervised Models**|Tzu-Quan Lin et.al.|[2506.12606](http://arxiv.org/abs/2506.12606)|null|
+|**2025-06-14**|**Generalizable Trajectory Prediction via Inverse Reinforcement Learning with Mamba-Graph Architecture**|Wenyun Li et.al.|[2506.12474](http://arxiv.org/abs/2506.12474)|null|
 |**2025-06-13**|**Beyond Homogeneous Attention: Memory-Efficient LLMs via Fourier-Approximated KV Cache**|Xiaoran Liu et.al.|[2506.11886](http://arxiv.org/abs/2506.11886)|null|
 |**2025-06-13**|**Efficient Long-Context LLM Inference via KV Cache Clustering**|Jie Hu et.al.|[2506.11418](http://arxiv.org/abs/2506.11418)|null|
 |**2025-06-12**|**SwiftSpec: Ultra-Low Latency LLM Decoding by Scaling Asynchronous Speculative Decoding**|Ziyi Zhang et.al.|[2506.11309](http://arxiv.org/abs/2506.11309)|null|
@@ -592,6 +597,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**|Wenxuan Song et.al.|[2506.13725](http://arxiv.org/abs/2506.13725)|null|
+|**2025-06-16**|**Stress-Testing Multimodal Foundation Models for Crystallographic Reasoning**|Can Polat et.al.|[2506.13051](http://arxiv.org/abs/2506.13051)|null|
+|**2025-06-15**|**Dynamic Modality Scheduling for Multimodal Large Models via Confidence, Uncertainty, and Semantic Consistency**|Hiroshi Tanaka et.al.|[2506.12724](http://arxiv.org/abs/2506.12724)|null|
 |**2025-06-13**|**VLM@school -- Evaluation of AI image understanding on German middle school knowledge**|René Peinl et.al.|[2506.11604](http://arxiv.org/abs/2506.11604)|null|
 |**2025-06-13**|**DaMO: A Data-Efficient Multimodal Orchestrator for Temporal Reasoning with Video LLMs**|Bo-Cheng Chiu et.al.|[2506.11558](http://arxiv.org/abs/2506.11558)|null|
 |**2025-06-12**|**Magistral**|Mistral-AI et.al.|[2506.10910](http://arxiv.org/abs/2506.10910)|null|
