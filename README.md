@@ -31,7 +31,7 @@
 |**2025-06-13**|**Efficient Long-Context LLM Inference via KV Cache Clustering**|Jie Hu et.al.|[2506.11418](http://arxiv.org/abs/2506.11418)|null|
 |**2025-06-12**|**SwiftSpec: Ultra-Low Latency LLM Decoding by Scaling Asynchronous Speculative Decoding**|Ziyi Zhang et.al.|[2506.11309](http://arxiv.org/abs/2506.11309)|null|
 |**2025-06-12**|**Don't Pay Attention**|Mohammad Hammoud et.al.|[2506.11305](http://arxiv.org/abs/2506.11305)|null|
-|**2025-06-06**|**DAM: Dynamic Attention Mask for Long-Context Large Language Model Inference Acceleration**|Hanzhi Zhang et.al.|[2506.11104](http://arxiv.org/abs/2506.11104)|null|
+|**2025-06-06**|**DAM: Dynamic Attention Mask for Long-Context Large Language Model Inference Acceleration**|Hanzhi Zhang et.al.|[2506.11104](http://arxiv.org/abs/2506.11104)|**[link](https://github.com/hanzhizhang-ulrica/dam)**|
 |**2025-06-12**|**Revisiting Transformers with Insights from Image Filtering**|Laziz U. Abdullaev et.al.|[2506.10371](http://arxiv.org/abs/2506.10371)|null|
 |**2025-06-11**|**Attention on flow control: transformer-based reinforcement learning for lift regulation in highly disturbed flows**|Zhecheng Liu et.al.|[2506.10153](http://arxiv.org/abs/2506.10153)|null|
 |**2025-06-11**|**EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models**|Yantai Yang et.al.|[2506.10100](http://arxiv.org/abs/2506.10100)|null|
@@ -53,7 +53,7 @@
 |**2025-06-05**|**A Fictional Q&A Dataset for Studying Memorization and Knowledge Acquisition**|John Kirchenbauer et.al.|[2506.05639](http://arxiv.org/abs/2506.05639)|null|
 |**2025-06-04**|**Homogeneous Keys, Heterogeneous Values: Exploiting Local KV Cache Asymmetry for Long-Context LLMs**|Wanyun Cui et.al.|[2506.05410](http://arxiv.org/abs/2506.05410)|null|
 |**2025-06-05**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345](http://arxiv.org/abs/2506.05345)|null|
-|**2025-06-05**|**SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs**|Jiahui Wang et.al.|[2506.05344](http://arxiv.org/abs/2506.05344)|null|
+|**2025-06-05**|**SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs**|Jiahui Wang et.al.|[2506.05344](http://arxiv.org/abs/2506.05344)|**[link](https://github.com/cr400af-a/sparsemm)**|
 |**2025-06-05**|**TaDA: Training-free recipe for Decoding with Adaptive KV Cache Compression and Mean-centering**|Vinay Joshi et.al.|[2506.04642](http://arxiv.org/abs/2506.04642)|null|
 |**2025-06-05**|**Rectified Sparse Attention**|Yutao Sun et.al.|[2506.04108](http://arxiv.org/abs/2506.04108)|null|
 |**2025-06-04**|**AhaKV: Adaptive Holistic Attention-Driven KV Cache Eviction for Efficient Inference of Large Language Models**|Yifeng Gu et.al.|[2506.03762](http://arxiv.org/abs/2506.03762)|null|
@@ -95,7 +95,7 @@
 |**2025-05-27**|**Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**|Zhanqiu Hu et.al.|[2505.21467](http://arxiv.org/abs/2505.21467)|null|
 |**2025-05-27**|**Uncertainty Unveiled: Can Exposure to More In-context Examples Mitigate Uncertainty for Large Language Models?**|Yifei Wang et.al.|[2505.21003](http://arxiv.org/abs/2505.21003)|null|
 |**2025-05-28**|**FireQ: Fast INT4-FP8 Kernel and RoPE-aware Quantization for LLM Inference Acceleration**|Daehyeon Baek et.al.|[2505.20839](http://arxiv.org/abs/2505.20839)|null|
-|**2025-05-27**|**SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences**|Jungyoub Cha et.al.|[2505.20776](http://arxiv.org/abs/2505.20776)|null|
+|**2025-05-27**|**SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences**|Jungyoub Cha et.al.|[2505.20776](http://arxiv.org/abs/2505.20776)|**[link](https://github.com/jycha98/specextend)**|
 |**2025-05-27**|**Sparsified State-Space Models are Efficient Highway Networks**|Woomin Song et.al.|[2505.20698](http://arxiv.org/abs/2505.20698)|**[link](https://github.com/woominsong/simba)**|
 |**2025-05-27**|**Continuous-Time Attention: PDE-Guided Mechanisms for Long-Sequence Transformers**|Yukun Zhang et.al.|[2505.20666](http://arxiv.org/abs/2505.20666)|null|
 |**2025-05-27**|**Long Context Scaling: Divide and Conquer via Multi-Agent Question-driven Collaboration**|Sibo Xiao et.al.|[2505.20625](http://arxiv.org/abs/2505.20625)|null|
@@ -106,7 +106,7 @@
 |**2025-05-26**|**Memory-Efficient Visual Autoregressive Modeling with Scale-Aware KV Cache Compression**|Kunjun Li et.al.|[2505.19602](http://arxiv.org/abs/2505.19602)|**[link](https://github.com/stargazerx0/scalekv)**|
 |**2025-05-27**|**TailorKV: A Hybrid Framework for Long-Context Inference via Tailored KV Cache Optimization**|Dingyu Yao et.al.|[2505.19586](http://arxiv.org/abs/2505.19586)|**[link](https://github.com/ydyhello/tailorkv)**|
 |**2025-05-25**|**Communication-Efficient Multi-Device Inference Acceleration for Transformer Models**|Xiao Liu et.al.|[2505.19342](http://arxiv.org/abs/2505.19342)|**[link](https://github.com/xl1990/astra)**|
-|**2025-05-25**|**VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes**|Tianchen Deng et.al.|[2505.18992](http://arxiv.org/abs/2505.18992)|null|
+|**2025-05-25**|**VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes**|Tianchen Deng et.al.|[2505.18992](http://arxiv.org/abs/2505.18992)|**[link](https://github.com/dtc111111/vpgs-slam)**|
 |**2025-05-27**|**Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings**|Sarang Patil et.al.|[2505.18973](http://arxiv.org/abs/2505.18973)|**[link](https://github.com/berrybyte/him)**|
 |**2025-05-27**|**MTGR: Industrial-Scale Generative Recommendation Framework in Meituan**|Ruidong Han et.al.|[2505.18654](http://arxiv.org/abs/2505.18654)|null|
 |**2025-05-24**|**PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs**|Tengxuan Liu et.al.|[2505.18610](http://arxiv.org/abs/2505.18610)|**[link](https://github.com/thu-nics/pm-kvq)**|
@@ -496,7 +496,7 @@
 |**2024-12-24**|**Long-Form Speech Generation with Spoken Language Models**|Se Jin Park et.al.|[2412.18603](http://arxiv.org/abs/2412.18603)|**[link](https://github.com/google-deepmind/librispeech-long)**|
 |**2024-12-23**|**Token Statistics Transformer: Linear-Time Attention via Variational Rate Reduction**|Ziyang Wu et.al.|[2412.17810](http://arxiv.org/abs/2412.17810)|**[link](https://github.com/robinwu218/tost)**|
 |**2024-12-23**|**Deliberation in Latent Space via Differentiable Cache Augmentation**|Luyang Liu et.al.|[2412.17747](http://arxiv.org/abs/2412.17747)|null|
-|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|null|
+|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|**[link](https://github.com/zhaoxingZ/STVO)**|
 |**2025-01-02**|**Mamba-SEUNet: Mamba UNet for Monaural Speech Enhancement**|Junyu Wang et.al.|[2412.16626](http://arxiv.org/abs/2412.16626)|null|
 |**2024-12-21**|**Breaking the Context Bottleneck on Long Time Series Forecasting**|Chao Ma et.al.|[2412.16572](http://arxiv.org/abs/2412.16572)|**[link](https://github.com/houyikai/ldm-logsparse-decomposable-multiscaling)**|
 |**2024-12-21**|**Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models**|Zhisong Zhang et.al.|[2412.16545](http://arxiv.org/abs/2412.16545)|null|
@@ -540,7 +540,7 @@
 |**2024-12-05**|**The Hyperfitting Phenomenon: Sharpening and Stabilizing LLMs for Open-Ended Text Generation**|Fredrik Carlsson et.al.|[2412.04318](http://arxiv.org/abs/2412.04318)|null|
 |**2024-12-04**|**The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control**|Ruili Feng et.al.|[2412.03568](http://arxiv.org/abs/2412.03568)|null|
 |**2024-12-07**|**PrefixKV: Adaptive Prefix KV Cache is What Vision Instruction-Following Models Need for Efficient Generation**|Ao Wang et.al.|[2412.03409](http://arxiv.org/abs/2412.03409)|**[link](https://github.com/THU-MIG/PrefixKV)**|
-|**2024-12-04**|**ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression**|Guangda Liu et.al.|[2412.03213](http://arxiv.org/abs/2412.03213)|null|
+|**2024-12-04**|**ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression**|Guangda Liu et.al.|[2412.03213](http://arxiv.org/abs/2412.03213)|**[link](https://github.com/sjtu-zhao-lab/clusterkv)**|
 |**2024-12-04**|**Unifying KV Cache Compression for Large Language Models with LeanKV**|Yanqi Zhang et.al.|[2412.03131](http://arxiv.org/abs/2412.03131)|null|
 |**2024-12-04**|**Lightweight Multiplane Images Network for Real-Time Stereoscopic Conversion from Planar Video**|Shanding Diao et.al.|[2412.03102](http://arxiv.org/abs/2412.03102)|null|
 |**2024-12-03**|**Resource-Adaptive Successive Doubling for Hyperparameter Optimization with Large Datasets on High-Performance Computing Systems**|Marcel Aach et.al.|[2412.02729](http://arxiv.org/abs/2412.02729)|**[link](https://github.com/olympiquemarcel/rasda)**|
@@ -684,7 +684,7 @@
 |**2025-05-13**|**Uniqueness of Squeezed States for One and Two Modes, and a No-Go Beyond**|Arash Azizi et.al.|[2505.09654](http://arxiv.org/abs/2505.09654)|null|
 |**2025-05-13**|**Generative AI for Autonomous Driving: Frontiers and Opportunities**|Yuping Wang et.al.|[2505.08854](http://arxiv.org/abs/2505.08854)|**[link](https://github.com/taco-group/genai4ad)**|
 |**2025-05-13**|**Aya Vision: Advancing the Frontier of Multilingual Multimodality**|Saurabh Dash et.al.|[2505.08751](http://arxiv.org/abs/2505.08751)|null|
-|**2025-05-13**|**Ultra Lowrate Image Compression with Semantic Residual Coding and Compression-aware Diffusion**|Anle Ke et.al.|[2505.08281](http://arxiv.org/abs/2505.08281)|null|
+|**2025-05-13**|**Ultra Lowrate Image Compression with Semantic Residual Coding and Compression-aware Diffusion**|Anle Ke et.al.|[2505.08281](http://arxiv.org/abs/2505.08281)|**[link](https://github.com/NJUVISION/ResULIC)**|
 |**2025-05-06**|**Token Communication-Driven Multimodal Large Models in Resource-Constrained Multiuser Networks**|Junhe Zhang et.al.|[2505.07841](http://arxiv.org/abs/2505.07841)|**[link](https://github.com/FlyingHat404/TokCom-MLMs)**|
 |**2025-05-12**|**Gameplay Highlights Generation**|Vignesh Edithal et.al.|[2505.07721](http://arxiv.org/abs/2505.07721)|null|
 |**2025-05-12**|**Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning**|Xiaokun Wang et.al.|[2505.07263](http://arxiv.org/abs/2505.07263)|null|
