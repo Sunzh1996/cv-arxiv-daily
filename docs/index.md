@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
+|**2025-06-23**|**MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation**|Tianchen Deng et.al.|[2506.18678](http://arxiv.org/abs/2506.18678)|null|
+|**2025-06-23**|**TCDiff++: An End-to-end Trajectory-Controllable Diffusion Model for Harmonious Music-Driven Group Choreography**|Yuqin Dai et.al.|[2506.18671](http://arxiv.org/abs/2506.18671)|null|
+|**2025-06-23**|**Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation**|Xunzhi Xiang et.al.|[2506.18226](http://arxiv.org/abs/2506.18226)|null|
+|**2025-06-22**|**Routing Mamba: Scaling State Space Models with Mixture-of-Experts Projection**|Zheng Zhan et.al.|[2506.18145](http://arxiv.org/abs/2506.18145)|null|
+|**2025-06-22**|**RL for Reasoning by Adaptively Revealing Rationales**|Mohammad Hossein Amani et.al.|[2506.18110](http://arxiv.org/abs/2506.18110)|null|
+|**2025-06-22**|**PlanMoGPT: Flow-Enhanced Progressive Planning for Text to Motion Synthesis**|Chuhao Jin et.al.|[2506.17912](http://arxiv.org/abs/2506.17912)|null|
+|**2025-06-22**|**QueueEDIT: Structural Self-Correction for Sequential Model Editing in LLMs**|Taolin Zhang et.al.|[2506.17864](http://arxiv.org/abs/2506.17864)|null|
+|**2025-06-15**|**GTA: Grouped-head latenT Attention**|Luoyang Sun et.al.|[2506.17286](http://arxiv.org/abs/2506.17286)|null|
 |**2025-06-20**|**Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs?**|Adithya Bhaskar et.al.|[2506.17121](http://arxiv.org/abs/2506.17121)|null|
 |**2025-06-19**|**LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning**|Haoyue Zhang et.al.|[2506.15969](http://arxiv.org/abs/2506.15969)|null|
 |**2025-06-18**|**InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding**|Minsoo Kim et.al.|[2506.15745](http://arxiv.org/abs/2506.15745)|null|
@@ -603,6 +612,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/abs/2506.18871)|null|
+|**2025-06-22**|**ShareGPT-4o-Image: Aligning Multimodal Models with GPT-4o-Level Image Generation**|Junying Chen et.al.|[2506.18095](http://arxiv.org/abs/2506.18095)|null|
+|**2025-06-22**|**PlanMoGPT: Flow-Enhanced Progressive Planning for Text to Motion Synthesis**|Chuhao Jin et.al.|[2506.17912](http://arxiv.org/abs/2506.17912)|null|
+|**2025-06-21**|**PhysUniBench: An Undergraduate-Level Physics Reasoning Benchmark for Multimodal Models**|Lintao Wang et.al.|[2506.17667](http://arxiv.org/abs/2506.17667)|null|
 |**2025-06-20**|**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**|Zeyuan Yang et.al.|[2506.17218](http://arxiv.org/abs/2506.17218)|null|
 |**2025-06-20**|**UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation**|Teng Li et.al.|[2506.17202](http://arxiv.org/abs/2506.17202)|null|
 |**2025-06-20**|**FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation**|Fan Yang et.al.|[2506.16806](http://arxiv.org/abs/2506.16806)|null|
@@ -863,6 +876,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-21**|**Research on Model Parallelism and Data Parallelism Optimization Methods in Large Language Model-Based Recommendation Systems**|Haowei Yang et.al.|[2506.17551](http://arxiv.org/abs/2506.17551)|null|
 |**2025-06-19**|**NetSenseML: Network-Adaptive Compression for Efficient Distributed Machine Learning**|Yisu Wang et.al.|[2506.16235](http://arxiv.org/abs/2506.16235)|null|
 |**2025-06-18**|**Parallel Paradigms in Modern HPC: A Comparative Analysis of MPI, OpenMP, and CUDA**|Nizar ALHafez et.al.|[2506.15454](http://arxiv.org/abs/2506.15454)|null|
 |**2025-06-12**|**SwiftSpec: Ultra-Low Latency LLM Decoding by Scaling Asynchronous Speculative Decoding**|Ziyi Zhang et.al.|[2506.11309](http://arxiv.org/abs/2506.11309)|null|
