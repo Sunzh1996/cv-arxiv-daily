@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models**|Zeyu Li et.al.|[2506.19505](http://arxiv.org/abs/2506.19505)|null|
 |**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
 |**2025-06-23**|**MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation**|Tianchen Deng et.al.|[2506.18678](http://arxiv.org/abs/2506.18678)|null|
 |**2025-06-23**|**TCDiff++: An End-to-end Trajectory-Controllable Diffusion Model for Harmonious Music-Driven Group Choreography**|Yuqin Dai et.al.|[2506.18671](http://arxiv.org/abs/2506.18671)|null|
@@ -885,6 +886,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Tensor-Parallelism with Partially Synchronized Activations**|Itay Lamprecht et.al.|[2506.19645](http://arxiv.org/abs/2506.19645)|null|
 |**2025-06-24**|**Research on Model Parallelism and Data Parallelism Optimization Methods in Large Language Model-Based Recommendation Systems**|Haowei Yang et.al.|[2506.17551](http://arxiv.org/abs/2506.17551)|null|
 |**2025-06-19**|**NetSenseML: Network-Adaptive Compression for Efficient Distributed Machine Learning**|Yisu Wang et.al.|[2506.16235](http://arxiv.org/abs/2506.16235)|null|
 |**2025-06-18**|**Parallel Paradigms in Modern HPC: A Comparative Analysis of MPI, OpenMP, and CUDA**|Nizar ALHafez et.al.|[2506.15454](http://arxiv.org/abs/2506.15454)|null|
