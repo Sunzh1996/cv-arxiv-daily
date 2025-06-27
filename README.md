@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning**|Chuxin Wang et.al.|[2506.21541](http://arxiv.org/abs/2506.21541)|null|
 |**2025-06-25**|**EAGLE: An Efficient Global Attention Lesion Segmentation Model for Hepatic Echinococcosis**|Jiayan Chen et.al.|[2506.20333](http://arxiv.org/abs/2506.20333)|null|
 |**2025-06-25**|**Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU**|He Sun et.al.|[2506.20187](http://arxiv.org/abs/2506.20187)|null|
 |**2025-06-24**|**AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models**|Zeyu Li et.al.|[2506.19505](http://arxiv.org/abs/2506.19505)|null|
@@ -622,6 +623,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration**|Jiahe Chen et.al.|[2506.21509](http://arxiv.org/abs/2506.21509)|null|
+|**2025-06-26**|**TableMoE: Neuro-Symbolic Routing for Structured Expert Reasoning in Multimodal Table Understanding**|Junwen Zhang et.al.|[2506.21393](http://arxiv.org/abs/2506.21393)|null|
+|**2025-06-26**|**Multimodal LLMs for Visualization Reconstruction and Understanding**|Can Liu et.al.|[2506.21319](http://arxiv.org/abs/2506.21319)|null|
+|**2025-06-26**|**Instella-T2I: Pushing the Limits of 1D Discrete Latent Space Image Generation**|Ze Wang et.al.|[2506.21022](http://arxiv.org/abs/2506.21022)|null|
 |**2025-06-25**|**UniCode $^2$ : Cascaded Large-scale Codebooks for Unified Multimodal Understanding and Generation**|Yanzhe Chen et.al.|[2506.20214](http://arxiv.org/abs/2506.20214)|null|
 |**2025-06-25**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/abs/2506.18871)|null|
 |**2025-06-22**|**ShareGPT-4o-Image: Aligning Multimodal Models with GPT-4o-Level Image Generation**|Junying Chen et.al.|[2506.18095](http://arxiv.org/abs/2506.18095)|null|
@@ -889,6 +894,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Distributed Cross-Channel Hierarchical Aggregation for Foundation Models**|Aristeidis Tsaris et.al.|[2506.21411](http://arxiv.org/abs/2506.21411)|null|
+|**2025-06-26**|**DiLoCoX: A Low-Communication Large-Scale Training Framework for Decentralized Cluster**|Ji Qi et.al.|[2506.21263](http://arxiv.org/abs/2506.21263)|null|
 |**2025-06-24**|**Tensor-Parallelism with Partially Synchronized Activations**|Itay Lamprecht et.al.|[2506.19645](http://arxiv.org/abs/2506.19645)|null|
 |**2025-06-24**|**Research on Model Parallelism and Data Parallelism Optimization Methods in Large Language Model-Based Recommendation Systems**|Haowei Yang et.al.|[2506.17551](http://arxiv.org/abs/2506.17551)|null|
 |**2025-06-19**|**NetSenseML: Network-Adaptive Compression for Efficient Distributed Machine Learning**|Yisu Wang et.al.|[2506.16235](http://arxiv.org/abs/2506.16235)|null|
