@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-30**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986](http://arxiv.org/abs/2506.23986)|null|
+|**2025-07-01**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986](http://arxiv.org/abs/2506.23986)|null|
 |**2025-06-30**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858](http://arxiv.org/abs/2506.23858)|null|
 |**2025-06-29**|**TOMI: Transforming and Organizing Music Ideas for Multi-Track Compositions with Full-Song Structure**|Qi He et.al.|[2506.23094](http://arxiv.org/abs/2506.23094)|null|
 |**2025-06-28**|**VSRM: A Robust Mamba-Based Framework for Video Super-Resolution**|Dinh Phu Tran et.al.|[2506.22762](http://arxiv.org/abs/2506.22762)|null|
@@ -27,7 +27,7 @@
 |**2025-06-27**|**SiPipe: Bridging the CPU-GPU Utilization Gap for Efficient Pipeline-Parallel LLM Inference**|Yongchao He et.al.|[2506.22033](http://arxiv.org/abs/2506.22033)|null|
 |**2025-06-26**|**TUS-REC2024: A Challenge to Reconstruct 3D Freehand Ultrasound Without External Tracker**|Qi Li et.al.|[2506.21765](http://arxiv.org/abs/2506.21765)|null|
 |**2025-06-26**|**FOCUS: Internal MLLM Representations for Efficient Fine-Grained Visual Question Answering**|Liangyu Zhong et.al.|[2506.21710](http://arxiv.org/abs/2506.21710)|null|
-|**2025-06-26**|**StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning**|Chuxin Wang et.al.|[2506.21541](http://arxiv.org/abs/2506.21541)|null|
+|**2025-07-01**|**StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning**|Chuxin Wang et.al.|[2506.21541](http://arxiv.org/abs/2506.21541)|null|
 |**2025-06-25**|**EAGLE: An Efficient Global Attention Lesion Segmentation Model for Hepatic Echinococcosis**|Jiayan Chen et.al.|[2506.20333](http://arxiv.org/abs/2506.20333)|null|
 |**2025-06-25**|**Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU**|He Sun et.al.|[2506.20187](http://arxiv.org/abs/2506.20187)|null|
 |**2025-06-24**|**AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models**|Zeyu Li et.al.|[2506.19505](http://arxiv.org/abs/2506.19505)|null|
@@ -625,18 +625,18 @@
 |**2024-11-01**|**MoNTA: Accelerating Mixture-of-Experts Training with Network-Traffc-Aware Parallel Optimization**|Jingming Guo et.al.|[2411.00662](http://arxiv.org/abs/2411.00662)|**[link](https://github.com/enflametechnology/deepspeed)**|
 |**2024-11-01**|**Constrained Diffusion Implicit Models**|Vivek Jayaram et.al.|[2411.00359](http://arxiv.org/abs/2411.00359)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## MLLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-30**|**Unified Multimodal Understanding via Byte-Pair Visual Encoding**|Wanpeng Zhang et.al.|[2506.23639](http://arxiv.org/abs/2506.23639)|null|
-|**2025-06-29**|**Ovis-U1 Technical Report**|Guo-Hua Wang et.al.|[2506.23044](http://arxiv.org/abs/2506.23044)|null|
+|**2025-07-01**|**Ovis-U1 Technical Report**|Guo-Hua Wang et.al.|[2506.23044](http://arxiv.org/abs/2506.23044)|null|
 |**2025-06-19**|**Evaluating VisualRAG: Quantifying Cross-Modal Performance in Enterprise Document Understanding**|Varun Mannam et.al.|[2506.21604](http://arxiv.org/abs/2506.21604)|null|
 |**2025-06-26**|**Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration**|Jiahe Chen et.al.|[2506.21509](http://arxiv.org/abs/2506.21509)|null|
 |**2025-06-26**|**TableMoE: Neuro-Symbolic Routing for Structured Expert Reasoning in Multimodal Table Understanding**|Junwen Zhang et.al.|[2506.21393](http://arxiv.org/abs/2506.21393)|null|
-|**2025-06-26**|**Multimodal LLMs for Visualization Reconstruction and Understanding**|Can Liu et.al.|[2506.21319](http://arxiv.org/abs/2506.21319)|null|
+|**2025-07-01**|**A Dataset for Enhancing MLLMs in Visualization Understanding and Reconstruction**|Can Liu et.al.|[2506.21319](http://arxiv.org/abs/2506.21319)|null|
 |**2025-06-26**|**Instella-T2I: Pushing the Limits of 1D Discrete Latent Space Image Generation**|Ze Wang et.al.|[2506.21022](http://arxiv.org/abs/2506.21022)|null|
 |**2025-06-25**|**UniCode $^2$ : Cascaded Large-scale Codebooks for Unified Multimodal Understanding and Generation**|Yanzhe Chen et.al.|[2506.20214](http://arxiv.org/abs/2506.20214)|null|
 |**2025-06-25**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/abs/2506.18871)|null|
@@ -899,7 +899,7 @@
 |**2024-11-21**|**On the Fairness, Diversity and Reliability of Text-to-Image Generative Models**|Jordan Vice et.al.|[2411.13981](http://arxiv.org/abs/2411.13981)|null|
 |**2024-11-18**|**CCExpert: Advancing MLLM Capability in Remote Sensing Change Captioning with Difference-Aware Integration and a Foundational Dataset**|Zhiming Wang et.al.|[2411.11360](http://arxiv.org/abs/2411.11360)|**[link](https://github.com/meize0729/ccexpert)**|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Train and Infer
 
@@ -1064,7 +1064,7 @@
 |**2024-11-05**|**SimpleFSDP: Simpler Fully Sharded Data Parallel with torch.compile**|Ruisi Zhang et.al.|[2411.00284](http://arxiv.org/abs/2411.00284)|null|
 |**2024-11-08**|**How Does Critical Batch Size Scale in Pre-training?**|Hanlin Zhang et.al.|[2410.21676](http://arxiv.org/abs/2410.21676)|**[link](https://github.com/hlzhang109/critical-batch-size)**|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

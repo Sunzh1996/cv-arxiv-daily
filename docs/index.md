@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-30**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986](http://arxiv.org/abs/2506.23986)|null|
+|**2025-07-01**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986](http://arxiv.org/abs/2506.23986)|null|
 |**2025-06-30**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858](http://arxiv.org/abs/2506.23858)|null|
 |**2025-06-29**|**TOMI: Transforming and Organizing Music Ideas for Multi-Track Compositions with Full-Song Structure**|Qi He et.al.|[2506.23094](http://arxiv.org/abs/2506.23094)|null|
 |**2025-06-28**|**VSRM: A Robust Mamba-Based Framework for Video Super-Resolution**|Dinh Phu Tran et.al.|[2506.22762](http://arxiv.org/abs/2506.22762)|null|
@@ -22,7 +22,7 @@ layout: default
 |**2025-06-27**|**SiPipe: Bridging the CPU-GPU Utilization Gap for Efficient Pipeline-Parallel LLM Inference**|Yongchao He et.al.|[2506.22033](http://arxiv.org/abs/2506.22033)|null|
 |**2025-06-26**|**TUS-REC2024: A Challenge to Reconstruct 3D Freehand Ultrasound Without External Tracker**|Qi Li et.al.|[2506.21765](http://arxiv.org/abs/2506.21765)|null|
 |**2025-06-26**|**FOCUS: Internal MLLM Representations for Efficient Fine-Grained Visual Question Answering**|Liangyu Zhong et.al.|[2506.21710](http://arxiv.org/abs/2506.21710)|null|
-|**2025-06-26**|**StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning**|Chuxin Wang et.al.|[2506.21541](http://arxiv.org/abs/2506.21541)|null|
+|**2025-07-01**|**StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning**|Chuxin Wang et.al.|[2506.21541](http://arxiv.org/abs/2506.21541)|null|
 |**2025-06-25**|**EAGLE: An Efficient Global Attention Lesion Segmentation Model for Hepatic Echinococcosis**|Jiayan Chen et.al.|[2506.20333](http://arxiv.org/abs/2506.20333)|null|
 |**2025-06-25**|**Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU**|He Sun et.al.|[2506.20187](http://arxiv.org/abs/2506.20187)|null|
 |**2025-06-24**|**AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models**|Zeyu Li et.al.|[2506.19505](http://arxiv.org/abs/2506.19505)|null|
@@ -625,11 +625,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-30**|**Unified Multimodal Understanding via Byte-Pair Visual Encoding**|Wanpeng Zhang et.al.|[2506.23639](http://arxiv.org/abs/2506.23639)|null|
-|**2025-06-29**|**Ovis-U1 Technical Report**|Guo-Hua Wang et.al.|[2506.23044](http://arxiv.org/abs/2506.23044)|null|
+|**2025-07-01**|**Ovis-U1 Technical Report**|Guo-Hua Wang et.al.|[2506.23044](http://arxiv.org/abs/2506.23044)|null|
 |**2025-06-19**|**Evaluating VisualRAG: Quantifying Cross-Modal Performance in Enterprise Document Understanding**|Varun Mannam et.al.|[2506.21604](http://arxiv.org/abs/2506.21604)|null|
 |**2025-06-26**|**Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration**|Jiahe Chen et.al.|[2506.21509](http://arxiv.org/abs/2506.21509)|null|
 |**2025-06-26**|**TableMoE: Neuro-Symbolic Routing for Structured Expert Reasoning in Multimodal Table Understanding**|Junwen Zhang et.al.|[2506.21393](http://arxiv.org/abs/2506.21393)|null|
-|**2025-06-26**|**Multimodal LLMs for Visualization Reconstruction and Understanding**|Can Liu et.al.|[2506.21319](http://arxiv.org/abs/2506.21319)|null|
+|**2025-07-01**|**A Dataset for Enhancing MLLMs in Visualization Understanding and Reconstruction**|Can Liu et.al.|[2506.21319](http://arxiv.org/abs/2506.21319)|null|
 |**2025-06-26**|**Instella-T2I: Pushing the Limits of 1D Discrete Latent Space Image Generation**|Ze Wang et.al.|[2506.21022](http://arxiv.org/abs/2506.21022)|null|
 |**2025-06-25**|**UniCode $^2$ : Cascaded Large-scale Codebooks for Unified Multimodal Understanding and Generation**|Yanzhe Chen et.al.|[2506.20214](http://arxiv.org/abs/2506.20214)|null|
 |**2025-06-25**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/abs/2506.18871)|null|
