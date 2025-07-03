@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2025-06-26**|**FOCUS: Internal MLLM Representations for Efficient Fine-Grained Visual Question Answering**|Liangyu Zhong et.al.|[2506.21710](http://arxiv.org/abs/2506.21710)|null|
 |**2025-07-01**|**StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning**|Chuxin Wang et.al.|[2506.21541](http://arxiv.org/abs/2506.21541)|null|
 |**2025-06-25**|**EAGLE: An Efficient Global Attention Lesion Segmentation Model for Hepatic Echinococcosis**|Jiayan Chen et.al.|[2506.20333](http://arxiv.org/abs/2506.20333)|null|
-|**2025-06-25**|**Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU**|He Sun et.al.|[2506.20187](http://arxiv.org/abs/2506.20187)|null|
+|**2025-07-02**|**Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU**|He Sun et.al.|[2506.20187](http://arxiv.org/abs/2506.20187)|null|
 |**2025-06-24**|**AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models**|Zeyu Li et.al.|[2506.19505](http://arxiv.org/abs/2506.19505)|null|
 |**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
 |**2025-06-23**|**MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation**|Tianchen Deng et.al.|[2506.18678](http://arxiv.org/abs/2506.18678)|null|
@@ -625,7 +625,7 @@
 |**2024-11-01**|**MoNTA: Accelerating Mixture-of-Experts Training with Network-Traffc-Aware Parallel Optimization**|Jingming Guo et.al.|[2411.00662](http://arxiv.org/abs/2411.00662)|**[link](https://github.com/enflametechnology/deepspeed)**|
 |**2024-11-01**|**Constrained Diffusion Implicit Models**|Vivek Jayaram et.al.|[2411.00359](http://arxiv.org/abs/2411.00359)|null|
 
-<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
 
 ## MLLM
 
@@ -899,7 +899,7 @@
 |**2024-11-21**|**On the Fairness, Diversity and Reliability of Text-to-Image Generative Models**|Jordan Vice et.al.|[2411.13981](http://arxiv.org/abs/2411.13981)|null|
 |**2024-11-18**|**CCExpert: Advancing MLLM Capability in Remote Sensing Change Captioning with Difference-Aware Integration and a Foundational Dataset**|Zhiming Wang et.al.|[2411.11360](http://arxiv.org/abs/2411.11360)|**[link](https://github.com/meize0729/ccexpert)**|
 
-<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
 
 ## Train and Infer
 
@@ -1064,7 +1064,7 @@
 |**2024-11-05**|**SimpleFSDP: Simpler Fully Sharded Data Parallel with torch.compile**|Ruisi Zhang et.al.|[2411.00284](http://arxiv.org/abs/2411.00284)|null|
 |**2024-11-08**|**How Does Critical Batch Size Scale in Pre-training?**|Hanlin Zhang et.al.|[2410.21676](http://arxiv.org/abs/2410.21676)|**[link](https://github.com/hlzhang109/critical-batch-size)**|
 
-<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
