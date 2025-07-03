@@ -14,6 +14,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Low-Perplexity LLM-Generated Sequences and Where To Find Them**|Arthur Wuhrmann et.al.|[2507.01844](http://arxiv.org/abs/2507.01844)|null|
+|**2025-07-02**|**TrackingMiM: Efficient Mamba-in-Mamba Serialization for Real-time UAV Object Tracking**|Bingxi Liu et.al.|[2507.01535](http://arxiv.org/abs/2507.01535)|null|
+|**2025-07-02**|**LogitSpec: Accelerating Retrieval-based Speculative Decoding via Next Next Token Speculation**|Tianyu Liu et.al.|[2507.01449](http://arxiv.org/abs/2507.01449)|null|
+|**2025-07-02**|**La RoSA: Enhancing LLM Efficiency via Layerwise Rotated Sparse Activation**|Kai Liu et.al.|[2507.01299](http://arxiv.org/abs/2507.01299)|null|
+|**2025-06-30**|**Evaluation of a Foundational Model and Stochastic Models for Forecasting Sporadic or Spiky Production Outages of High-Performance Machine Learning Services**|Keun Soo Yim et.al.|[2507.01067](http://arxiv.org/abs/2507.01067)|null|
+|**2025-06-27**|**Long-Sequence Memory with Temporal Kernels and Dense Hopfield Functionals**|Ahmed Farooq et.al.|[2507.01052](http://arxiv.org/abs/2507.01052)|null|
+|**2025-07-02**|**ZeCO: Zero Communication Overhead Sequence Parallelism for Linear Attention**|Yuhong Chou et.al.|[2507.01004](http://arxiv.org/abs/2507.01004)|null|
+|**2025-07-01**|**VEDA: Efficient LLM Generation Through Voting-based KV Cache Eviction and Dataflow-flexible Accelerator**|Zhican Wang et.al.|[2507.00797](http://arxiv.org/abs/2507.00797)|null|
+|**2025-07-01**|**EARN: Efficient Inference Acceleration for LLM-based Generative Recommendation by Register Tokens**|Chaoqun Yang et.al.|[2507.00715](http://arxiv.org/abs/2507.00715)|null|
+|**2025-07-01**|**HelixPipe: Efficient Distributed Training of Long Sequence Transformers with Attention Parallel Pipeline Parallelism**|Geng Zhang et.al.|[2507.00394](http://arxiv.org/abs/2507.00394)|null|
+|**2025-06-28**|**MANTA: Cross-Modal Semantic Alignment and Information-Theoretic Optimization for Long-form Multimodal Understanding**|Ziqi Zhong et.al.|[2507.00068](http://arxiv.org/abs/2507.00068)|null|
 |**2025-07-01**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986](http://arxiv.org/abs/2506.23986)|null|
 |**2025-06-30**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858](http://arxiv.org/abs/2506.23858)|null|
 |**2025-06-29**|**TOMI: Transforming and Organizing Music Ideas for Multi-Track Compositions with Full-Song Structure**|Qi He et.al.|[2506.23094](http://arxiv.org/abs/2506.23094)|null|
@@ -624,6 +635,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**|Yifan Zhong et.al.|[2507.01925](http://arxiv.org/abs/2507.01925)|null|
+|**2025-07-02**|**Token Communication in the Era of Large Models: An Information Bottleneck-Based Approach**|Hao Wei et.al.|[2507.01728](http://arxiv.org/abs/2507.01728)|null|
+|**2025-07-02**|**GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning**|GLM-V Team et.al.|[2507.01006](http://arxiv.org/abs/2507.01006)|null|
+|**2025-07-01**|**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**|Huaqiu Li et.al.|[2507.00790](http://arxiv.org/abs/2507.00790)|null|
+|**2025-06-28**|**MANTA: Cross-Modal Semantic Alignment and Information-Theoretic Optimization for Long-form Multimodal Understanding**|Ziqi Zhong et.al.|[2507.00068](http://arxiv.org/abs/2507.00068)|null|
 |**2025-06-30**|**Unified Multimodal Understanding via Byte-Pair Visual Encoding**|Wanpeng Zhang et.al.|[2506.23639](http://arxiv.org/abs/2506.23639)|null|
 |**2025-07-01**|**Ovis-U1 Technical Report**|Guo-Hua Wang et.al.|[2506.23044](http://arxiv.org/abs/2506.23044)|null|
 |**2025-06-19**|**Evaluating VisualRAG: Quantifying Cross-Modal Performance in Enterprise Document Understanding**|Varun Mannam et.al.|[2506.21604](http://arxiv.org/abs/2506.21604)|null|
@@ -896,6 +912,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**GPU-based complete search for nonlinear minimization subject to bounds**|Guanglu Zhang et.al.|[2507.01770](http://arxiv.org/abs/2507.01770)|null|
+|**2025-07-01**|**HelixPipe: Efficient Distributed Training of Long Sequence Transformers with Attention Parallel Pipeline Parallelism**|Geng Zhang et.al.|[2507.00394](http://arxiv.org/abs/2507.00394)|null|
+|**2025-06-30**|**CrossPipe: Towards Optimal Pipeline Schedules for Cross-Datacenter Training**|Tiancheng Chen et.al.|[2507.00217](http://arxiv.org/abs/2507.00217)|null|
 |**2025-06-29**|**Verifying Properties of Index Arrays in a Purely-Functional Data-Parallel Language**|Nikolaj Hey Hinnerskov et.al.|[2506.23058](http://arxiv.org/abs/2506.23058)|null|
 |**2025-06-27**|**MPipeMoE: Memory Efficient MoE for Pre-trained Models with Adaptive Pipeline Parallelism**|Zheng Zhang et.al.|[2506.22175](http://arxiv.org/abs/2506.22175)|null|
 |**2025-06-27**|**SiPipe: Bridging the CPU-GPU Utilization Gap for Efficient Pipeline-Parallel LLM Inference**|Yongchao He et.al.|[2506.22033](http://arxiv.org/abs/2506.22033)|null|
