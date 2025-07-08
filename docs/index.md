@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/abs/2507.05240)|null|
+|**2025-07-07**|**Bridging Expressivity and Scalability with Adaptive Unitary SSMs**|Arjun Karuvally et.al.|[2507.05238](http://arxiv.org/abs/2507.05238)|null|
+|**2025-07-07**|**LOOM-Scope: a comprehensive and efficient LOng-cOntext Model evaluation framework**|Zecheng Tang et.al.|[2507.04723](http://arxiv.org/abs/2507.04723)|null|
+|**2025-07-07**|**FindRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation**|Maolin Wang et.al.|[2507.04651](http://arxiv.org/abs/2507.04651)|null|
+|**2025-07-06**|**DC-Mamber: A Dual Channel Prediction Model based on Mamba and Linear Transformer for Multivariate Time Series Forecasting**|Bing Fan et.al.|[2507.04381](http://arxiv.org/abs/2507.04381)|null|
+|**2025-07-06**|**MPQ-DMv2: Flexible Residual Mixed Precision Quantization for Low-Bit Diffusion Models with Temporal Distillation**|Weilun Feng et.al.|[2507.04290](http://arxiv.org/abs/2507.04290)|null|
+|**2025-07-06**|**Scaling Context Requires Rethinking Attention**|Carles Gelada et.al.|[2507.04239](http://arxiv.org/abs/2507.04239)|null|
+|**2025-07-04**|**Degrees of Freedom for Linear Attention: Distilling Softmax Attention with Optimal Feature Efficiency**|Naoki Nishikawa et.al.|[2507.03340](http://arxiv.org/abs/2507.03340)|null|
+|**2025-07-03**|**HGCA: Hybrid GPU-CPU Attention for Long Context LLM Inference**|Weishu Deng et.al.|[2507.03153](http://arxiv.org/abs/2507.03153)|null|
+|**2025-07-03**|**Monitoring of Static Fairness**|Thomas A. Henzinger et.al.|[2507.03048](http://arxiv.org/abs/2507.03048)|null|
 |**2025-07-03**|**Understanding and Improving Length Generalization in Recurrent Models**|Ricardo Buitrago Ruiz et.al.|[2507.02782](http://arxiv.org/abs/2507.02782)|null|
 |**2025-07-02**|**Low-Perplexity LLM-Generated Sequences and Where To Find Them**|Arthur Wuhrmann et.al.|[2507.01844](http://arxiv.org/abs/2507.01844)|null|
 |**2025-07-02**|**TrackingMiM: Efficient Mamba-in-Mamba Serialization for Real-time UAV Object Tracking**|Bingxi Liu et.al.|[2507.01535](http://arxiv.org/abs/2507.01535)|null|
@@ -636,6 +646,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**ReLoop: "Seeing Twice and Thinking Backwards" via Closed-loop Training to Mitigate Hallucinations in Multimodal understanding**|Jianjiang Yang et.al.|[2507.04943](http://arxiv.org/abs/2507.04943)|null|
+|**2025-07-06**|**MOMENTS: A Comprehensive Multimodal Benchmark for Theory of Mind**|Emilio Villa-Cueva et.al.|[2507.04415](http://arxiv.org/abs/2507.04415)|null|
+|**2025-07-05**|**Navigating Speech Recording Collections with AI-Generated Illustrations**|Sirina Håland et.al.|[2507.04182](http://arxiv.org/abs/2507.04182)|null|
 |**2025-07-03**|**MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real**|Renhao Wang et.al.|[2507.02864](http://arxiv.org/abs/2507.02864)|null|
 |**2025-07-02**|**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**|Yifan Zhong et.al.|[2507.01925](http://arxiv.org/abs/2507.01925)|null|
 |**2025-07-02**|**Token Communication in the Era of Large Models: An Information Bottleneck-Based Approach**|Hao Wei et.al.|[2507.01728](http://arxiv.org/abs/2507.01728)|null|
@@ -650,6 +663,7 @@ layout: default
 |**2025-07-01**|**A Dataset for Enhancing MLLMs in Visualization Understanding and Reconstruction**|Can Liu et.al.|[2506.21319](http://arxiv.org/abs/2506.21319)|null|
 |**2025-06-26**|**Instella-T2I: Pushing the Limits of 1D Discrete Latent Space Image Generation**|Ze Wang et.al.|[2506.21022](http://arxiv.org/abs/2506.21022)|null|
 |**2025-06-25**|**UniCode $^2$ : Cascaded Large-scale Codebooks for Unified Multimodal Understanding and Generation**|Yanzhe Chen et.al.|[2506.20214](http://arxiv.org/abs/2506.20214)|null|
+|**2025-07-07**|**PEVLM: Parallel Encoding for Vision-Language Models**|Letian Kang et.al.|[2506.19651](http://arxiv.org/abs/2506.19651)|null|
 |**2025-06-25**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/abs/2506.18871)|null|
 |**2025-06-22**|**ShareGPT-4o-Image: Aligning Multimodal Models with GPT-4o-Level Image Generation**|Junying Chen et.al.|[2506.18095](http://arxiv.org/abs/2506.18095)|null|
 |**2025-06-22**|**PlanMoGPT: Flow-Enhanced Progressive Planning for Text to Motion Synthesis**|Chuhao Jin et.al.|[2506.17912](http://arxiv.org/abs/2506.17912)|null|
@@ -914,8 +928,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-04**|**RVISmith: Fuzzing Compilers for RVV Intrinsics**|Yibo He et.al.|[2507.03773](http://arxiv.org/abs/2507.03773)|null|
+|**2025-07-03**|**DistZO2: High-Throughput and Memory-Efficient Zeroth-Order Fine-tuning LLMs with Distributed Parallel Computing**|Liangyu Wang et.al.|[2507.03211](http://arxiv.org/abs/2507.03211)|null|
+|**2025-07-03**|**Characterizing Compute-Communication Overlap in GPU-Accelerated Distributed Deep Learning: Performance and Power Implications**|Seonho Lee et.al.|[2507.03114](http://arxiv.org/abs/2507.03114)|null|
 |**2025-07-03**|**FlowSpec: Continuous Pipelined Speculative Decoding for Efficient Distributed LLM Inference**|Xing Liu et.al.|[2507.02620](http://arxiv.org/abs/2507.02620)|null|
-|**2025-07-02**|**GPU-based complete search for nonlinear minimization subject to bounds**|Guanglu Zhang et.al.|[2507.01770](http://arxiv.org/abs/2507.01770)|null|
+|**2025-07-07**|**GPU-based complete search for nonlinear minimization subject to bounds**|Guanglu Zhang et.al.|[2507.01770](http://arxiv.org/abs/2507.01770)|null|
 |**2025-07-01**|**HelixPipe: Efficient Distributed Training of Long Sequence Transformers with Attention Parallel Pipeline Parallelism**|Geng Zhang et.al.|[2507.00394](http://arxiv.org/abs/2507.00394)|null|
 |**2025-06-30**|**CrossPipe: Towards Optimal Pipeline Schedules for Cross-Datacenter Training**|Tiancheng Chen et.al.|[2507.00217](http://arxiv.org/abs/2507.00217)|null|
 |**2025-06-29**|**Verifying Properties of Index Arrays in a Purely-Functional Data-Parallel Language**|Nikolaj Hey Hinnerskov et.al.|[2506.23058](http://arxiv.org/abs/2506.23058)|null|
