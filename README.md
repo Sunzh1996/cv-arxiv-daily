@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**QS4D: Quantization-aware training for efficient hardware deployment of structured state-space sequential models**|Sebastian Siegel et.al.|[2507.06079](http://arxiv.org/abs/2507.06079)|null|
 |**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/abs/2507.05240)|null|
 |**2025-07-07**|**Bridging Expressivity and Scalability with Adaptive Unitary SSMs**|Arjun Karuvally et.al.|[2507.05238](http://arxiv.org/abs/2507.05238)|null|
 |**2025-07-07**|**LOOM-Scope: a comprehensive and efficient LOng-cOntext Model evaluation framework**|Zecheng Tang et.al.|[2507.04723](http://arxiv.org/abs/2507.04723)|null|
@@ -653,6 +654,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
+|**2025-07-08**|**Graph Learning**|Feng Xia et.al.|[2507.05636](http://arxiv.org/abs/2507.05636)|null|
 |**2025-07-07**|**ReLoop: "Seeing Twice and Thinking Backwards" via Closed-loop Training to Mitigate Hallucinations in Multimodal understanding**|Jianjiang Yang et.al.|[2507.04943](http://arxiv.org/abs/2507.04943)|null|
 |**2025-07-06**|**MOMENTS: A Comprehensive Multimodal Benchmark for Theory of Mind**|Emilio Villa-Cueva et.al.|[2507.04415](http://arxiv.org/abs/2507.04415)|null|
 |**2025-07-05**|**Navigating Speech Recording Collections with AI-Generated Illustrations**|Sirina Håland et.al.|[2507.04182](http://arxiv.org/abs/2507.04182)|null|
@@ -937,6 +940,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Jigsaw: Training Multi-Billion-Parameter AI Weather Models with Optimized Model Parallelism**|Deifilia Kieckhefen et.al.|[2507.05753](http://arxiv.org/abs/2507.05753)|null|
+|**2025-07-07**|**Beyond Communication Overhead: A Multilevel Monte Carlo Approach for Mitigating Compression Bias in Distributed Learning**|Ze'ev Zukerman et.al.|[2507.05508](http://arxiv.org/abs/2507.05508)|null|
 |**2025-07-04**|**RVISmith: Fuzzing Compilers for RVV Intrinsics**|Yibo He et.al.|[2507.03773](http://arxiv.org/abs/2507.03773)|null|
 |**2025-07-03**|**DistZO2: High-Throughput and Memory-Efficient Zeroth-Order Fine-tuning LLMs with Distributed Parallel Computing**|Liangyu Wang et.al.|[2507.03211](http://arxiv.org/abs/2507.03211)|null|
 |**2025-07-03**|**Characterizing Compute-Communication Overlap in GPU-Accelerated Distributed Deep Learning: Performance and Power Implications**|Seonho Lee et.al.|[2507.03114](http://arxiv.org/abs/2507.03114)|null|
