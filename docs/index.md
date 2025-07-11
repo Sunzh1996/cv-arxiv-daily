@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**|Jeongseok Hyun et.al.|[2507.07990](http://arxiv.org/abs/2507.07990)|null|
+|**2025-07-10**|**DMF2Mel: A Dynamic Multiscale Fusion Network for EEG-Driven Mel Spectrogram Reconstruction**|Cunhang Fan et.al.|[2507.07526](http://arxiv.org/abs/2507.07526)|null|
+|**2025-07-10**|**KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent Workflows**|Zaifeng Pan et.al.|[2507.07400](http://arxiv.org/abs/2507.07400)|null|
+|**2025-07-07**|**Helix Parallelism: Rethinking Sharding Strategies for Interactive Multi-Million-Token LLM Decoding**|Nidhi Bhatia et.al.|[2507.07120](http://arxiv.org/abs/2507.07120)|null|
 |**2025-07-09**|**LOVON: Legged Open-Vocabulary Object Navigator**|Daojie Peng et.al.|[2507.06747](http://arxiv.org/abs/2507.06747)|null|
 |**2025-07-09**|**SpindleKV: A Novel KV Cache Reduction Method Balancing Both Shallow and Deep Layers**|Zicong Tang et.al.|[2507.06517](http://arxiv.org/abs/2507.06517)|null|
 |**2025-07-08**|**A Systematic Analysis of Hybrid Linear Attention**|Dustin Wang et.al.|[2507.06457](http://arxiv.org/abs/2507.06457)|null|
@@ -937,6 +941,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Exploiting Edge Features for Transferable Adversarial Attacks in Distributed Machine Learning**|Giulio Rossolini et.al.|[2507.07259](http://arxiv.org/abs/2507.07259)|null|
+|**2025-07-07**|**Helix Parallelism: Rethinking Sharding Strategies for Interactive Multi-Million-Token LLM Decoding**|Nidhi Bhatia et.al.|[2507.07120](http://arxiv.org/abs/2507.07120)|null|
 |**2025-07-08**|**Jigsaw: Training Multi-Billion-Parameter AI Weather Models with Optimized Model Parallelism**|Deifilia Kieckhefen et.al.|[2507.05753](http://arxiv.org/abs/2507.05753)|null|
 |**2025-07-07**|**Beyond Communication Overhead: A Multilevel Monte Carlo Approach for Mitigating Compression Bias in Distributed Learning**|Ze'ev Zukerman et.al.|[2507.05508](http://arxiv.org/abs/2507.05508)|null|
 |**2025-07-04**|**RVISmith: Fuzzing Compilers for RVV Intrinsics**|Yibo He et.al.|[2507.03773](http://arxiv.org/abs/2507.03773)|null|
