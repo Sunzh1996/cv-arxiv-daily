@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -32,7 +32,7 @@ layout: default
 |**2025-07-09**|**LOVON: Legged Open-Vocabulary Object Navigator**|Daojie Peng et.al.|[2507.06747](http://arxiv.org/abs/2507.06747)|null|
 |**2025-07-09**|**SpindleKV: A Novel KV Cache Reduction Method Balancing Both Shallow and Deep Layers**|Zicong Tang et.al.|[2507.06517](http://arxiv.org/abs/2507.06517)|null|
 |**2025-07-08**|**A Systematic Analysis of Hybrid Linear Attention**|Dustin Wang et.al.|[2507.06457](http://arxiv.org/abs/2507.06457)|null|
-|**2025-07-08**|**ETT: Expanding the Long Context Understanding Capability of LLMs at Test-Time**|Kiarash Zahirnia et.al.|[2507.06313](http://arxiv.org/abs/2507.06313)|null|
+|**2025-07-15**|**ETT: Expanding the Long Context Understanding Capability of LLMs at Test-Time**|Kiarash Zahirnia et.al.|[2507.06313](http://arxiv.org/abs/2507.06313)|null|
 |**2025-07-08**|**QS4D: Quantization-aware training for efficient hardware deployment of structured state-space sequential models**|Sebastian Siegel et.al.|[2507.06079](http://arxiv.org/abs/2507.06079)|null|
 |**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/abs/2507.05240)|null|
 |**2025-07-07**|**Bridging Expressivity and Scalability with Adaptive Unitary SSMs**|Arjun Karuvally et.al.|[2507.05238](http://arxiv.org/abs/2507.05238)|null|
