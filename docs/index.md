@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -961,7 +961,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-16**|**FourCastNet 3: A geometric approach to probabilistic machine-learning weather forecasting at scale**|Boris Bonev et.al.|[2507.12144](http://arxiv.org/abs/2507.12144)|null|
+|**2025-07-18**|**FourCastNet 3: A geometric approach to probabilistic machine-learning weather forecasting at scale**|Boris Bonev et.al.|[2507.12144](http://arxiv.org/abs/2507.12144)|null|
 |**2025-07-15**|**PGT-I: Scaling Spatiotemporal GNNs with Memory-Efficient Distributed Training**|Seth Ockerman et.al.|[2507.11683](http://arxiv.org/abs/2507.11683)|null|
 |**2025-07-15**|**Generating Dynamic Graph Algorithms for Multiple Backends for a Graph DSL**|Nibedita Behera et.al.|[2507.11094](http://arxiv.org/abs/2507.11094)|null|
 |**2025-07-16**|**Compilation of QCrank Encoding Algorithm for a Dynamically Programmable Qubit Array Processor**|Jan Balewski et.al.|[2507.10699](http://arxiv.org/abs/2507.10699)|null|
