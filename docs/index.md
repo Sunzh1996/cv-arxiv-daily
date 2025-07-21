@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**LoopServe: An Adaptive Dual-phase LLM Inference Acceleration System for Multi-Turn Dialogues**|Haoyang Li et.al.|[2507.13681](http://arxiv.org/abs/2507.13681)|null|
+|**2025-07-17**|**Apple Intelligence Foundation Language Models: Tech Report 2025**|Hanzhi Zhou et.al.|[2507.13575](http://arxiv.org/abs/2507.13575)|null|
 |**2025-07-16**|**Evaluation of Neural Surrogates for Physical Modelling Synthesis of Nonlinear Elastic Plates**|Carlos De La Vega Martin et.al.|[2507.12563](http://arxiv.org/abs/2507.12563)|null|
 |**2025-07-16**|**IAM: Efficient Inference through Attention Mapping between Different-scale LLMs**|Yi Zhao et.al.|[2507.11953](http://arxiv.org/abs/2507.11953)|null|
 |**2025-07-15**|**MIRAGE: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving**|Ruihao Li et.al.|[2507.11507](http://arxiv.org/abs/2507.11507)|null|
@@ -961,6 +963,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Checkmate: Zero-Overhead Model Checkpointing via Network Gradient Replication**|Ankit Bhardwaj et.al.|[2507.13522](http://arxiv.org/abs/2507.13522)|null|
 |**2025-07-18**|**FourCastNet 3: A geometric approach to probabilistic machine-learning weather forecasting at scale**|Boris Bonev et.al.|[2507.12144](http://arxiv.org/abs/2507.12144)|null|
 |**2025-07-15**|**PGT-I: Scaling Spatiotemporal GNNs with Memory-Efficient Distributed Training**|Seth Ockerman et.al.|[2507.11683](http://arxiv.org/abs/2507.11683)|null|
 |**2025-07-15**|**Generating Dynamic Graph Algorithms for Multiple Backends for a Graph DSL**|Nibedita Behera et.al.|[2507.11094](http://arxiv.org/abs/2507.11094)|null|
