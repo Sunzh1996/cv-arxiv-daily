@@ -19,6 +19,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**GCC: A 3DGS Inference Architecture with Gaussian-Wise and Cross-Stage Conditional Processing**|Minnan Pei et.al.|[2507.15300](http://arxiv.org/abs/2507.15300)|null|
+|**2025-07-20**|**Evaluation of Coding Schemes for Transformer-based Gene Sequence Modeling**|Chenlei Gong et.al.|[2507.15087](http://arxiv.org/abs/2507.15087)|null|
+|**2025-07-20**|**FastLongSpeech: Enhancing Large Speech-Language Models for Efficient Long-Speech Processing**|Shoutao Guo et.al.|[2507.14815](http://arxiv.org/abs/2507.14815)|null|
+|**2025-07-19**|**GRACE: Generative Recommendation via Journey-Aware Sparse Attention on Chain-of-Thought Tokenization**|Luyi Ma et.al.|[2507.14758](http://arxiv.org/abs/2507.14758)|null|
+|**2025-07-19**|**Task-Agnostic Continual Prompt Tuning with Gradient-Based Selection and Decoding**|Anushka Tiwari et.al.|[2507.14725](http://arxiv.org/abs/2507.14725)|null|
+|**2025-07-14**|**LaCache: Ladder-Shaped KV Caching for Efficient Long-Context Modeling of Large Language Models**|Dachuan Shi et.al.|[2507.14204](http://arxiv.org/abs/2507.14204)|null|
 |**2025-07-18**|**LoopServe: An Adaptive Dual-phase LLM Inference Acceleration System for Multi-Turn Dialogues**|Haoyang Li et.al.|[2507.13681](http://arxiv.org/abs/2507.13681)|null|
 |**2025-07-17**|**Apple Intelligence Foundation Language Models: Tech Report 2025**|Hanzhi Zhou et.al.|[2507.13575](http://arxiv.org/abs/2507.13575)|null|
 |**2025-07-16**|**Evaluation of Neural Surrogates for Physical Modelling Synthesis of Nonlinear Elastic Plates**|Carlos De La Vega Martin et.al.|[2507.12563](http://arxiv.org/abs/2507.12563)|null|
@@ -679,6 +685,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-20**|**Deep Generative Models in Condition and Structural Health Monitoring: Opportunities, Limitations and Future Outlook**|Xin Yang et.al.|[2507.15026](http://arxiv.org/abs/2507.15026)|null|
+|**2025-07-19**|**Docopilot: Improving Multimodal Models for Document-Level Understanding**|Yuchen Duan et.al.|[2507.14675](http://arxiv.org/abs/2507.14675)|null|
 |**2025-07-16**|**MNO : A Multi-modal Neural Operator for Parametric Nonlinear BVPs**|Vamshi C. Madala et.al.|[2507.11870](http://arxiv.org/abs/2507.11870)|null|
 |**2025-07-14**|**MultiVox: Benchmarking Voice Assistants for Multimodal Interactions**|Ramaneswaran Selvakumar et.al.|[2507.10859](http://arxiv.org/abs/2507.10859)|null|
 |**2025-07-14**|**Quantize-then-Rectify: Efficient VQ-VAE Training**|Borui Zhang et.al.|[2507.10547](http://arxiv.org/abs/2507.10547)|null|
@@ -972,6 +980,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-19**|**Towards a Proactive Autoscaling Framework for Data Stream Processing at the Edge using GRU and Transfer Learning**|Eugene Armah et.al.|[2507.14597](http://arxiv.org/abs/2507.14597)|null|
+|**2025-07-18**|**Characterizing Communication Patterns in Distributed Large Language Model Inference**|Lang Xu et.al.|[2507.14392](http://arxiv.org/abs/2507.14392)|null|
 |**2025-07-17**|**Checkmate: Zero-Overhead Model Checkpointing via Network Gradient Replication**|Ankit Bhardwaj et.al.|[2507.13522](http://arxiv.org/abs/2507.13522)|null|
 |**2025-07-18**|**FourCastNet 3: A geometric approach to probabilistic machine-learning weather forecasting at scale**|Boris Bonev et.al.|[2507.12144](http://arxiv.org/abs/2507.12144)|null|
 |**2025-07-20**|**PGT-I: Scaling Spatiotemporal GNNs with Memory-Efficient Distributed Training**|Seth Ockerman et.al.|[2507.11683](http://arxiv.org/abs/2507.11683)|null|
