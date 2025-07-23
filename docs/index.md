@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning**|Hongyin Luo et.al.|[2507.16784](http://arxiv.org/abs/2507.16784)|null|
+|**2025-07-22**|**AtrousMamaba: An Atrous-Window Scanning Visual State Space Model for Remote Sensing Change Detection**|Tao Wang et.al.|[2507.16172](http://arxiv.org/abs/2507.16172)|null|
+|**2025-07-22**|**LongSplat: Online Generalizable 3D Gaussian Splatting from Long Sequence Images**|Guichen Huang et.al.|[2507.16144](http://arxiv.org/abs/2507.16144)|null|
 |**2025-07-22**|**GCC: A 3DGS Inference Architecture with Gaussian-Wise and Cross-Stage Conditional Processing**|Minnan Pei et.al.|[2507.15300](http://arxiv.org/abs/2507.15300)|null|
 |**2025-07-20**|**Evaluation of Coding Schemes for Transformer-based Gene Sequence Modeling**|Chenlei Gong et.al.|[2507.15087](http://arxiv.org/abs/2507.15087)|null|
 |**2025-07-20**|**FastLongSpeech: Enhancing Large Speech-Language Models for Efficient Long-Speech Processing**|Shoutao Guo et.al.|[2507.14815](http://arxiv.org/abs/2507.14815)|null|
@@ -678,6 +681,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Generative Diffusion Models for Wireless Networks: Fundamental, Architecture, and State-of-the-Art**|Dayu Fan et.al.|[2507.16733](http://arxiv.org/abs/2507.16733)|null|
+|**2025-07-22**|**Self-Contradiction as Self-Improvement: Mitigating the Generation-Understanding Gap in MLLMs**|Yujin Han et.al.|[2507.16663](http://arxiv.org/abs/2507.16663)|null|
 |**2025-07-20**|**Deep Generative Models in Condition and Structural Health Monitoring: Opportunities, Limitations and Future Outlook**|Xin Yang et.al.|[2507.15026](http://arxiv.org/abs/2507.15026)|null|
 |**2025-07-19**|**Docopilot: Improving Multimodal Models for Document-Level Understanding**|Yuchen Duan et.al.|[2507.14675](http://arxiv.org/abs/2507.14675)|null|
 |**2025-07-16**|**MNO : A Multi-modal Neural Operator for Parametric Nonlinear BVPs**|Vamshi C. Madala et.al.|[2507.11870](http://arxiv.org/abs/2507.11870)|null|
@@ -971,6 +976,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**A Sparsity-Aware Autonomous Path Planning Accelerator with HW/SW Co-Design and Multi-Level Dataflow Optimization**|Yifan Zhang et.al.|[2507.16177](http://arxiv.org/abs/2507.16177)|null|
 |**2025-07-19**|**Towards a Proactive Autoscaling Framework for Data Stream Processing at the Edge using GRU and Transfer Learning**|Eugene Armah et.al.|[2507.14597](http://arxiv.org/abs/2507.14597)|null|
 |**2025-07-18**|**Characterizing Communication Patterns in Distributed Large Language Model Inference**|Lang Xu et.al.|[2507.14392](http://arxiv.org/abs/2507.14392)|null|
 |**2025-07-17**|**Checkmate: Zero-Overhead Model Checkpointing via Network Gradient Replication**|Ankit Bhardwaj et.al.|[2507.13522](http://arxiv.org/abs/2507.13522)|null|
