@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**SiLQ: Simple Large Language Model Quantization-Aware Training**|Steven K. Esser et.al.|[2507.16933](http://arxiv.org/abs/2507.16933)|null|
 |**2025-07-22**|**Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning**|Hongyin Luo et.al.|[2507.16784](http://arxiv.org/abs/2507.16784)|null|
 |**2025-07-22**|**AtrousMamaba: An Atrous-Window Scanning Visual State Space Model for Remote Sensing Change Detection**|Tao Wang et.al.|[2507.16172](http://arxiv.org/abs/2507.16172)|null|
 |**2025-07-22**|**LongSplat: Online Generalizable 3D Gaussian Splatting from Long Sequence Images**|Guichen Huang et.al.|[2507.16144](http://arxiv.org/abs/2507.16144)|null|
@@ -688,6 +689,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Principled Multimodal Representation Learning**|Xiaohao Liu et.al.|[2507.17343](http://arxiv.org/abs/2507.17343)|null|
 |**2025-07-22**|**Generative Diffusion Models for Wireless Networks: Fundamental, Architecture, and State-of-the-Art**|Dayu Fan et.al.|[2507.16733](http://arxiv.org/abs/2507.16733)|null|
 |**2025-07-22**|**Self-Contradiction as Self-Improvement: Mitigating the Generation-Understanding Gap in MLLMs**|Yujin Han et.al.|[2507.16663](http://arxiv.org/abs/2507.16663)|null|
 |**2025-07-20**|**Deep Generative Models in Condition and Structural Health Monitoring: Opportunities, Limitations and Future Outlook**|Xin Yang et.al.|[2507.15026](http://arxiv.org/abs/2507.15026)|null|
